@@ -29,7 +29,7 @@
     "@types/gtag.js": "^0.0.20",
     "@types/node": "^22.18.11",
     "@types/postcss-mixins": "^9.0.6",
-    "@typescript-eslint/eslint-plugin": "^8.46.1",
+    "@typescript-eslint/eslint-plugin": "^8.48.1",
     "@typescript-eslint/parser": "^8.47.0",
     "astro-eslint-parser": "^1.2.2",
     "cli": "^1.0.1",
