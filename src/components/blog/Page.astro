@@ -9,6 +9,8 @@ import Pagination from '~components/Pagination';
 import BaseLayout from '~layouts/BaseLayout.astro';
 import { slug as getSlug } from '~lib/posts';
 
+import externalLinksPlugin from '../../shared/externalLinksPlugin';
+
 import Post from './Post';
 
 import styles from './Page.module.css';
@@ -25,7 +27,9 @@ export const PER_PAGE = 3;
 
 const posts = await getCollection('posts');
 
-const mdParser = await createMarkdownProcessor();
+const mdParser = await createMarkdownProcessor({
+  rehypePlugins: [externalLinksPlugin],
+});
 
 const parseMd = async (source: string, _id: string) => mdParser.render(source);
 

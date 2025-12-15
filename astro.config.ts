@@ -14,15 +14,21 @@ import { resolve } from 'node:path';
 import solidSvg from 'vite-plugin-solid-svg';
 
 import { getLastMods, type LastMods } from './getLatestChanged.js';
+import externalLinksPlugin from './src/shared/externalLinksPlugin.js';
 
 dayjs.extend(minMax);
 
 let lastMods: LastMods;
 
 export default defineConfig({
+  markdown: {
+    rehypePlugins: [externalLinksPlugin],
+  },
   integrations: [
     solid({ devtools: true }),
-    mdx(),
+    mdx({
+      rehypePlugins: [externalLinksPlugin],
+    }),
     sitemap({
       serialize: async (entry) => {
         // To only run this calculation once, but not call it if `serialize` isn't called
