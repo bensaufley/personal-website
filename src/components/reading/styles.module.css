@@ -179,6 +179,17 @@
     .review {
       grid-area: review;
 
+      blockquote {
+        border-left: 0.25rem solid rgb(from currentcolor r g b / 25%);
+        color: rgb(from currentcolor r g b / 85%);
+        padding-left: 0.5rem;
+        transition: border-color 300ms;
+
+        &:hover {
+          border-left-color: rgb(from currentcolor r g b / 50%);
+        }
+      }
+
       p + p,
       p + spoiler:has(p),
       spoiler:has(p) + p {

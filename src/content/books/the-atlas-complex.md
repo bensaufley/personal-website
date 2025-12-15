@@ -28,13 +28,13 @@ narrators:
 yearPublished: 2024
 isbn10: null
 isbn13: '9781250892584'
-asin: null
-coverImageUrl: https://assets.hardcover.app/books/585446/1860522745059758.jpg
-hardcoverUrl: https://hardcover.app/books/the-atlas-complex/editions/31689679
+asin: B0BT8KYTCP
+coverImageUrl: https://assets.hardcover.app/book/585446/6a0c03025b960d1df9c2802c16280838dd8fda44.jpeg
+hardcoverUrl: https://hardcover.app/books/the-atlas-complex/editions/32057546
 series:
   name: The Atlas
   volume: 3
-startedAt: null
+startedAt: 2025-12-07T00:00:00.000Z
 finishedAt: null
 rating: null
 ---

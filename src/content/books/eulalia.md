@@ -5,8 +5,8 @@ authors:
   - lastName: Jacques
     firstName: Brian
 narrators:
-  - lastName: Full Cast
-    firstName: A
+  - lastName: Cast
+    firstName: A Full
 yearPublished: 2007
 isbn10: null
 isbn13: '9781428198999'
