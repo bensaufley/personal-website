@@ -86,7 +86,7 @@
     "knip": "knip",
     "prepare": "husky",
     "books:update": "tsx ./script/update-books.ts",
-    "books:up-next": "tsx ./script/generate-upnext.ts"
+    "books:up-next": "tsx ./script/add-up-next.ts"
   },
   "type": "module",
   "version": "0.0.1"
