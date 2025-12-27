@@ -1,4 +1,3 @@
-/* eslint-disable no-await-in-loop, import/no-extraneous-dependencies */
 import cli from 'cli';
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';

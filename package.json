@@ -51,6 +51,7 @@
     "eslint-plugin-simple-import-sort": "^12.1.1",
     "graphql-request": "^7.3.5",
     "husky": "^9.1.7",
+    "inflection": "^3.0.2",
     "knip": "^5.71.0",
     "lint-staged": "^16.2.4",
     "npm-run-all": "^4.1.5",
@@ -86,7 +87,8 @@
     "knip": "knip",
     "prepare": "husky",
     "books:update": "tsx ./script/update-books.ts",
-    "books:up-next": "tsx ./script/add-up-next.ts"
+    "books:up-next": "tsx ./script/add-up-next.ts",
+    "post:new": "tsx ./script/new-post.ts"
   },
   "type": "module",
   "version": "0.0.1"

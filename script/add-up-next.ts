@@ -1,4 +1,3 @@
-/* eslint-disable no-await-in-loop */
 import cli from 'cli';
 import { request } from 'graphql-request';
 
