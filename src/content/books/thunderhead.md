@@ -16,7 +16,13 @@ hardcoverUrl: https://hardcover.app/books/thunderhead/editions/32387017
 series:
   name: Arc of a Scythe
   volume: 2
-startedAt: null
-finishedAt: null
-rating: null
+startedAt: 2025-12-19T00:00:00.000Z
+finishedAt: 2025-12-21T00:00:00.000Z
+rating: 3.5
 ---
+
+Adequately entertaining. I don't tend to red series immediately in sequence but
+I almost rushed to pick up the next. It's a bit cartoonish, and I think probably
+the premise justifies that even if I do think some of the concepts introduced in
+this series, while fanciful, are fascinating and could probably be explored with
+a bit more seriousness. I'll definitely read the next, soon.
