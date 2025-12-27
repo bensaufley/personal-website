@@ -17,7 +17,7 @@ export interface Paragraph {
 export type ParagraphChild =
   | {
       text: string;
-      object: 'text';
+      object?: 'text';
       italic?: boolean;
       spoiler?: boolean;
     }
@@ -35,7 +35,14 @@ const slateToMd = (slate: ReviewSlate): string =>
         // eslint-disable-next-line array-callback-return, consistent-return
         .map((child, i, arr): string => {
           switch (child.object) {
-            case 'text': {
+            case 'inline':
+              switch (child.type) {
+                case 'br':
+                  return '\n';
+              }
+            // This doesn't actually fall through
+            // eslint-disable-next-line no-fallthrough
+            default: {
               const prev = arr.at(i - 1);
               const next = arr.at(i + 1);
               let { text, italic, spoiler } = child;
@@ -53,15 +60,10 @@ const slateToMd = (slate: ReviewSlate): string =>
               }
               return text;
             }
-            case 'inline':
-              switch (child.type) {
-                case 'br':
-                  return '\n';
-              }
           }
         })
         .join(''),
     )
-    .join('\n') ?? '';
+    .join('\n\n') ?? '';
 
 export default slateToMd;
