@@ -55,7 +55,7 @@
 
   @media (prefers-color-scheme: dark) {
     /* stylelint-disable-next-line nesting-selector-no-missing-scoping-root */
-    &:not(.light) {
+    &:not(:root.light &) {
       @mixin-content;
     }
   }

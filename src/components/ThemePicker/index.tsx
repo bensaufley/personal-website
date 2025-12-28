@@ -20,9 +20,9 @@ const [theme, setTheme] = createSignal<'light' | 'dark' | null>(
 );
 
 createEffect(() => {
-  document.documentElement.classList.remove('light', 'dark');
-
   const t = theme();
+
+  document.documentElement.classList.remove('light', 'dark');
   if (t) document.documentElement.classList.add(t);
 });
 

@@ -61,7 +61,7 @@
 
   color-scheme: light dark;
 
-  @mixin dark {
+  &.dark {
     --navBg: $black;
     --navColor: $white;
     --mainBg: $dark;
@@ -73,5 +73,21 @@
 
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    &:not(.light) {
+      --navBg: $black;
+      --navColor: $white;
+      --mainBg: $dark;
+      --mainColor: $light;
+      --mainLinkColor: $xanthous;
+      --mainLinkHoverColor: $black;
+      --accentColor: $xanthous;
+      --secondaryAccentColor: $fireEngineRed;
+
+      -moz-osx-font-smoothing: grayscale;
+      -webkit-font-smoothing: antialiased;
+    }
   }
 }
