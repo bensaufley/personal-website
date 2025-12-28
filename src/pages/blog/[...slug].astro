@@ -28,7 +28,7 @@ const post = (await getCollection('posts', (p) => slug === getSlug(p)))[0];
 if (!post) throw new Error(`Post not found: ${slug}`);
 
 const {
-  data: { title, date, headerImage, headerImageAlt },
+  data: { title, date, headerImage, headerImageAlt, summary },
 } = post;
 const img = headerImage ? { url: headerImage.src, alt: headerImageAlt! } : undefined;
 const published = dayjs.utc(date).startOf('day');
@@ -36,7 +36,7 @@ const published = dayjs.utc(date).startOf('day');
 const { Content } = await post.render();
 ---
 
-<BaseLayout title={title} image={img?.url}>
+<BaseLayout title={title} image={img?.url} description={summary}>
   <Post title={title} posted={published} headerImage={img}>
     <Content />
   </Post>
