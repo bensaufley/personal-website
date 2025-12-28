@@ -63,6 +63,9 @@ jobs:
           name: ci-scripts
           path: ./script/ci
 
+      - name: Make Scripts Executable
+        run: chmod +x ./script/ci/*
+
       - name: Deploy via FTP
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}
