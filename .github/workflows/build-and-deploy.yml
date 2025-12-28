@@ -36,6 +36,14 @@ jobs:
           NODE_ENV: production
         run: npm run build
 
+      - name: Upload CI Scripts
+        uses: actions/upload-artifact@v5
+        with:
+          name: ci-scripts
+          path: ./script/ci
+          include-hidden-files: true
+          retention-days: 3
+
       - name: Upload Build Artifacts
         uses: actions/upload-artifact@v5
         with:
@@ -55,19 +63,17 @@ jobs:
           name: website-build
           path: ./dist
 
+      - name: Download CI Scripts
+        uses: actions/download-artifact@v6
+        with:
+          name: ci-scripts
+          path: ./script/ci
+
       - name: Deploy via FTP
-        run: |
-          printf "${{ secrets.FTP_PASSWORD }}" > .ftp-credentials
-          chmod 600 .ftp-credentials
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          FTP_ROOT_PATH: ${{ secrets.FTP_ROOT_PATH }}
+        run: ./script/ci/deploy.sh
 
-          mkdir -p ~/.ssh
-          ssh-keyscan -H ${{ secrets.FTP_HOST }} >> ~/.ssh/known_hosts
-          chmod 600 ~/.ssh/known_hosts
-
-          sshpass -f ./.ftp-credentials \
-            rsync \
-              -avzh --delete --checksum \
-              ./dist/ \
-              "${{ secrets.FTP_USER }}@${{ secrets.FTP_HOST }}:${{ secrets.FTP_ROOT_PATH }}"
-
-          rm -f .ftp-credentials
