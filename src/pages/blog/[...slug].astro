@@ -36,7 +36,7 @@ const published = dayjs.utc(date).startOf('day');
 const { Content } = await post.render();
 ---
 
-<BaseLayout title={title}>
+<BaseLayout title={title} image={img?.url}>
   <Post title={title} posted={published} headerImage={img}>
     <Content />
   </Post>

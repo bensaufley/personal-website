@@ -19,6 +19,7 @@ type ConditionalProps = (
 ) & {
   title: string;
   description?: string | undefined;
+  image?: string | undefined;
 };
 
 export type Props = ConditionalProps & {
@@ -27,7 +28,7 @@ export type Props = ConditionalProps & {
 
 let pathname: string;
 const { class: className } = Astro.props;
-const { title, description } = Astro.props;
+const { title, description, image } = Astro.props;
 if ('url' in Astro.props) {
   ({ url: pathname } = Astro.props);
 } else if (Astro.props.request) {
@@ -66,6 +67,7 @@ if ('url' in Astro.props) {
       content={description ??
         'Personal website for Ben Saufley, a software engineer and illustrator from Portland, Maine.'}
     />
+    {image && <meta name="og:image" content={image} />}
   </head>
   <body class={clsx(className)}>
     <Header currentPath={pathname} />
