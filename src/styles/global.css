@@ -30,6 +30,10 @@ body {
     padding: 0 1rem;
     width: stretch;
 
+    * {
+      scroll-margin-top: 5rem;
+    }
+
     p,
     ul,
     ol,
