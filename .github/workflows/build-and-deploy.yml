@@ -18,15 +18,10 @@ jobs:
         with:
           fetch-depth: 10_000
 
-      - name: Get Node Version
-        id: node-version
-        run: |
-          echo "node-version=$(cat .node-version)" >> $GITHUB_OUTPUT
-
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6
         with:
-          node-version: ${{ steps.node-version.outputs.node-version }}
+          node-version-file: .node-version
 
       - name: Install Dependencies
         run: npm ci
@@ -67,10 +62,6 @@ jobs:
         with:
           name: ci-scripts
           path: ./script/ci
-
-      - name: Debug
-        run: |
-          ls -R1 .
 
       - name: Deploy via FTP
         env:
