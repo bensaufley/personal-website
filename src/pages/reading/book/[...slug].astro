@@ -51,7 +51,19 @@ const bookPage =
   1;
 ---
 
-<BaseLayout url={`/reading/book/${slug}`} title={book.title}>
+<BaseLayout
+  url={`/reading/book/${slug}`}
+  title={book.title}
+  image={book.coverImageUrl ?? undefined}
+  openGraph={{
+    basic: {
+      type: 'article',
+    },
+    article: {
+      publishedTime: dayjs.utc(book.finishedAt ?? book.startedAt).format('YYYY-MM-DD'),
+    },
+  }}
+>
   <div class={styles.bookReview}>
     {book.coverImageUrl && <img src={book.coverImageUrl} alt={`Cover of ${book.title}`} class={styles.coverImage} />}
     <h2>{book.title}</h2>

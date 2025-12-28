@@ -36,7 +36,19 @@ const published = dayjs.utc(date).startOf('day');
 const { Content } = await post.render();
 ---
 
-<BaseLayout title={title} image={img?.url} description={summary}>
+<BaseLayout
+  title={title}
+  image={img?.url}
+  description={summary}
+  openGraph={{
+    basic: {
+      type: 'article',
+    },
+    article: {
+      publishedTime: dayjs.utc(date).format('YYYY-MM-DD'),
+    },
+  }}
+>
   <Post title={title} posted={published} headerImage={img}>
     <Content />
   </Post>
