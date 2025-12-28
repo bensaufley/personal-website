@@ -36,20 +36,19 @@ jobs:
           NODE_ENV: production
         run: npm run build
 
-      - name: Upload CI Scripts
-        uses: actions/upload-artifact@v5
-        with:
-          name: ci-scripts
-          path: ./script/ci
-          include-hidden-files: true
-          retention-days: 3
-
       - name: Upload Build Artifacts
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: website-build
           path: ./dist
           include-hidden-files: true
+          retention-days: 3
+
+      - name: Upload CI Scripts
+        uses: actions/upload-artifact@v6
+        with:
+          name: ci-scripts
+          path: ./script/ci
           retention-days: 3
 
   deploy:
@@ -58,13 +57,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download Build Artifacts
-        uses: actions/download-artifact@v6
+        uses: actions/download-artifact@v7
         with:
           name: website-build
           path: ./dist
 
       - name: Download CI Scripts
-        uses: actions/download-artifact@v6
+        uses: actions/download-artifact@v7
         with:
           name: ci-scripts
           path: ./script/ci
