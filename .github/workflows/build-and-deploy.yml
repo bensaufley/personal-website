@@ -76,4 +76,3 @@ jobs:
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
           FTP_ROOT_PATH: ${{ secrets.FTP_ROOT_PATH }}
         run: ./script/ci/deploy.sh
-
