@@ -7,11 +7,12 @@ import { stringify as toYaml } from 'yaml';
 cli.setUsage('post:new [-d YYYY-MM-DD] [-x] "Post Title"');
 const args = cli.parse({
   date: ['d', 'Date for the post (YYYY-MM-DD) - defaults to today', 'date', new Date()],
-  mdx: ['x', 'Create as .mdx file instead of .md', 'true'],
+  mdx: ['x', 'Create as .mdx file instead of .md', 'bool', false],
+  open: ['o', 'Open the new post in the default editor after creation', 'bool', false],
 });
 
 const date = (args.date as Date).toISOString().split('T')[0];
-const [title] = cli.args;
+const title = cli.args.join(' ').trim();
 
 if (!title) {
   cli.error('Title is required');
@@ -27,7 +28,7 @@ const content = `---
 ${toYaml({
   title,
   date,
-})}
+}).trim()}
 ---
 
 `;
@@ -35,3 +36,6 @@ ${toYaml({
 await writeFile(filename, content, 'utf-8');
 
 console.log(`Created new post at ${relativePath}`);
+if (args.open) {
+  cli.exec(`open "${filename}"`);
+}
