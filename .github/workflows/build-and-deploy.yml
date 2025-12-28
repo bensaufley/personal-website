@@ -68,6 +68,10 @@ jobs:
           name: ci-scripts
           path: ./script/ci
 
+      - name: Debug
+        run: |
+          ls -R1 .
+
       - name: Deploy via FTP
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}
