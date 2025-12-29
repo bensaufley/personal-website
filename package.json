@@ -16,7 +16,7 @@
     "postcss-mixins": "^12.1.2",
     "postcss-preset-env": "^10.4.0",
     "postcss-simple-vars": "^7.0.1",
-    "simple-icons": "^15.22.0",
+    "simple-icons": "^16.3.0",
     "solid-js": "^1.9.10",
     "vite": "^7.1.12",
     "vite-plugin-solid-svg": "^0.8.1"
