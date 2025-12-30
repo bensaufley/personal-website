@@ -2,7 +2,6 @@
 /// <reference types="vite/client" />
 /// <reference types="vite-plugin-solid-svg/types" />
 
-/* eslint-disable import/no-extraneous-dependencies */
 import mdx from '@astrojs/mdx';
 import partytown from '@astrojs/partytown';
 import sitemap from '@astrojs/sitemap';

@@ -11,11 +11,11 @@ interface Props {
 
 // only using ParentComponent to allow the children prop for the Astro fallback;
 // the actual Solid component doesn't use it.
-const Skills: ParentComponent<Props> = ({ initialShowIcons }) => {
-  const [showIcons, setShowIcons] = createSignal(initialShowIcons ?? false);
+const Skills: ParentComponent<Props> = (props) => {
+  const [showIcons, setShowIcons] = createSignal(props.initialShowIcons ?? false);
 
   onMount(() => {
-    if (initialShowIcons !== undefined) return;
+    if (props.initialShowIcons !== undefined) return;
     setShowIcons(typeof window !== 'undefined');
   });
 

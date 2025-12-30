@@ -32,7 +32,7 @@ const slateToMd = (slate: ReviewSlate): string =>
   slate.document?.children
     .flatMap((para) =>
       para.children
-        // eslint-disable-next-line array-callback-return, consistent-return
+
         .map((child, i, arr): string => {
           switch (child.object) {
             case 'inline':

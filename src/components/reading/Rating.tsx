@@ -1,5 +1,5 @@
 import clsx from 'clsx';
-import { createSignal, onCleanup, onMount } from 'solid-js';
+import { createSignal, onCleanup, onMount, Show } from 'solid-js';
 
 import styles from './styles.module.css';
 
@@ -9,7 +9,7 @@ const formatter = Intl.NumberFormat('en-US', {
   maximumFractionDigits: 2,
 });
 
-const Rating = ({ rating }: { rating: number | null }) => {
+const Rating = (props: { rating: number | null }) => {
   const [shown, setShown] = createSignal(false);
 
   let ref: HTMLDivElement | undefined;
@@ -31,15 +31,15 @@ const Rating = ({ rating }: { rating: number | null }) => {
     if (ref) observer?.unobserve(ref);
   });
 
-  if (!rating) return null;
-
   return (
-    <div
-      ref={ref}
-      class={clsx(styles.rating, shown() && styles.visible)}
-      style={`--rating: ${rating}`}
-      title={`Rating: ${formatter.format(rating)} / 5`}
-    />
+    <Show when={props.rating !== null}>
+      <div
+        ref={ref}
+        class={clsx(styles.rating, shown() && styles.visible)}
+        style={{ '--rating': props.rating! }}
+        title={`Rating: ${formatter.format(props.rating!)} / 5`}
+      />
+    </Show>
   );
 };
 

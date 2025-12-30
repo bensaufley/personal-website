@@ -24,13 +24,18 @@ if (import.meta.env.DEV) {
   await import('solid-devtools');
 }
 
-const SkillSet: VoidComponent<Props> = ({ title, showIcons, skills }) => (
+const SkillSet: VoidComponent<Props> = (props) => (
   <section class={styles.skillSet}>
-    <h4>{title}</h4>
+    <h4>{props.title}</h4>
     <div class={styles.list}>
-      <For each={skills}>
+      <For each={props.skills}>
         {(skill, i) => (
-          <Skill index={i()} group={title} showIcons={showIcons} skills={Array.isArray(skill) ? skill : [skill]} />
+          <Skill
+            index={i()}
+            group={props.title}
+            showIcons={props.showIcons}
+            skills={Array.isArray(skill) ? skill : [skill]}
+          />
         )}
       </For>
     </div>

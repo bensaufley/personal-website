@@ -3,8 +3,9 @@ import { createSignal, type ParentProps } from 'solid-js';
 
 import styles from './styles.module.css';
 
-const Spoiler = ({ children, hide: initialHide = true }: ParentProps<{ hide?: boolean }>) => {
-  const [hide, setHide] = createSignal(initialHide);
+const Spoiler = (props: ParentProps<{ hide?: boolean }>) => {
+  // eslint-disable-next-line solid/reactivity
+  const [hide, setHide] = createSignal(props.hide ?? true);
 
   return (
     <spoiler
@@ -17,7 +18,7 @@ const Spoiler = ({ children, hide: initialHide = true }: ParentProps<{ hide?: bo
       }}
       tabindex={0}
     >
-      {children}
+      {props.children}
     </spoiler>
   );
 };
