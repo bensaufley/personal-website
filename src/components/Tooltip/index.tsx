@@ -1,7 +1,6 @@
-/* eslint-disable no-redeclare, prefer-arrow-functions/prefer-arrow-functions */
 import Tt, { type RootProps } from '@corvu/tooltip';
 import { type ClassValue, clsx } from 'clsx';
-import type { Accessor, JSX, ParentComponent } from 'solid-js';
+import { type Accessor, type JSX, mergeProps, type ParentComponent, splitProps } from 'solid-js';
 
 import styles from './styles.module.css';
 
@@ -23,16 +22,19 @@ export default function Tooltip<C extends ParentComponent<P>, P extends Record<s
 export default function Tooltip<E extends keyof JSX.IntrinsicElements>(
   props: Props & { as: E } & Omit<JSX.IntrinsicElements[E], 'as' | keyof Props>,
 ): JSX.Element;
-export default function Tooltip({
-  as = 'div',
-  children,
-  content,
-  anchorClass,
-  invert,
-  tooltipProps = {},
-  zIndex,
-  ...rest
-}: Props & { as?: keyof JSX.IntrinsicElements | ParentComponent<any> } & Record<string, any>): JSX.Element {
+export default function Tooltip(
+  _props: Props & { as?: keyof JSX.IntrinsicElements | ParentComponent<any> } & Record<string, any>,
+): JSX.Element {
+  const originalProps = mergeProps({ as: 'div' }, _props);
+  const [props, rest] = splitProps(originalProps, [
+    'as',
+    'children',
+    'content',
+    'anchorClass',
+    'invert',
+    'tooltipProps',
+    'zIndex',
+  ]);
   return (
     <Tt
       openDelay={0}
@@ -40,18 +42,21 @@ export default function Tooltip({
       floatingOptions={{
         autoPlacement: true,
         offset: 10,
-        ...tooltipProps.floatingOptions,
+        ...props.tooltipProps?.floatingOptions,
       }}
-      {...tooltipProps}
+      {...props.tooltipProps}
     >
-      <Tt.Anchor class={clsx(anchorClass)}>
-        <Tt.Trigger as={as} {...rest}>
-          {children}
+      <Tt.Anchor class={clsx(props.anchorClass)}>
+        <Tt.Trigger as={props.as} {...rest}>
+          {props.children}
         </Tt.Trigger>
       </Tt.Anchor>
       <Tt.Portal>
-        <Tt.Content class={clsx(styles.tooltipContent, invert && styles.invert)} style={{ 'z-index': zIndex }}>
-          {typeof content === 'function' ? content() : content}
+        <Tt.Content
+          class={clsx(styles.tooltipContent, props.invert && styles.invert)}
+          style={{ 'z-index': props.zIndex }}
+        >
+          {typeof props.content === 'function' ? props.content() : props.content}
           <Tt.Arrow class={styles.tooltipArrow} />
         </Tt.Content>
       </Tt.Portal>

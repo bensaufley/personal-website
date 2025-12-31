@@ -10,21 +10,25 @@ interface Props {
   showIcons: Signal<boolean>;
 }
 
-const Switch: VoidComponent<Props> = ({ showIcons: [showIcons, setShowIcons] }) => (
-  <div class={styles.switch}>
-    <Tooltip
-      class={styles.switch}
-      content={createMemo(() => `Show as ${showIcons() ? 'text' : 'icons'}`)}
-      as="button"
-      onClick={() => setShowIcons((prev) => !prev)}
-      type="button"
-    >
-      <span class={clsx(!showIcons() && styles.selected)}>T</span>
-      <span class={clsx(showIcons() && styles.selected)}>
-        <ImageSquareFill />
-      </span>
-    </Tooltip>
-  </div>
-);
+const Switch: VoidComponent<Props> = (props) => {
+  const content = createMemo(() => `Show as ${props.showIcons[0]() ? 'text' : 'icons'}`);
+
+  return (
+    <div class={styles.switch}>
+      <Tooltip
+        class={styles.switch}
+        content={content}
+        as="button"
+        onClick={() => props.showIcons[1]((prev) => !prev)}
+        type="button"
+      >
+        <span class={clsx(!props.showIcons[0]() && styles.selected)}>T</span>
+        <span class={clsx(props.showIcons[0]() && styles.selected)}>
+          <ImageSquareFill />
+        </span>
+      </Tooltip>
+    </div>
+  );
+};
 
 export default Switch;

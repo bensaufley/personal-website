@@ -1,4 +1,3 @@
-/* eslint-disable no-await-in-loop */
 import cli from 'cli';
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';
@@ -106,7 +105,6 @@ const upsertBook = async (
   cli.info('How does this look?');
   cli.info(stringify(fm, null, 2));
 
-  // eslint-disable-next-line no-constant-condition
   while (true) {
     const { editBook } = await enquirer.prompt({
       type: 'confirm',

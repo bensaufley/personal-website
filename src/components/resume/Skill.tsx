@@ -16,11 +16,7 @@ interface Props {
   skills: readonly SkillInfo[];
 }
 
-const MultiIcon: VoidComponent<{ delay: number; group: string; grouped: readonly SkillInfo[] }> = ({
-  delay,
-  group,
-  grouped,
-}) => {
+const MultiIcon: VoidComponent<{ delay: number; group: string; grouped: readonly SkillInfo[] }> = (props) => {
   const [hover, setHover] = createSignal(false);
   const [current, setCurrent] = createSignal(0);
 
@@ -29,9 +25,9 @@ const MultiIcon: VoidComponent<{ delay: number; group: string; grouped: readonly
     setTimeout(() => {
       interval = setInterval(() => {
         if (hover()) return;
-        setCurrent((prev) => (prev + 1) % grouped.length);
+        setCurrent((prev) => (prev + 1) % props.grouped.length);
       }, 3_000);
-    }, delay * 250);
+    }, props.delay * 250);
   });
 
   onCleanup(() => interval && clearInterval(interval));
@@ -41,10 +37,10 @@ const MultiIcon: VoidComponent<{ delay: number; group: string; grouped: readonly
       tooltipProps={{
         onHover: () => setHover(true),
         onLeave: () => setHover(false),
-        group,
+        group: props.group,
       }}
       content={
-        <For each={grouped}>
+        <For each={props.grouped}>
           {({ name, link }, i) => (
             <>
               <a href={link} target="_blank" rel="noopener noreferrer">
@@ -52,13 +48,13 @@ const MultiIcon: VoidComponent<{ delay: number; group: string; grouped: readonly
                   <strong>{name}</strong>
                 </Show>
               </a>
-              {i() < grouped.length - 1 && ', '}
+              {i() < props.grouped.length - 1 && ', '}
             </>
           )}
         </For>
       }
     >
-      <For each={grouped}>
+      <For each={props.grouped}>
         {({ icon, link }, i) => (
           <a class={clsx(i() === current() && styles.visible)} href={link} target="_blank" rel="noopener noreferrer">
             <Dynamic
@@ -74,25 +70,23 @@ const MultiIcon: VoidComponent<{ delay: number; group: string; grouped: readonly
   );
 };
 
-const Plaintext: VoidComponent<{ grouped: readonly SkillInfo[] }> = ({ grouped: skills }) => (
-  <>
-    <For each={skills}>
-      {({ name, link }, i) => (
-        <>
-          <a href={link} target="_blank" rel="noopener noreferrer">
-            <span>{name}</span>
-          </a>
-          <Show when={i() < skills.length - 1}>/</Show>
-        </>
-      )}
-    </For>
-  </>
+const Plaintext: VoidComponent<{ grouped: readonly SkillInfo[] }> = (props) => (
+  <For each={props.grouped}>
+    {({ name, link }, i) => (
+      <>
+        <a href={link} target="_blank" rel="noopener noreferrer">
+          <span>{name}</span>
+        </a>
+        <Show when={i() < props.grouped.length - 1}>/</Show>
+      </>
+    )}
+  </For>
 );
 
-const Skill: VoidComponent<Props> = ({ skills, index, group, showIcons }) => (
+const Skill: VoidComponent<Props> = (props) => (
   <div class={styles.skill}>
-    <Show when={showIcons()} fallback={<Plaintext grouped={skills} />}>
-      <MultiIcon group={group} grouped={skills} delay={index} />
+    <Show when={props.showIcons()} fallback={<Plaintext grouped={props.skills} />}>
+      <MultiIcon group={props.group} grouped={props.skills} delay={props.index} />
     </Show>
   </div>
 );

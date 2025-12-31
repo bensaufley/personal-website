@@ -42,12 +42,12 @@ const tooltipProps: ComponentProps<typeof Tooltip>['tooltipProps'] = {
   },
 };
 
-const ThemePicker = ({ context, invert = false }: Props) => (
-  <div class={clsx(styles.themeToggle, styles[context])}>
+const ThemePicker = (props: Props) => (
+  <div class={clsx(styles.themeToggle, styles[props.context])}>
     <TooltipIcon
       onClick={() => updateTheme('light')}
       class={styles.light}
-      invert={invert}
+      invert={props.invert ?? false}
       tooltipProps={tooltipProps}
       zIndex={11}
       icon={Sun}
@@ -57,7 +57,7 @@ const ThemePicker = ({ context, invert = false }: Props) => (
     <TooltipIcon
       onClick={() => updateTheme(null)}
       class={styles.system}
-      invert={invert}
+      invert={props.invert ?? false}
       tooltipProps={tooltipProps}
       zIndex={11}
       icon={CircleHalfTilt}
@@ -67,7 +67,7 @@ const ThemePicker = ({ context, invert = false }: Props) => (
     <TooltipIcon
       onClick={() => updateTheme('dark')}
       class={styles.dark}
-      invert={invert}
+      invert={props.invert ?? false}
       tooltipProps={tooltipProps}
       zIndex={11}
       icon={MoonStars}

@@ -15,5 +15,3 @@ narrators:
 coverImageUrl: https://assets.hardcover.app/external_data/61241462/758509323afff8121c72ce33dbd925aa4dcacd79.jpeg
 hardcoverUrl: https://hardcover.app/books/wired-for-story-the-writers-guide-to-using-brain-science-to-hook-readers-from-the-very-first-sentence/editions/30966549
 ---
-
- ̰

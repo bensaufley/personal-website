@@ -1,4 +1,3 @@
-/* eslint-disable no-console */
 import type { CodegenConfig } from '@graphql-codegen/cli';
 import { execSync } from 'child_process';
 

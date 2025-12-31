@@ -1,5 +1,5 @@
 import type { Dayjs } from 'dayjs';
-import { type JSX, type ParentProps, Show } from 'solid-js';
+import { type JSX, mergeProps, type ParentProps, Show } from 'solid-js';
 import { Dynamic } from 'solid-js/web';
 
 import Timestamp from '../Timestamp';
@@ -19,21 +19,23 @@ interface Props {
     | undefined;
 }
 
-const Post = ({ title, titleElement: Title = 'h1', posted, href, headerImage, children }: ParentProps<Props>) => (
-  <section class={styles.blogPost}>
-    <header>
-      <Dynamic component={Title}>
-        <Show when={href} fallback={title}>
-          <a href={href}>{title}</a>
+const Post = (_props: ParentProps<Props>) => {
+  const props = mergeProps({ titleElement: 'h1' }, _props);
+  return (
+    <section class={styles.blogPost}>
+      <header>
+        <Dynamic component={props.titleElement}>
+          <Show when={props.href} fallback={props.title}>
+            <a href={props.href}>{props.title}</a>
+          </Show>
+        </Dynamic>
+        <Timestamp value={props.posted} />
+        <Show when={!!props.headerImage}>
+          <img src={props.headerImage!.url} alt={props.headerImage!.alt} class={styles.headerImage} />
         </Show>
-      </Dynamic>
-      <Timestamp value={posted} />
-      <Show when={!!headerImage}>
-        <img src={headerImage!.url} alt={headerImage!.alt} class={styles.headerImage} />
-      </Show>
-    </header>
-    <main>{children}</main>
-  </section>
-);
-
+      </header>
+      <main>{props.children}</main>
+    </section>
+  );
+};
 export default Post;
