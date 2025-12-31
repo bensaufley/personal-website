@@ -6,11 +6,13 @@ import type { BookFrontmatter } from '~content/config';
 import styles from './styles.module.css';
 
 const CoverImage = (props: { book: BookFrontmatter }) => {
-  const CoverWrap = createMemo(() => (props.book.hardcoverUrl ? 'a' : 'div'));
+  // Access the specific property directly in the memo to track only that value
+  const hardcoverUrl = createMemo(() => props.book.hardcoverUrl);
+  const CoverWrap = createMemo(() => (hardcoverUrl() ? 'a' : 'div'));
   const coverProps = createMemo(() =>
-    props.book.hardcoverUrl
+    hardcoverUrl()
       ? {
-          href: props.book.hardcoverUrl,
+          href: hardcoverUrl(),
           target: '_blank',
           rel: 'noopener',
         }
