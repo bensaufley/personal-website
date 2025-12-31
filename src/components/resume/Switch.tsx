@@ -17,7 +17,7 @@ const Switch: VoidComponent<Props> = (props) => {
     <div class={styles.switch}>
       <Tooltip
         class={styles.switch}
-        content={content()}
+        content={content}
         as="button"
         onClick={() => props.showIcons[1]((prev) => !prev)}
         type="button"
