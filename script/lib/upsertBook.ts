@@ -3,7 +3,7 @@ import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';
 import Enquirer from 'enquirer';
 import { existsSync } from 'node:fs';
-import { readFile, writeFile } from 'node:fs/promises';
+import { readFile, rm, writeFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
 import prettier from 'prettier';
 import { stringify } from 'yaml';
@@ -185,14 +185,16 @@ const upsertBook = async (
 
   const { slug: finalSlug } = fm;
   const fileName = resolve(dirname, '../../src/content/books', `${finalSlug!}.md${review?.spoilers ? 'x' : ''}`);
+  const existingFile = ['', 'x'].find((end) =>
+    existsSync(resolve(dirname, '../../src/content/books', `${finalSlug!}.md${end}`)),
+  );
   delete fm.slug; // Remove slug from frontmatter, it will be used as the filename
 
-  const willOverwrite = existsSync(fileName);
   const { saveBook } = await enquirer.prompt({
     type: 'confirm',
     name: 'saveBook',
     message: `Do you want to save this book?${
-      willOverwrite ? ` (this will overwrite the existing file at ${fileName})` : ''
+      existingFile ? ` (this will overwrite the existing file at ${existingFile})` : ''
     }`,
     initial: true,
   });
@@ -204,11 +206,12 @@ const upsertBook = async (
     parser: 'markdown',
   });
 
+  if (existingFile) await rm(existingFile);
   await writeFile(fileName, formatted, {
     flag: 'w',
     encoding: 'utf-8',
   });
-  cli.info(`Book "${fm.title}" ${willOverwrite ? 'updated' : 'added'} successfully!`);
+  cli.info(`Book "${fm.title}" ${existingFile ? 'updated' : 'added'} successfully!`);
 };
 
 export default upsertBook;
