@@ -4,7 +4,7 @@
     "@astrojs/markdown-remark": "^6.3.10",
     "@astrojs/mdx": "^4.3.13",
     "@astrojs/partytown": "^2.1.4",
-    "@astrojs/sitemap": "^3.6.0",
+    "@astrojs/sitemap": "^3.6.1",
     "@astrojs/solid-js": "^5.1.3",
     "@corvu/tooltip": "^0.2.2",
     "@phosphor-icons/core": "^2.1.1",
