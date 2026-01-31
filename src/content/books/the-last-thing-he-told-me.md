@@ -1,6 +1,6 @@
 ---
 title: The Last Thing He Told Me
-subtitle: A Novel
+subtitle: null
 authors:
   - lastName: Dave
     firstName: Laura
