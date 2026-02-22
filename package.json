@@ -18,7 +18,7 @@
     "postcss-simple-vars": "^7.0.1",
     "simple-icons": "^16.3.0",
     "solid-js": "^1.9.10",
-    "vite": "^7.1.12",
+    "vite": "^7.3.1",
     "vite-plugin-solid-svg": "^0.8.1"
   },
   "devDependencies": {
