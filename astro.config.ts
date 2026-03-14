@@ -1,3 +1,4 @@
+/* eslint-disable import/no-extraneous-dependencies */
 /// <reference types="astro/astro-jsx" />
 /// <reference types="vite/client" />
 /// <reference types="vite-plugin-solid-svg/types" />

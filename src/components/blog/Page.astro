@@ -1,7 +1,7 @@
 ---
 import { createMarkdownProcessor } from '@astrojs/markdown-remark';
 import type { AstroComponentFactory } from 'astro/runtime/server/index.js';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';
 
@@ -43,7 +43,7 @@ const renderedPosts = await Promise.all(
       let html: string | null = null;
       if (post.data.preview) {
         html = post.data.preview;
-      } else if (post.body.includes('<!--more-->')) {
+      } else if (post.body?.includes('<!--more-->')) {
         const [teaser] = post.body.split(/(<!--more-->|\{\/\* ?more ?\*\/\})/);
         const resp = await parseMd(teaser!, post.id);
         const { code: value } = resp;
@@ -52,7 +52,7 @@ const renderedPosts = await Promise.all(
           .toString()
           .replace(/\[\^(\d+)\]/g, (_, n) => `<sup><a href="/blog/${slug}#user-content-fn-${n}">${n}</a></sup>`);
       } else {
-        ({ Content } = await post.render());
+        ({ Content } = await render(post));
       }
 
       return {

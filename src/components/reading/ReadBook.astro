@@ -3,11 +3,10 @@ import Goodreads from '@phosphor-icons/core/regular/goodreads-logo.svg';
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';
 
-import type { BookFrontmatter } from '~content/config';
-
 import Bookshop from '../../assets/images/brand-bookshop.svg';
 import Hardcover from '../../assets/images/brand-hardcover-tinted.svg';
 import Libro from '../../assets/images/brand-libro.svg';
+import type { BookFrontmatter } from '../../content.config';
 
 import CoverImage from './CoverImage';
 import Rating from './Rating';
@@ -76,7 +75,7 @@ export const LEFT_GOODREADS_DATE = dayjs.utc('2022-02-15');
     }
   </h3>
   <p class={styles.author}>
-    by {book.authors.map(({ firstName, lastName }) => `${firstName} ${lastName}`).join(', ')}
+    by {book.authors.map(({ firstName, lastName }) => [firstName, lastName].filter(Boolean).join(' ')).join(', ')}
   </p>
   <Rating client:load rating={book.rating} />
   <p class={styles.finished}>

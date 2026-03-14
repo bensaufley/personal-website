@@ -2,7 +2,7 @@
 import ArrowLeft from '@phosphor-icons/core/regular/arrow-circle-left.svg';
 import type { GetStaticPaths } from 'astro';
 import type { AstroComponentFactory } from 'astro/runtime/server/index.js';
-import { getCollection, type InferEntrySchema } from 'astro:content';
+import { getCollection, type InferEntrySchema, render } from 'astro:content';
 import dayjs from 'dayjs';
 import { basename, extname } from 'path';
 
@@ -22,7 +22,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
   return Promise.all(
     books.map(async (post) => {
-      const { Content } = await post.render();
+      const { Content } = await render(post);
 
       return {
         post,

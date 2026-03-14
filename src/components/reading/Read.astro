@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';
 import { basename, extname } from 'node:path';
@@ -26,7 +26,7 @@ const allBooks = (await getCollection('books', (book) => !!book.data.finishedAt)
 const pages = Math.ceil(allBooks.length / PER_PAGE);
 const books = await Promise.all(
   allBooks.slice((page - 1) * PER_PAGE, page * PER_PAGE).map(async (book) => {
-    const { Content } = await book.render();
+    const { Content } = await render(book);
     return { ...book, Content };
   }),
 );

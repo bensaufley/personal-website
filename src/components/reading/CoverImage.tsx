@@ -1,7 +1,7 @@
 import { createMemo, Show } from 'solid-js';
 import { Dynamic } from 'solid-js/web';
 
-import type { BookFrontmatter } from '~content/config';
+import type { BookFrontmatter } from '../../content.config';
 
 import styles from './styles.module.css';
 

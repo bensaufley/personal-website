@@ -1,6 +1,6 @@
 ---
 import type { GetStaticPaths } from 'astro';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';
 
@@ -33,7 +33,7 @@ const {
 const img = headerImage ? { url: headerImage.src, alt: headerImageAlt! } : undefined;
 const published = dayjs.utc(date).startOf('day');
 
-const { Content } = await post.render();
+const { Content } = await render(post);
 ---
 
 <BaseLayout

@@ -1,22 +1,23 @@
 ---
+import type { GetStaticPaths } from 'astro';
 import { getCollection } from 'astro:content';
 
 import PageComponent, { PER_PAGE } from '../../components/blog/Page.astro';
 
-export const getStaticPaths = async () => {
+export const getStaticPaths: GetStaticPaths = async () => {
   const posts = await getCollection('posts');
 
   return Array.from({
     length: Math.ceil(posts.length / PER_PAGE),
-  }).map((_, i) => ({ params: { page: i + 1 }, props: { page: i + 1 } }));
+  }).map((_, i) => ({ params: { page: `${i + 1}` as const }, props: { page: `${i + 1}` as const } }));
 };
 
 export interface Props {
   class?: string | undefined;
-  page?: number;
+  page?: `${number}`;
 }
 
 const { class: className, page = 1 } = Astro.props;
 ---
 
-<PageComponent class={className} page={page} />
+<PageComponent class={className} page={Number(page)} />

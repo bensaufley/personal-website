@@ -8,7 +8,7 @@ import { resolve } from 'node:path';
 import prettier from 'prettier';
 import { stringify } from 'yaml';
 
-import type { BookFrontmatter } from '~content/config';
+import type { BookFrontmatter } from '../../src/content.config';
 
 import slateToMd, { type ReviewSlate } from './slateToMd';
 import { parseAuthor, parseAuthors } from './utils';
