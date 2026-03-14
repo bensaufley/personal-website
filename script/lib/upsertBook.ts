@@ -185,9 +185,9 @@ const upsertBook = async (
 
   const { slug: finalSlug } = fm;
   const fileName = resolve(dirname, '../../src/content/books', `${finalSlug!}.md${review?.spoilers ? 'x' : ''}`);
-  const existingFile = ['', 'x'].find((end) =>
-    existsSync(resolve(dirname, '../../src/content/books', `${finalSlug!}.md${end}`)),
-  );
+  const existingFile = ['', 'x']
+    .map((end) => resolve(dirname, '../../src/content/books', `${finalSlug!}.md${end}`))
+    .find((file) => existsSync(file));
   delete fm.slug; // Remove slug from frontmatter, it will be used as the filename
 
   const { saveBook } = await enquirer.prompt({
