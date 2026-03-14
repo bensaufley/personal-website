@@ -192,7 +192,9 @@
 
       p + p,
       p + spoiler:has(p),
-      spoiler:has(p) + p {
+      spoiler:has(p) + p,
+      p + astro-island > spoiler:has(p),
+      astro-island:has(> spoiler p) + p {
         margin-top: 1rem;
       }
 
