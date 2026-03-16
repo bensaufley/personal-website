@@ -9,7 +9,7 @@
     "@corvu/tooltip": "^0.2.2",
     "@phosphor-icons/core": "^2.1.1",
     "astro": "^5.17.3",
-    "astro-seo": "^0.8.4",
+    "astro-seo": "^1.1.0",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.18",
     "postcss-load-config": "^6.0.1",
