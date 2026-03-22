@@ -10,13 +10,13 @@ narrators:
   - lastName: Crouch
     firstName: Michael
 yearPublished: 2026
-isbn10: null
-isbn13: null
+isbn10: '1641296917'
+isbn13: '9781641296915'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/1266686/e0046af8147fb4c35a51092ac941c60acb0ac79d.jpeg
-hardcoverUrl: https://hardcover.app/books/what-boys-learn
+coverImageUrl: https://assets.hardcover.app/edition/32800012/c6889681-9651-412d-8481-f48532c6725a.jpg
+hardcoverUrl: https://hardcover.app/books/what-boys-learn/editions/32800012
 series: null
-startedAt: null
+startedAt: 2026-03-20T00:00:00.000Z
 finishedAt: null
 rating: null
 ---
