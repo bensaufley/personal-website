@@ -22,7 +22,7 @@
     "vite-plugin-solid-svg": "^0.8.1"
   },
   "devDependencies": {
-    "@astrojs/ts-plugin": "^1.10.6",
+    "@astrojs/ts-plugin": "^1.10.7",
     "@bensaufley/eslint-config": "^2.0.0-0",
     "@eslint/eslintrc": "^3.3.5",
     "@graphql-codegen/cli": "^6.1.0",
