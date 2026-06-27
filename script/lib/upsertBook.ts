@@ -88,7 +88,6 @@ const upsertBook = async (
     isbn10,
     isbn13,
     asin,
-    coverImageUrl: editionImage || bookImage,
     hardcoverUrl: `https://hardcover.app/books/${slug}/editions/${editionId}`,
     series: series.length
       ? {
