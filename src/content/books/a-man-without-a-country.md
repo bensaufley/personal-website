@@ -3,15 +3,18 @@ title: A Man Without a Country
 authors:
   - lastName: Vonnegut
     firstName: Kurt
-isbn10:
+isbn10: null
 isbn13: '9781419364570'
 finishedAt: 2006-01-01
 rating: 5
 yearPublished: 2005
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/edition/30394713/61abd7370641e90021d40d63f41dbd387e45d34c.jpeg
 hardcoverUrl: https://hardcover.app/books/a-man-without-a-country/editions/31496994
+storygraphId: 0daca172-3897-4f9b-a086-88b893331dec
+storygraphUrl: https://app.thestorygraph.com/books/0daca172-3897-4f9b-a086-88b893331dec
+coverImage: a-man-without-a-country.jpg
 ---

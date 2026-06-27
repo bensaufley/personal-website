@@ -19,6 +19,9 @@ series: null
 startedAt: null
 finishedAt: 2025-07-29T00:00:00.000Z
 rating: 3.75
+storygraphId: cfd6dd83-bb6e-4fb4-b2dd-65dd4b5fa087
+storygraphUrl: https://app.thestorygraph.com/books/cfd6dd83-bb6e-4fb4-b2dd-65dd4b5fa087
+coverImage: when-women-were-dragons.jpg
 ---
 
 The novel has a fascinating premise and it's very well-written but I feel like for a book dedicated to Christine Blaisey Ford, choosing to set this in the fifties really hamstrings the message. I know there are people who yearn for those days, but those people aren't reading this book. The misery of a much more overt and unashamed patriarchy (which has not gone away, but has found ways to rebrand into something more subtle and insidious) in the fifties is, it seems to me, pretty widely acknowledged. So much of the book hinges on that premise and I think it undercuts any timeliness, for me.

@@ -1,22 +1,25 @@
 ---
 title: Mockingjay
-subtitle:
+subtitle: null
 series:
   name: The Hunger Games
   volume: 3
 authors:
   - lastName: Collins
     firstName: Suzanne
-narrators:
+narrators: null
 yearPublished: 2010
 isbn10: '0439023513'
 isbn13: '9780439023511'
-asin:
+asin: null
 coverImageUrl: https://assets.hardcover.app/book_mappings/7332302/73342f741799f340cc0237284f304ed48b64d1cb.jpeg
 hardcoverUrl: https://hardcover.app/books/mockingjay/editions/27387551
 finishedAt: 2010-09-21
 rating: 5
 startedAt: null
+storygraphId: 037b8b82-cc25-47e2-b47a-d9b3f4a0625c
+storygraphUrl: https://app.thestorygraph.com/books/037b8b82-cc25-47e2-b47a-d9b3f4a0625c
+coverImage: mockingjay.jpg
 ---
 
 I guess there are no real spoilers in this but it certainly could give one expectations so I'm marking this as having spoilers.

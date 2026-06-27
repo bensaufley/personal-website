@@ -9,9 +9,12 @@ finishedAt: 2020-01-09
 rating: 3
 yearPublished: 2014
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/editions/30407451/9092249423146916.jpg
 hardcoverUrl: https://hardcover.app/books/assassins-apprentice/editions/30407451
+storygraphId: 2c91d7cd-f6eb-42e0-9292-0653121bbb85
+storygraphUrl: https://app.thestorygraph.com/books/2c91d7cd-f6eb-42e0-9292-0653121bbb85
+coverImage: assassins-apprentice.jpg
 ---

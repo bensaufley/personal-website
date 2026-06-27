@@ -9,14 +9,17 @@ finishedAt: 2016-08-17
 rating: 5
 yearPublished: 2007
 startedAt: null
-asin:
-subtitle:
+asin: null
+subtitle: null
 series:
   name: Harry Potter
   volume: 7
-narrators:
+narrators: null
 coverImageUrl: https://assets.hardcover.app/editions/14019917/7017379795452299-58613224.jpg
 hardcoverUrl: https://hardcover.app/books/harry-potter-and-the-deathly-hallows/editions/14019917
+storygraphId: 6b276e97-e346-4b96-9d66-0b7f8aa4a02f
+storygraphUrl: https://app.thestorygraph.com/books/6b276e97-e346-4b96-9d66-0b7f8aa4a02f
+coverImage: harry-potter-and-the-deathly-hallows.jpg
 ---
 
 **Note:** please see my 2025 [blog post re: Rowling](/blog/2025/04/jk-rowling)

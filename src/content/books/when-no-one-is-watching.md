@@ -19,4 +19,7 @@ series: null
 startedAt: null
 finishedAt: 2025-05-29T00:00:00.000Z
 rating: 4
+storygraphId: 94523f48-a415-47dc-a7e8-50775ff58f15
+storygraphUrl: https://app.thestorygraph.com/books/94523f48-a415-47dc-a7e8-50775ff58f15
+coverImage: when-no-one-is-watching.jpg
 ---

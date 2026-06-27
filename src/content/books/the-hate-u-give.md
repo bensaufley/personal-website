@@ -1,20 +1,23 @@
 ---
 title: The Hate U Give
-subtitle:
+subtitle: null
 series:
   name: The Hate U Give
   volume: 1
 authors:
   - lastName: Thomas
     firstName: Angie
-narrators:
+narrators: null
 yearPublished: 2017
 isbn10: '0062498533'
 isbn13: '9780062498533'
-asin:
+asin: null
 coverImageUrl: https://assets.hardcover.app/external_data/59943751/e6dd9344c6d74cf8a53ec05acaa665809dbfa356.jpeg
 hardcoverUrl: https://hardcover.app/books/the-hate-u-give/editions/21479089
 finishedAt: 2018-02-06
 rating: 4
 startedAt: null
+storygraphId: f17920fc-2079-4199-bb70-67aed3571715
+storygraphUrl: https://app.thestorygraph.com/books/f17920fc-2079-4199-bb70-67aed3571715
+coverImage: the-hate-u-give.jpg
 ---

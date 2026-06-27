@@ -16,4 +16,7 @@ series: null
 startedAt: null
 finishedAt: null
 rating: null
+storygraphId: 4b2e5f7d-d49a-415f-9aaf-f00a16f78236
+storygraphUrl: https://app.thestorygraph.com/books/4b2e5f7d-d49a-415f-9aaf-f00a16f78236
+coverImage: there-is-no-antimemetics-division.jpg
 ---

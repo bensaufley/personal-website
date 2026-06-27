@@ -15,6 +15,9 @@ series: null
 startedAt: null
 finishedAt: 2025-07-15T00:00:00.000Z
 rating: 4
+storygraphId: 2139f158-56d0-454a-bfc1-ec4015a091ea
+storygraphUrl: https://app.thestorygraph.com/books/2139f158-56d0-454a-bfc1-ec4015a091ea
+coverImage: cleat-cute-2023.jpg
 ---
 
 Pretty far outside my wheelhouse and the "spicy" scenes were prolonged and graphic, which I don't judge it's simply not what I read books for, but the relationship was absolutely charming and as a soccer fan I had a lot of fun with the setting—it's also clear the author is immersed in the woso world for a bunch of reasons, and that added to the authenticity. Very fun read.

@@ -17,4 +17,7 @@ series: null
 startedAt: null
 finishedAt: null
 rating: null
+storygraphId: 1192961e-321f-41b8-b07f-94069f3b7d16
+storygraphUrl: https://app.thestorygraph.com/books/1192961e-321f-41b8-b07f-94069f3b7d16
+hasCoverImage: false
 ---

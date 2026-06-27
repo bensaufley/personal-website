@@ -1,22 +1,25 @@
 ---
 title: The Wise Man's Fear
-subtitle:
+subtitle: null
 series:
   name: The Kingkiller Chronicle
   volume: 2
 authors:
   - lastName: Rothfuss
     firstName: Patrick
-narrators:
+narrators: null
 yearPublished: 2011
 isbn10: '0756404738'
 isbn13: '9780756404734'
-asin:
+asin: null
 coverImageUrl: https://assets.hardcover.app/edition/12129615/d30f47b6cccbb010d2fe11e78ee6ecfa10f86740.jpeg
 hardcoverUrl: https://hardcover.app/books/the-wise-mans-fear/editions/31488150
 finishedAt: 2012-10-18
 rating: 4
 startedAt: null
+storygraphId: 0031c6f9-1109-450f-9ecf-910cda416016
+storygraphUrl: https://app.thestorygraph.com/books/0031c6f9-1109-450f-9ecf-910cda416016
+coverImage: the-wise-mans-fear.jpg
 ---
 
 Enjoyed the hell out of this one, like the last. Ate it right up. That said, a few concerns:

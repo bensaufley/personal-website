@@ -1,6 +1,6 @@
 ---
 title: The Ghost Brigades
-subtitle:
+subtitle: null
 series:
   name: Old Man's War
   volume: 2
@@ -13,10 +13,13 @@ narrators:
 yearPublished: 2007
 isbn10: '0765354063'
 isbn13: '9780765354068'
-asin:
+asin: null
 coverImageUrl: https://assets.hardcover.app/editions/30405574/8178043582230921.jpg
 hardcoverUrl: https://hardcover.app/books/the-ghost-brigades/editions/20615261
 finishedAt: 2016-10-13
 rating: 3
 startedAt: null
+storygraphId: dc1e32f2-7ea2-4744-8f71-ad6cbdbd4b05
+storygraphUrl: https://app.thestorygraph.com/books/dc1e32f2-7ea2-4744-8f71-ad6cbdbd4b05
+coverImage: the-ghost-brigades.jpg
 ---

@@ -8,6 +8,7 @@ import { basename, extname } from 'path';
 
 import { PER_PAGE } from '~components/reading/Read.astro';
 import BaseLayout from '~layouts/BaseLayout.astro';
+import { coverUrl } from '~lib/covers';
 
 import styles from '~components/reading/styles.module.css';
 
@@ -54,7 +55,7 @@ const bookPage =
 <BaseLayout
   url={`/reading/book/${slug}`}
   title={book.title}
-  image={book.coverImageUrl ?? undefined}
+  image={coverUrl(book.coverImage) ?? undefined}
   openGraph={{
     basic: {
       type: 'article',
@@ -65,7 +66,11 @@ const bookPage =
   }}
 >
   <div class={styles.bookReview}>
-    {book.coverImageUrl && <img src={book.coverImageUrl} alt={`Cover of ${book.title}`} class={styles.coverImage} />}
+    {
+      book.coverImage && (
+        <img src={coverUrl(book.coverImage)} alt={`Cover of ${book.title}`} class={styles.coverImage} />
+      )
+    }
     <h2>{book.title}</h2>
     {book.subtitle && <h3>{book.subtitle}</h3>}
 

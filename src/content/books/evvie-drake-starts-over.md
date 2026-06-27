@@ -9,9 +9,12 @@ finishedAt: 2019-07-08
 rating: 4
 yearPublished: 2019
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/edition/1015980/24d88d3293e1bcbb1e2ccc39acc49bd7acd6d7ab.jpeg
 hardcoverUrl: https://hardcover.app/books/evvie-drake-starts-over/editions/1015980
+storygraphId: 0102e3c0-4769-464b-8d64-b55d0ad839f8
+storygraphUrl: https://app.thestorygraph.com/books/0102e3c0-4769-464b-8d64-b55d0ad839f8
+coverImage: evvie-drake-starts-over.jpg
 ---

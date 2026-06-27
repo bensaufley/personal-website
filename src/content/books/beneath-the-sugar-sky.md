@@ -1,6 +1,6 @@
 ---
 title: Beneath the Sugar Sky
-subtitle:
+subtitle: null
 series:
   name: Wayward Children
   volume: 3
@@ -13,8 +13,11 @@ finishedAt: 2019-01-23
 rating: 4
 yearPublished: 2018
 startedAt: null
-asin:
-narrators:
+asin: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/external_data/50275619/b94dcb5543efa40837a6e815ca458b63602df254.jpeg
 hardcoverUrl: https://hardcover.app/books/beneath-the-sugar-sky/editions/30400864
+storygraphId: 55cb9c85-4f6f-4535-bce3-da4e378bfbc0
+storygraphUrl: https://app.thestorygraph.com/books/55cb9c85-4f6f-4535-bce3-da4e378bfbc0
+coverImage: beneath-the-sugar-sky.jpg
 ---

@@ -3,18 +3,21 @@ title: The Poacher's Son
 authors:
   - lastName: Doiron
     firstName: Paul
-isbn10:
-isbn13:
+isbn10: null
+isbn13: null
 finishedAt: 2025-03-31
 rating: 2.5
 yearPublished: 2010
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/edition/30644385/6387351-L.jpg
 hardcoverUrl: https://hardcover.app/books/the-poachers-son/editions/31953999
 series:
   name: Mike Bowditch
   volume: 1
+storygraphId: 6894db99-c772-4fce-97ea-8dac15bf88d3
+storygraphUrl: https://app.thestorygraph.com/books/6894db99-c772-4fce-97ea-8dac15bf88d3
+coverImage: the-poachers-son.jpg
 ---

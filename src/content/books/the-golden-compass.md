@@ -9,9 +9,12 @@ finishedAt: 2019-07-24
 rating: 5
 yearPublished: 1995
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/editions/19151716/902688047208777-119322.jpg
 hardcoverUrl: https://hardcover.app/books/the-golden-compass/editions/24358857
+storygraphId: e0c48a3e-23d5-40eb-a2b6-2e115c0e245d
+storygraphUrl: https://app.thestorygraph.com/books/e0c48a3e-23d5-40eb-a2b6-2e115c0e245d
+coverImage: the-golden-compass.jpg
 ---

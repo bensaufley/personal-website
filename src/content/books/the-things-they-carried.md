@@ -6,10 +6,13 @@ authors:
 isbn10: '0767902890'
 isbn13: '9780767902892'
 finishedAt: 2001-01-01
-rating:
+rating: null
 yearPublished: 1998
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 862b35d4-0f33-46f7-940d-cb1712a4813d
+storygraphUrl: https://app.thestorygraph.com/books/862b35d4-0f33-46f7-940d-cb1712a4813d
+coverImage: the-things-they-carried.jpg
 ---

@@ -19,4 +19,7 @@ series:
 startedAt: null
 finishedAt: 2025-05-04T00:00:00.000Z
 rating: null
+storygraphId: e520f034-24b3-4278-99ec-227cea53714a
+storygraphUrl: https://app.thestorygraph.com/books/e520f034-24b3-4278-99ec-227cea53714a
+coverImage: the-pariah.jpg
 ---

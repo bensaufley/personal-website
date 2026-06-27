@@ -19,6 +19,9 @@ series:
 startedAt: 2026-01-20T00:00:00.000Z
 finishedAt: 2026-01-24T00:00:00.000Z
 rating: 4.25
+storygraphId: eb0c09df-3c3e-46d6-987e-a24019bf675e
+storygraphUrl: https://app.thestorygraph.com/books/eb0c09df-3c3e-46d6-987e-a24019bf675e
+coverImage: the-poisoned-king.jpg
 ---
 
 I really like these books. They're undeniably, overwhelmingly sentimental, but for me at least they pull it off so it just feels lovely, not saccharine or preachy. While the stories feel a bit younger, a bit more fairy-tale-ish, the experience of reading them definitely shares something with my experience of reading the Harry Potter series, before JKR took her castle of gold and became a cartoon villain. This series has some not-so-subtle allegories to real-life villains, and a central theme of this one is the corrupting influence of gold. I hope the author sticks with that and doesn't turn out to be another disappointment. It would be sad, because again, I like this series a lot.

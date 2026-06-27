@@ -9,9 +9,12 @@ finishedAt: 2010-03-17
 rating: 3
 yearPublished: 2007
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/edition/30652385/content.jpeg
 hardcoverUrl: https://hardcover.app/books/tales-of-h-p-lovecraft/editions/30652385
+storygraphId: 7c30c8bb-77ac-43eb-820d-8d2062f7c593
+storygraphUrl: https://app.thestorygraph.com/books/7c30c8bb-77ac-43eb-820d-8d2062f7c593
+coverImage: tales-of-h-p-lovecraft.jpg
 ---

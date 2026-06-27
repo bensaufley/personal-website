@@ -1,20 +1,23 @@
 ---
 title: Old Man's War
-subtitle:
+subtitle: null
 series:
   name: Old Man's War
   volume: 1
 authors:
   - lastName: Scalzi
     firstName: John
-narrators:
+narrators: null
 yearPublished: 2007
 isbn10: '0765348276'
 isbn13: '9780765348272'
-asin:
+asin: null
 coverImageUrl: https://assets.hardcover.app/book_mappings/7332485/b5fbb9f5c34e2243c6c394f189f5265860a36332.jpeg
 hardcoverUrl: https://hardcover.app/books/old-mans-war-2005/editions/18117782
 finishedAt: 2016-06-15
 rating: 4
 startedAt: null
+storygraphId: 332929c6-7b62-4bc6-869b-0d775958d1d6
+storygraphUrl: https://app.thestorygraph.com/books/332929c6-7b62-4bc6-869b-0d775958d1d6
+coverImage: old-mans-war.jpg
 ---

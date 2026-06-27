@@ -1,6 +1,6 @@
 ---
 title: Revenge of the Witch
-subtitle:
+subtitle: null
 series:
   name: The Last Apprentice / Wardstone Chronicles
   volume: 1
@@ -9,16 +9,19 @@ authors:
     firstName: Joseph
   - lastName: Arrasmith
     firstName: Patrick
-narrators:
+narrators: null
 yearPublished: 2006
 isbn10: '0060766204'
 isbn13: '9780060766207'
-asin:
+asin: null
 coverImageUrl: https://assets.hardcover.app/edition/13943956/35370-L.jpg
 hardcoverUrl: https://hardcover.app/books/revenge-of-the-witch/editions/13943956
 finishedAt: 2015-01-15
 rating: 3
 startedAt: null
+storygraphId: 85f6b92d-c06d-4d92-a095-d7bacddb74ee
+storygraphUrl: https://app.thestorygraph.com/books/85f6b92d-c06d-4d92-a095-d7bacddb74ee
+coverImage: revenge-of-the-witch.jpg
 ---
 
 Picked it up because a movie's coming out and I figured I'd read it before I (potentially) watched it. Having read it, I'll say it looks like the movie won't even be vaguely similar to the book.

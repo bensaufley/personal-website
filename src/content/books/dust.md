@@ -3,15 +3,18 @@ title: Dust
 authors:
   - lastName: Howey
     firstName: Hugh
-isbn10:
+isbn10: null
 isbn13: '9781490904382'
 finishedAt: 2023-05-28
-rating:
+rating: null
 yearPublished: 2013
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/external_data/29348425/5349cdbece64f141de3f562b304b25e11fe08ef1.jpeg
 hardcoverUrl: https://hardcover.app/books/dust/editions/31491069
+storygraphId: 227e2da4-8c5d-4cea-a6be-f86cde804dcd
+storygraphUrl: https://app.thestorygraph.com/books/227e2da4-8c5d-4cea-a6be-f86cde804dcd
+coverImage: dust.jpg
 ---

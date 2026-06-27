@@ -9,11 +9,14 @@ finishedAt: 2016-06-21
 rating: 2
 yearPublished: 2016
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/external_data/59566060/a4df48c1da5030385840fcf67378ffbdc5aed98d.jpeg
 hardcoverUrl: https://hardcover.app/books/no-one-knows/editions/30493598
+storygraphId: 3311880b-41dd-4bf7-b07e-f08bfe9b6209
+storygraphUrl: https://app.thestorygraph.com/books/3311880b-41dd-4bf7-b07e-f08bfe9b6209
+coverImage: no-one-knows.jpg
 ---
 
 I picked this book up as some pulp to listen to while running. The first half set up a lot of intriguing clues and presumable red herrings, and I was hoping it'd be a fun kind of mystery/thriller in the _vein of_ (if not as good as) _Girl on the Train_ , etc. It seemed like it might be. But it ended up feeling closer to a cheap Lifetime movie than anything else: most of the secrets are unveiled or at least heavily telegraphed in the early second half, and… well, spoilers:

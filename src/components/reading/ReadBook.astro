@@ -2,11 +2,11 @@
 import Goodreads from '@phosphor-icons/core/regular/goodreads-logo.svg';
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';
+import TheStoryGraph from 'simple-icons/icons/thestorygraph.svg?component-solid';
 
 import type { BookFrontmatter } from '~content/config';
 
 import Bookshop from '../../assets/images/brand-bookshop.svg';
-import Hardcover from '../../assets/images/brand-hardcover-tinted.svg';
 import Libro from '../../assets/images/brand-libro.svg';
 
 import CoverImage from './CoverImage';
@@ -47,9 +47,9 @@ export const LEFT_GOODREADS_DATE = dayjs.utc('2022-02-15');
         )
       }
       {
-        book.hardcoverUrl && (
-          <a href={book.hardcoverUrl} target="_blank" rel="noopener" title="View in Hardcover">
-            <Hardcover />
+        book.storygraphUrl && (
+          <a href={book.storygraphUrl} target="_blank" rel="noopener" title="View on The StoryGraph">
+            <TheStoryGraph fill="currentColor" />
           </a>
         )
       }
@@ -76,7 +76,7 @@ export const LEFT_GOODREADS_DATE = dayjs.utc('2022-02-15');
     }
   </h3>
   <p class={styles.author}>
-    by {book.authors.map(({ firstName, lastName }) => `${firstName} ${lastName}`).join(', ')}
+    by {book.authors.map(({ firstName, lastName }) => [firstName, lastName].filter(Boolean).join(' ')).join(', ')}
   </p>
   <Rating client:load rating={book.rating} />
   <p class={styles.finished}>

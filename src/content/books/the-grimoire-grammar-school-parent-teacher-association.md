@@ -17,6 +17,9 @@ series: null
 startedAt: 2025-10-18T00:00:00.000Z
 finishedAt: 2025-10-23T00:00:00.000Z
 rating: 4
+storygraphId: a7ab656c-bdcb-42fa-b621-38fa2816327f
+storygraphUrl: https://app.thestorygraph.com/books/a7ab656c-bdcb-42fa-b621-38fa2816327f
+hasCoverImage: false
 ---
 
 Really enjoyed this. It's cozy, but it's a bit deeper than I might expect from something cozy. As a parent of a toddler just starting in childcare, I found that this resonated surprisingly deeply and the fantasy elements easily mapped, without being heavy handed, to real parenting concerns.

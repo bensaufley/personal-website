@@ -1,6 +1,6 @@
 ---
 title: Death in Holy Orders
-subtitle:
+subtitle: null
 series:
   name: Adam Dalgliesh
   volume: 11
@@ -13,8 +13,11 @@ finishedAt: 2015-05-04
 rating: 2
 yearPublished: 2002
 startedAt: null
-asin:
-narrators:
+asin: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/external_data/59720882/22280472980c760fda2a4b66ebb01aa68e09858e.jpeg
 hardcoverUrl: https://hardcover.app/books/death-in-holy-orders/editions/23629929
+storygraphId: 52174ed6-a08a-4ffa-90d2-089a660df3ee
+storygraphUrl: https://app.thestorygraph.com/books/52174ed6-a08a-4ffa-90d2-089a660df3ee
+coverImage: death-in-holy-orders.jpg
 ---

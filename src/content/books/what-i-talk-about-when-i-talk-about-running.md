@@ -9,9 +9,12 @@ finishedAt: 2011-11-16
 rating: 3
 yearPublished: 2009
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/editions/30591313/4c7a96fe-0260-4c6d-a9b3-9192325f0612.jpg
 hardcoverUrl: https://hardcover.app/books/what-i-talk-about-when-i-talk-about-running-2006/editions/30591313
+storygraphId: ff3df69b-c3a5-48cc-8b45-df0c81970ea6
+storygraphUrl: https://app.thestorygraph.com/books/ff3df69b-c3a5-48cc-8b45-df0c81970ea6
+coverImage: what-i-talk-about-when-i-talk-about-running.jpg
 ---

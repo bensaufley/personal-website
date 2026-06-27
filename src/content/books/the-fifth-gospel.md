@@ -9,11 +9,14 @@ finishedAt: 2015-06-01
 rating: 3
 yearPublished: 2014
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/edition/1607510/2fc5ba703d792101e605450dffd82decdea94e58.jpeg
 hardcoverUrl: https://hardcover.app/books/the-fifth-gospel-2014/editions/25382873
+storygraphId: 039537f7-524e-4607-93b4-b3d81049e431
+storygraphUrl: https://app.thestorygraph.com/books/039537f7-524e-4607-93b4-b3d81049e431
+coverImage: the-fifth-gospel.jpg
 ---
 
 Better than Dan Brown. A bit of a strange anticlimax though. The last third of the book was a bit of, “is this the big secret? no, is this the big secret? No… is _this_ ? …oh, it's over?”

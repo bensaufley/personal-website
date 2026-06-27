@@ -1,6 +1,6 @@
 ---
 title: Carry On
-subtitle:
+subtitle: null
 series:
   name: Simon Snow
   volume: 1
@@ -15,8 +15,11 @@ finishedAt: 2016-01-06
 rating: 4
 yearPublished: 2015
 startedAt: null
-asin:
-narrators:
+asin: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/external_data/24049193/ab1cfc7105b8a8ee3f200d523becc911559cd41c.jpeg
 hardcoverUrl: https://hardcover.app/books/carry-on/editions/3735653
+storygraphId: 8d066858-4b7f-48d9-b4d8-40f6453da4a4
+storygraphUrl: https://app.thestorygraph.com/books/8d066858-4b7f-48d9-b4d8-40f6453da4a4
+coverImage: carry-on.jpg
 ---

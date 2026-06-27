@@ -1,22 +1,25 @@
 ---
 title: The Magicians
-subtitle:
+subtitle: null
 series:
   name: The Magicians
   volume: 1
 authors:
   - lastName: Grossman
     firstName: Lev
-narrators:
+narrators: null
 yearPublished: 2009
 isbn10: '0670020559'
 isbn13: '9780670020553'
-asin:
+asin: null
 coverImageUrl: https://assets.hardcover.app/editions/30403680/4498979208093110.jpg
 hardcoverUrl: https://hardcover.app/books/the-magicians/editions/29845101
 finishedAt: 2012-05-08
 rating: 5
 startedAt: null
+storygraphId: 45f53ba2-20e6-4318-ad90-f972d95265cf
+storygraphUrl: https://app.thestorygraph.com/books/45f53ba2-20e6-4318-ad90-f972d95265cf
+coverImage: the-magicians.jpg
 ---
 
 I don't have much to say about this other than that I really enjoyed it. At times Grossman's style of writing and especially the way he discusses magic, its effects, and the various denizens of the magical world reminded me of Jonathan Strange & Mr Norrell, which is (in my eyes) a very positive comparison.

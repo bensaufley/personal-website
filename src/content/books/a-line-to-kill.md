@@ -12,9 +12,12 @@ finishedAt: 2021-11-28
 rating: 4
 yearPublished: 2021
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/external_data/61512894/9d6858599e1335e03c265a1b51bcecdda083444c.jpeg
 hardcoverUrl: https://hardcover.app/books/a-line-to-kill/editions/30662156
+storygraphId: 09a534f0-a2ec-49b3-9da2-1064a7b9db05
+storygraphUrl: https://app.thestorygraph.com/books/09a534f0-a2ec-49b3-9da2-1064a7b9db05
+coverImage: a-line-to-kill.jpg
 ---

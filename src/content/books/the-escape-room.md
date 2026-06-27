@@ -19,4 +19,7 @@ series: null
 startedAt: null
 finishedAt: 2025-06-04T00:00:00.000Z
 rating: 3.5
+storygraphId: 210519bd-c1c0-428d-ae63-a09e06636339
+storygraphUrl: https://app.thestorygraph.com/books/210519bd-c1c0-428d-ae63-a09e06636339
+coverImage: the-escape-room.jpg
 ---

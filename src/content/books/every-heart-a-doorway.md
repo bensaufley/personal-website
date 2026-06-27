@@ -1,6 +1,6 @@
 ---
 title: Every Heart a Doorway
-subtitle:
+subtitle: null
 series:
   name: Wayward Children
   volume: 1
@@ -13,8 +13,11 @@ finishedAt: 2018-02-06
 rating: 4
 yearPublished: 2016
 startedAt: null
-asin:
-narrators:
+asin: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/book_mappings/7332693/6e8f78cfe9e0d22846cdaf1cb754068c2c505d9d.jpeg
 hardcoverUrl: https://hardcover.app/books/every-heart-a-doorway/editions/31482871
+storygraphId: 072434cd-81e4-44ad-8faa-834f353da241
+storygraphUrl: https://app.thestorygraph.com/books/072434cd-81e4-44ad-8faa-834f353da241
+coverImage: every-heart-a-doorway.jpg
 ---

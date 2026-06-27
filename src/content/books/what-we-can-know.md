@@ -19,4 +19,7 @@ series: null
 startedAt: 2025-12-31T00:00:00.000Z
 finishedAt: 2026-01-04T00:00:00.000Z
 rating: 4.25
+storygraphId: d61d2ce7-85a7-4720-ac15-988486cc2a54
+storygraphUrl: https://app.thestorygraph.com/books/d61d2ce7-85a7-4720-ac15-988486cc2a54
+coverImage: what-we-can-know.jpg
 ---

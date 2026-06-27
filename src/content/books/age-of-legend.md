@@ -19,6 +19,9 @@ series:
 startedAt: 2025-10-29T00:00:00.000Z
 finishedAt: 2025-11-03T00:00:00.000Z
 rating: 4.5
+storygraphId: 793678fd-dbc8-498a-a5ae-ed3c21ac8bf6
+storygraphUrl: https://app.thestorygraph.com/books/793678fd-dbc8-498a-a5ae-ed3c21ac8bf6
+coverImage: age-of-legend.jpg
 ---
 
 Most of these epic fantasy series start to lose me as they get this deep into the series, because the stakes get too broad, and even focusing on the characters, I just lose the sense of who's who (and, to be fair, I definitely mix up names in this one, which is probably made worse by listening to the audiobook) and so I can't identify with the stakes, the storylines, etc. But I really enjoyed this one. The stakes are large but the focus of the story still remains on characters that I connect to and root for.

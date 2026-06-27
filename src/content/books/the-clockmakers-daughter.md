@@ -9,9 +9,12 @@ finishedAt: 2019-04-09
 rating: 4
 yearPublished: 2018
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/external_data/59523036/650894ef0dc3a7166d31dc78fbff08c7fd9de70f.jpeg
 hardcoverUrl: https://hardcover.app/books/the-clockmakers-daughter/editions/12369327
+storygraphId: 9bb14dfb-8f27-4171-af7a-fb958567ff5d
+storygraphUrl: https://app.thestorygraph.com/books/9bb14dfb-8f27-4171-af7a-fb958567ff5d
+coverImage: the-clockmakers-daughter.jpg
 ---

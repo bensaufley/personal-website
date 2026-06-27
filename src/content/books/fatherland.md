@@ -9,11 +9,14 @@ finishedAt: 2015-06-11
 rating: 4
 yearPublished: 2014
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/edition/12139301/12188983-L.jpg
 hardcoverUrl: https://hardcover.app/books/fatherland/editions/12139301
+storygraphId: 9daf164c-9361-4654-abc9-5e3521d2128e
+storygraphUrl: https://app.thestorygraph.com/books/9daf164c-9361-4654-abc9-5e3521d2128e
+coverImage: fatherland.jpg
 ---
 
 Very quick read. Kind of a strange approach to telling the story, but definitely interesting, communicative, informative. Surprisingly sympathetic (without of course condoning some terrible acts). The art is well-crafted and a also relatively unusual style in the medium – you see a lot of faux-amateur indie comics; a few photorealistic; plenty that mimic the mainstream. You don't see a ton with this sort of Wall Street Journal portrait crosshatching/stippling style. Or, at least, I don't.

@@ -19,4 +19,7 @@ series:
 startedAt: null
 finishedAt: null
 rating: null
+storygraphId: a7354c44-964e-4f82-91d7-d82fb9b2eca2
+storygraphUrl: https://app.thestorygraph.com/books/a7354c44-964e-4f82-91d7-d82fb9b2eca2
+coverImage: the-martyr.jpg
 ---

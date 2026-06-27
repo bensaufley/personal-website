@@ -19,4 +19,7 @@ series: null
 startedAt: null
 finishedAt: 2025-07-31T00:00:00.000Z
 rating: 3.5
+storygraphId: 46220bf9-5068-4999-9a16-4b47d9a4f63a
+storygraphUrl: https://app.thestorygraph.com/books/46220bf9-5068-4999-9a16-4b47d9a4f63a
+hasCoverImage: false
 ---

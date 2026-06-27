@@ -19,4 +19,7 @@ series:
 startedAt: 2025-08-05T00:00:00.000Z
 finishedAt: 2025-08-07T00:00:00.000Z
 rating: 4
+storygraphId: 10c2669d-b6d4-4ba8-95fd-72b2d8c84ac8
+storygraphUrl: https://app.thestorygraph.com/books/10c2669d-b6d4-4ba8-95fd-72b2d8c84ac8
+coverImage: rabbits.jpg
 ---

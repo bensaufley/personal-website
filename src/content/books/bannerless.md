@@ -9,9 +9,12 @@ finishedAt: 2019-10-17
 rating: 3
 yearPublished: 2017
 startedAt: null
-asin:
+asin: null
 subtitle: The Bannerless Saga, Book 1
-narrators:
+narrators: null
 coverImageUrl: https://assets.hardcover.app/edition/10356266/content.jpeg
 hardcoverUrl: https://hardcover.app/books/bannerless/editions/10356266
+storygraphId: 8781fd35-a204-4530-962f-6fd988538336
+storygraphUrl: https://app.thestorygraph.com/books/8781fd35-a204-4530-962f-6fd988538336
+coverImage: bannerless.jpg
 ---

@@ -23,4 +23,7 @@ series:
 startedAt: null
 finishedAt: 2025-05-15T00:00:00.000Z
 rating: 3
+storygraphId: e06f0d5b-229e-4939-aaee-29e055f25395
+storygraphUrl: https://app.thestorygraph.com/books/e06f0d5b-229e-4939-aaee-29e055f25395
+coverImage: the-colour-of-magic.jpg
 ---

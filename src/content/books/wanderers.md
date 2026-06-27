@@ -1,22 +1,25 @@
 ---
 title: Wanderers
-subtitle:
+subtitle: null
 series:
   name: Wanderers
   volume: 1
 authors:
   - lastName: Wendig
     firstName: Chuck
-narrators:
+narrators: null
 yearPublished: 2019
-isbn10: '039918211X'
+isbn10: 039918211X
 isbn13: '9780399182112'
-asin:
+asin: null
 coverImageUrl: https://assets.hardcover.app/external_data/59807661/da9f45bee337e5ea0f9eb011d47f99c0375ef25e.jpeg
 hardcoverUrl: https://hardcover.app/books/wanderers/editions/30405623
 finishedAt: 2020-03-26
 rating: 4
 startedAt: null
+storygraphId: e2ec8f1b-182f-42c8-b446-b5e773379d3d
+storygraphUrl: https://app.thestorygraph.com/books/e2ec8f1b-182f-42c8-b446-b5e773379d3d
+coverImage: wanderers.jpg
 ---
 
 Pretty timely, obviously. Pandemic, white supremacist demagogue, etc. I enjoyed it.

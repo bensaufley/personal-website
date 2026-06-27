@@ -132,7 +132,8 @@
       justify-content: center;
       margin-right: 0.5rem;
 
-      img {
+      img,
+      object {
         height: auto;
         max-height: 100cqw;
         max-width: 100%;

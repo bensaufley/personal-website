@@ -1,6 +1,6 @@
 ---
 title: An Ember in the Ashes
-subtitle:
+subtitle: null
 series:
   name: An Ember in the Ashes
   volume: 1
@@ -13,10 +13,13 @@ finishedAt: 2015-06-04
 rating: 4
 yearPublished: 2015
 startedAt: null
-asin:
-narrators:
+asin: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/edition/30506636/a927951df8ae0f58ae9c16ad81bd708168099e22.jpeg
 hardcoverUrl: https://hardcover.app/books/an-ember-in-the-ashes/editions/30402254
+storygraphId: d65ba988-6bd9-4474-8bd3-93dd19af0afb
+storygraphUrl: https://app.thestorygraph.com/books/d65ba988-6bd9-4474-8bd3-93dd19af0afb
+coverImage: an-ember-in-the-ashes.jpg
 ---
 
 Really enjoyable. I guess I wasn't entirely aware what the plan was for future books, so I was a little caught off guard by the very, very unresolved ending. But I get it – it feels less unresolved with the understanding that it's part of a series. It's just that I had certain expectations, certain theories about prophecies etc that I thought would be resolved at a certain point, but weren't.

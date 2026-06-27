@@ -1,20 +1,23 @@
 ---
 title: The Last Council
-subtitle:
+subtitle: null
 series:
   name: Amulet
   volume: 4
 authors:
   - lastName: Kibuishi
     firstName: Kazu
-narrators:
+narrators: null
 yearPublished: 2011
 isbn10: '0545208874'
 isbn13: '9780545208871'
-asin:
+asin: null
 coverImageUrl: https://assets.hardcover.app/external_data/59486215/4bb6a715be0be113e1534aab4480f339ec2cd56f.jpeg
 hardcoverUrl: https://hardcover.app/books/the-last-council/editions/24079633
 finishedAt: 2011-08-27
 rating: 4
 startedAt: null
+storygraphId: 9a398221-6f4f-41dc-b14a-203ebc7371ad
+storygraphUrl: https://app.thestorygraph.com/books/9a398221-6f4f-41dc-b14a-203ebc7371ad
+coverImage: the-last-council.jpg
 ---

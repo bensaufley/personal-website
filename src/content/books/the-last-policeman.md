@@ -9,9 +9,12 @@ finishedAt: 2022-06-30
 rating: 4
 yearPublished: 2012
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/edition/30399480/e618a07a9c39a8ed54d0848bc06d19ad3778e4ee.jpeg
 hardcoverUrl: https://hardcover.app/books/the-last-policeman/editions/30399480
+storygraphId: 2fe54396-2f2a-40dd-b351-89fc4ac14c74
+storygraphUrl: https://app.thestorygraph.com/books/2fe54396-2f2a-40dd-b351-89fc4ac14c74
+coverImage: the-last-policeman.jpg
 ---

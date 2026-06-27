@@ -6,10 +6,13 @@ authors:
 isbn10: '0471263664'
 isbn13: '9780471263661'
 finishedAt: 2008-01-01
-rating:
+rating: null
 yearPublished: 2003
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
+storygraphId: f273a537-c949-480b-a1ea-c95fe5e6140a
+storygraphUrl: https://app.thestorygraph.com/books/f273a537-c949-480b-a1ea-c95fe5e6140a
+coverImage: a-branded-world.jpg
 ---

@@ -9,11 +9,14 @@ finishedAt: 2020-04-24
 rating: 4
 yearPublished: 2017
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
 coverImageUrl: https://assets.hardcover.app/edition/30679829/content.jpeg
 hardcoverUrl: https://hardcover.app/books/the-red-hunter/editions/30679829
+storygraphId: 531e0dd8-e65f-4916-a759-3a03716b8031
+storygraphUrl: https://app.thestorygraph.com/books/531e0dd8-e65f-4916-a759-3a03716b8031
+coverImage: the-red-hunter.jpg
 ---
 
 Pretty predictable at a certain point, but overall enjoyable.

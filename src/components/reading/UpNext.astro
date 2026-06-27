@@ -3,6 +3,8 @@ import { getCollection } from 'astro:content';
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';
 
+import { coverUrl } from '../../lib/covers';
+
 import styles from './styles.module.css';
 
 dayjs.extend(utc);
@@ -19,15 +21,29 @@ const allBooks = (await getCollection('books', (book) => !book.data.startedAt &&
   </header>
   <ul>
     {
-      allBooks.map((book) => (
-        <li class={styles.book}>
-          <a href={book.data.hardcoverUrl!} class={styles.cover} target="_blank" rel="noopener">
-            <object data={book.data.coverImageUrl} class={styles.coverImage}>
-              {book.data.title}
-            </object>
-          </a>
-        </li>
-      ))
+      allBooks.map((book) => {
+        const href = book.data.storygraphUrl ?? undefined;
+        const cover = coverUrl(book.data.coverImage) ?? book.data.coverImageUrl;
+        const Wrap = href ? 'a' : 'span';
+        const wrapProps = href ? { href, target: '_blank', rel: 'noopener' } : {};
+        return (
+          <li class={styles.book}>
+            <Wrap class={styles.cover} {...wrapProps}>
+              {cover ? (
+                <object data={cover} type="image/jpeg" class={styles.coverImage}>
+                  {/* TODO: cover placeholder element */}
+                  {book.data.title}
+                </object>
+              ) : (
+                <span>
+                  {/* TODO: cover placeholder element */}
+                  {book.data.title}
+                </span>
+              )}
+            </Wrap>
+          </li>
+        );
+      })
     }
   </ul>
 </section>

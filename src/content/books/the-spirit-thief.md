@@ -1,6 +1,6 @@
 ---
 title: The Spirit Thief
-subtitle:
+subtitle: null
 series:
   name: The Legend of Eli Monpress
   volume: 1
@@ -13,6 +13,9 @@ finishedAt: 2013-12-12
 rating: 3
 yearPublished: 2010
 startedAt: null
-asin:
-narrators:
+asin: null
+narrators: null
+storygraphId: 38dee0d7-0b35-477a-b359-579dd8b7ad27
+storygraphUrl: https://app.thestorygraph.com/books/38dee0d7-0b35-477a-b359-579dd8b7ad27
+coverImage: the-spirit-thief.jpg
 ---
