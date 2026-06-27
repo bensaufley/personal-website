@@ -12,7 +12,6 @@ yearPublished: 2017
 isbn10: null
 isbn13: null
 asin: null
-coverImageUrl: https://assets.hardcover.app/editions/30391583/6867365921532955.jpg
 hardcoverUrl: https://hardcover.app/books/jorundyrs-path/editions/30391583
 finishedAt: 2018-02-19
 rating: 4

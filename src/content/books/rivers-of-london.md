@@ -12,7 +12,6 @@ yearPublished: 2011
 isbn10: '0575097566'
 isbn13: '9780575097568'
 asin: null
-coverImageUrl: https://assets.hardcover.app/book_mappings/7333353/b1dddfbd03770d4482ad89952c14ec63f55b178d.jpeg
 hardcoverUrl: https://hardcover.app/books/rivers-of-london/editions/11302913
 finishedAt: 2019-05-19
 rating: 3

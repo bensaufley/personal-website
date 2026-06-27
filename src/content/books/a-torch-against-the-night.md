@@ -12,7 +12,6 @@ yearPublished: 2016
 isbn10: null
 isbn13: '9780008250447'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/30447774/e4b2ef4ceaef75c14b9070882c14341b1bf11ede.jpeg
 hardcoverUrl: https://hardcover.app/books/a-torch-against-the-night/editions/30428614
 finishedAt: 2016-09-08
 rating: 3

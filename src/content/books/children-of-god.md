@@ -15,7 +15,6 @@ yearPublished: 2007
 startedAt: null
 asin: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/59391135/54ff9c115fea149483d9d55e9205c6813da79699.jpeg
 hardcoverUrl: https://hardcover.app/books/children-of-god/editions/20215202
 storygraphId: 0a7c79c4-11f0-4961-80db-272cd779f1f6
 storygraphUrl: https://app.thestorygraph.com/books/0a7c79c4-11f0-4961-80db-272cd779f1f6

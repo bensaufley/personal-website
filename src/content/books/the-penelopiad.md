@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/23451271/78eda70977e41a9d3b621a748cb0ec5258ae66b9.jpeg
 hardcoverUrl: https://hardcover.app/books/the-penelopiad/editions/8071586
 storygraphId: 0733cc7e-628c-41df-bdae-2d6311da0e93
 storygraphUrl: https://app.thestorygraph.com/books/0733cc7e-628c-41df-bdae-2d6311da0e93

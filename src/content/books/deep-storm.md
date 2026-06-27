@@ -15,7 +15,6 @@ yearPublished: 2007
 startedAt: null
 asin: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30455103/468595-L.jpg
 hardcoverUrl: https://hardcover.app/books/deep-storm/editions/30455103
 storygraphId: e308852d-4ff4-45fc-a319-5af2ea4d843f
 storygraphUrl: https://app.thestorygraph.com/books/e308852d-4ff4-45fc-a319-5af2ea4d843f

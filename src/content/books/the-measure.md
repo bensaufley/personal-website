@@ -14,7 +14,6 @@ subtitle: null
 narrators:
   - lastName: Whelan
     firstName: Julia
-coverImageUrl: https://assets.hardcover.app/external_data/61201034/85e514124fac12791c47ce6d4b9e7bb15383743e.jpeg
 hardcoverUrl: https://hardcover.app/books/the-measure/editions/30458398
 storygraphId: a26fa577-b833-4d88-b75a-280ced780557
 storygraphUrl: https://app.thestorygraph.com/books/a26fa577-b833-4d88-b75a-280ced780557

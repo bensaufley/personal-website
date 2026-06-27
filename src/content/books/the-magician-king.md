@@ -12,7 +12,6 @@ yearPublished: 2012
 isbn10: '0452298016'
 isbn13: '9780452298019'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/30401081/dfe002db332d16f0b1cff9575436b7b232a399bb.jpeg
 hardcoverUrl: https://hardcover.app/books/the-magician-king/editions/26929882
 finishedAt: 2013-07-05
 rating: 4

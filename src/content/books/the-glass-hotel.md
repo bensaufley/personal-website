@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/29271113/ea287c0553c26688cc8bf065dc78e3145506b87d.jpeg
 hardcoverUrl: https://hardcover.app/books/the-glass-hotel/editions/29271113
 storygraphId: b701051f-f53a-47aa-b314-9864888854f6
 storygraphUrl: https://app.thestorygraph.com/books/b701051f-f53a-47aa-b314-9864888854f6

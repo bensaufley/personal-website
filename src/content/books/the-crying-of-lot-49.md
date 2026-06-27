@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/editions/30642930/4676484531615202-thecryingoflot49.jpg
 hardcoverUrl: https://hardcover.app/books/the-crying-of-lot-49/editions/3464110
 storygraphId: 6f6c6738-b20e-4e56-a973-f80458dc0058
 storygraphUrl: https://app.thestorygraph.com/books/6f6c6738-b20e-4e56-a973-f80458dc0058

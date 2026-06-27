@@ -15,7 +15,6 @@ series:
   name: Chimera
   volume: 1
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/9058632/9171521-L.jpg
 hardcoverUrl: https://hardcover.app/books/an-illusion-of-thieves/editions/9058632
 storygraphId: ac73704a-561a-4951-be7e-f14fa02b4784
 storygraphUrl: https://app.thestorygraph.com/books/ac73704a-561a-4951-be7e-f14fa02b4784

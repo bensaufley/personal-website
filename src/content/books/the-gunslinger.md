@@ -12,7 +12,6 @@ yearPublished: 2003
 isbn10: '1501143514'
 isbn13: '9781501143519'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/897899/7affbf6f1f214c2166a7d774710751f18aa939b7.jpeg
 hardcoverUrl: https://hardcover.app/books/the-gunslinger/editions/31497122
 finishedAt: 2017-09-14
 rating: 2

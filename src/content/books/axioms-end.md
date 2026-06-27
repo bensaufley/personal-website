@@ -19,7 +19,6 @@ narrators:
     firstName: Stephanie
   - lastName: Thorn
     firstName: Abigail
-coverImageUrl: https://assets.hardcover.app/editions/30404122/9695882572041132.jpg
 hardcoverUrl: https://hardcover.app/books/axioms-end/editions/23378293
 storygraphId: 192aa102-a58d-4370-af16-f40f2e90bb4e
 storygraphUrl: https://app.thestorygraph.com/books/192aa102-a58d-4370-af16-f40f2e90bb4e

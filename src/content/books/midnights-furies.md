@@ -13,4 +13,5 @@ asin:
 subtitle: The Deadly Legacy of India's Partition
 narrators:
 hardcoverUrl: https://hardcover.app/books/midnights-furies/editions/30647516
+coverImage: midnights-furies.jpg
 ---

@@ -12,7 +12,6 @@ yearPublished: 2012
 isbn10: '0545284139'
 isbn13: '9780545284134'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/60165153/b7d6f08171155c0e251687c766f4af0a91b6ff15.jpeg
 hardcoverUrl: https://hardcover.app/books/the-false-prince/editions/25728673
 finishedAt: 2016-03-08
 rating: 3

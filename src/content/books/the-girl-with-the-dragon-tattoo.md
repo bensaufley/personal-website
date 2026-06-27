@@ -15,7 +15,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/books/379085/9274740-L.jpg
 hardcoverUrl: https://hardcover.app/books/the-girl-with-the-dragon-tattoo-2005/editions/28431804
 storygraphId: 901f2587-732f-4030-a4ef-e6448f776b7d
 storygraphUrl: https://app.thestorygraph.com/books/901f2587-732f-4030-a4ef-e6448f776b7d

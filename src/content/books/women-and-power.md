@@ -12,6 +12,6 @@ yearPublished: 2017
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/external_data/29990749/883f6e0cfa179e05916c4fe00a39db218e353d5a.jpeg
 hardcoverUrl: https://hardcover.app/books/women-power/editions/30406531
+coverImage: women-and-power.jpeg
 ---

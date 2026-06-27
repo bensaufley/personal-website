@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/10168062/6fff74a37a18ba59eb69c3071899f0b90ba7ea18.jpeg
 hardcoverUrl: https://hardcover.app/books/thirteen-reasons-why/editions/30227667
 storygraphId: 24654753-50b5-40c6-8c59-194e330579bd
 storygraphUrl: https://app.thestorygraph.com/books/24654753-50b5-40c6-8c59-194e330579bd

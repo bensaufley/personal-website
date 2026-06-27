@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/58854207/e7022d5b525b14eb8791eb54a43274d17ed385ca.jpeg
 hardcoverUrl: https://hardcover.app/books/fevered-star/editions/30570124
 storygraphId: 36878aef-f2fb-4617-ad10-dbdc7d19c60d
 storygraphUrl: https://app.thestorygraph.com/books/36878aef-f2fb-4617-ad10-dbdc7d19c60d

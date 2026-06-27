@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/59581396/5fc47cc90658701798750a77267e28bd33c378bc.jpeg
 hardcoverUrl: https://hardcover.app/books/ordinary-monsters/editions/30456421
 storygraphId: f0353bb1-6858-4395-a310-a03d8c3257ef
 storygraphUrl: https://app.thestorygraph.com/books/f0353bb1-6858-4395-a310-a03d8c3257ef

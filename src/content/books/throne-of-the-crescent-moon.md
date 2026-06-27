@@ -12,7 +12,6 @@ yearPublished: 2012
 isbn10: 110157240X
 isbn13: '9781101572405'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/30404943/026d1a4d93e21f92f793fa3af1d674f383912570.jpeg
 hardcoverUrl: https://hardcover.app/books/throne-of-the-crescent-moon/editions/30404943
 finishedAt: 2015-12-07
 rating: 4

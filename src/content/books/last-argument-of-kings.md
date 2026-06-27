@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/15570228/e754d16a5fde232ce433aba834d3819c433e443d.jpeg
 hardcoverUrl: https://hardcover.app/books/last-argument-of-kings/editions/15570228
 storygraphId: 1cd7b313-17f7-41f0-ade5-e8019675a800
 storygraphUrl: https://app.thestorygraph.com/books/1cd7b313-17f7-41f0-ade5-e8019675a800

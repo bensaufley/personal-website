@@ -12,7 +12,6 @@ yearPublished: 2007
 isbn10: 075640407X
 isbn13: '9780756404079'
 asin: null
-coverImageUrl: https://assets.hardcover.app/editions/19454574/9509867934646082.jpg
 hardcoverUrl: https://hardcover.app/books/the-name-of-the-wind/editions/19454574
 finishedAt: 2012-09-06
 rating: 4

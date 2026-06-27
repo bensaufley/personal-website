@@ -12,6 +12,6 @@ yearPublished: 2017
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30400950/34101725._SX98_.jpg
 hardcoverUrl: https://hardcover.app/books/god/editions/30416507
+coverImage: god.jpg
 ---

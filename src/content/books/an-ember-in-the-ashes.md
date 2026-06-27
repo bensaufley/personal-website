@@ -15,7 +15,6 @@ yearPublished: 2015
 startedAt: null
 asin: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30506636/a927951df8ae0f58ae9c16ad81bd708168099e22.jpeg
 hardcoverUrl: https://hardcover.app/books/an-ember-in-the-ashes/editions/30402254
 storygraphId: d65ba988-6bd9-4474-8bd3-93dd19af0afb
 storygraphUrl: https://app.thestorygraph.com/books/d65ba988-6bd9-4474-8bd3-93dd19af0afb

@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/59797341/62cbaea6c1edcf5b3f673233cacad5ff455db43d.jpeg
 hardcoverUrl: https://hardcover.app/books/the-changeling/editions/30446836
 storygraphId: 0230052d-5b13-49fb-98dd-7e1823696b6c
 storygraphUrl: https://app.thestorygraph.com/books/0230052d-5b13-49fb-98dd-7e1823696b6c

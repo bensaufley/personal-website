@@ -12,7 +12,6 @@ yearPublished: 2015
 isbn10: '0439846803'
 isbn13: '9780439846806'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/36308339/643208c6e658ac3be4b284760aa768a877889957.jpeg
 hardcoverUrl: https://hardcover.app/books/the-stonekeeper/editions/3001785
 finishedAt: 2011-07-08
 rating: 3

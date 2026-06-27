@@ -16,6 +16,7 @@ asin:
 subtitle:
 narrators:
 hardcoverUrl: https://hardcover.app/books/the-hound-of-the-baskervilles/editions/9551586
+coverImage: the-hound-of-the-baskervilles.jpeg
 ---
 
 Quite an adventure. A pretty quick read, but its age and style present some interesting words and phrases that are less-familiar in modern English.

@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/48576717/93103705ca03e3ce98f3c217b39ada676fafcdec.jpeg
 hardcoverUrl: https://hardcover.app/books/the-machine-stops/editions/2800793
 storygraphId: e476a28f-3271-4747-8ad2-177a29eed36a
 storygraphUrl: https://app.thestorygraph.com/books/e476a28f-3271-4747-8ad2-177a29eed36a

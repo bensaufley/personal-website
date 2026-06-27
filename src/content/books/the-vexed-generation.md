@@ -17,7 +17,6 @@ subtitle: null
 narrators:
   - lastName: Daniels
     firstName: Luke
-coverImageUrl: https://assets.hardcover.app/edition/30407306/content.jpeg
 hardcoverUrl: https://hardcover.app/books/the-vexed-generation/editions/30407306
 storygraphId: fff5cf2f-ce40-4bb8-9dd1-bf9736a6f8b2
 storygraphUrl: https://app.thestorygraph.com/books/fff5cf2f-ce40-4bb8-9dd1-bf9736a6f8b2

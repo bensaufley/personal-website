@@ -15,7 +15,6 @@ yearPublished: 2018
 startedAt: null
 asin: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/50275619/b94dcb5543efa40837a6e815ca458b63602df254.jpeg
 hardcoverUrl: https://hardcover.app/books/beneath-the-sugar-sky/editions/30400864
 storygraphId: 55cb9c85-4f6f-4535-bce3-da4e378bfbc0
 storygraphUrl: https://app.thestorygraph.com/books/55cb9c85-4f6f-4535-bce3-da4e378bfbc0

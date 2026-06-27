@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/18643988/9324947-L.jpg
 hardcoverUrl: https://hardcover.app/books/strike-me-down/editions/31497101
 storygraphId: a836afc8-48d1-469c-8079-6a72035cdaab
 storygraphUrl: https://app.thestorygraph.com/books/a836afc8-48d1-469c-8079-6a72035cdaab

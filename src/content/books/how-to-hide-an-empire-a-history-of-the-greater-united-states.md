@@ -12,7 +12,6 @@ yearPublished: 2019
 startedAt: null
 asin: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/46825391/5f7289d209e3ff187130e2bd82d6252110fcf6bc.jpeg
 hardcoverUrl: https://hardcover.app/books/how-to-hide-an-empire/editions/30399500
 storygraphId: 1c21fe32-ad00-43e9-9a9a-5bea0e5ef3d4
 storygraphUrl: https://app.thestorygraph.com/books/1c21fe32-ad00-43e9-9a9a-5bea0e5ef3d4

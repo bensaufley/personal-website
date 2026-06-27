@@ -32,7 +32,6 @@ const books = defineCollection({
       isbn10: z.string().nullable(),
       isbn13: z.string().nullable(),
       asin: z.string().nullable(),
-      coverImageUrl: z.string().url().nullable().optional(),
       hardcoverUrl: z.string().url().nullable().optional(),
       storygraphId: z.string().nullable().optional(),
       storygraphUrl: z.string().url().nullable().optional(),

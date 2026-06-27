@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30403326/bf61935424e592cc264fb060bc61d158ecdf75ba.jpeg
 hardcoverUrl: https://hardcover.app/books/i-let-you-go/editions/30403326
 storygraphId: 9673508b-ef5d-4a2a-8eb3-f6c7435aae03
 storygraphUrl: https://app.thestorygraph.com/books/9673508b-ef5d-4a2a-8eb3-f6c7435aae03

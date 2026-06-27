@@ -12,7 +12,6 @@ yearPublished: 2015
 isbn10: '1481424270'
 isbn13: '9781481424271'
 asin: '1481424270'
-coverImageUrl: https://assets.hardcover.app/book_mappings/7333194/89d2883837d6d20cc78fd9907cefadbc572a254e.jpeg
 hardcoverUrl: https://hardcover.app/books/the-grace-of-kings/editions/10711665
 finishedAt: 2018-11-04
 rating: 3

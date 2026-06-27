@@ -12,8 +12,8 @@ yearPublished: 2007
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/edition/14899780/6820382-L.jpg
 hardcoverUrl: https://hardcover.app/books/born-standing-up-a-comics-life/editions/22893065
+coverImage: born-standing-up-a-comics-life.jpg
 ---
 
 Kind of wooden. Some interesting stories, intermittent funny and smart bits, but even at a short 200 pages, those bits seemed to be pretty sparse. Felt like he was trying to be serious or touching at times. Not sure. I get the feeling I might've loved this if it were on tape.

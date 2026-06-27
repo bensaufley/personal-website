@@ -15,4 +15,5 @@ yearPublished: 2006
 startedAt: null
 asin:
 narrators:
+coverImage: bone-vol-4-the-dragonslayer.jpg
 ---

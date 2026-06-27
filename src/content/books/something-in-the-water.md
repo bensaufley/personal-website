@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30399484/f7675fab8a85b3e0b867883990e254e1069133f4.jpeg
 hardcoverUrl: https://hardcover.app/books/something-in-the-water/editions/30399484
 storygraphId: 8c5559cf-0346-46f6-a398-9bc4dda6f69d
 storygraphUrl: https://app.thestorygraph.com/books/8c5559cf-0346-46f6-a398-9bc4dda6f69d

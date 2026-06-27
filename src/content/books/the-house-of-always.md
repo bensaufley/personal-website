@@ -16,7 +16,6 @@ narrators:
     firstName: Lauren
   - lastName: Adam
     firstName: Vikas
-coverImageUrl: https://assets.hardcover.app/edition/30405326/content.jpeg
 hardcoverUrl: https://hardcover.app/books/the-house-of-always/editions/30504114
 storygraphId: 592f9808-5951-409d-b928-94789a6cbb81
 storygraphUrl: https://app.thestorygraph.com/books/592f9808-5951-409d-b928-94789a6cbb81

@@ -13,4 +13,5 @@ startedAt: null
 asin:
 narrators:
 hardcoverUrl: https://hardcover.app/books/bird-by-bird/editions/30825946
+coverImage: bird-by-bird.jpg
 ---

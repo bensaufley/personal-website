@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/15243157/9ad4972a90ddd4c883bae2d460609357528db9d8.jpeg
 hardcoverUrl: https://hardcover.app/books/a-heartbreaking-work-of-staggering-genius/editions/15243157
 storygraphId: 6dd28889-cbab-43c6-a371-92fd4f13e19b
 storygraphUrl: https://app.thestorygraph.com/books/6dd28889-cbab-43c6-a371-92fd4f13e19b

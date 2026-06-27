@@ -12,6 +12,6 @@ yearPublished:
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/books/139686/1726724-L.jpg
 hardcoverUrl: https://hardcover.app/books/the-forgotten-500/editions/13044206
+coverImage: the-forgotten-500.jpg
 ---

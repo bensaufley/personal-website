@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/editions/25614271/4833571895209920-lf.jpeg
 hardcoverUrl: https://hardcover.app/books/harry-potter-and-the-chamber-of-secrets/editions/25614271
 storygraphId: 7b1e4012-2945-4b54-aac2-2be38def24dc
 storygraphUrl: https://app.thestorygraph.com/books/7b1e4012-2945-4b54-aac2-2be38def24dc

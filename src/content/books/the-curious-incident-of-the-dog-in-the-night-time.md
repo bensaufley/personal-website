@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30405357/0bd1b8190abb12028ce230eff4d1a2f2538b6a07.jpeg
 hardcoverUrl: https://hardcover.app/books/the-curious-incident-of-the-dog-in-the-night-time/editions/15272454
 storygraphId: 727dff9f-828e-4f64-be57-d5a56a194da1
 storygraphUrl: https://app.thestorygraph.com/books/727dff9f-828e-4f64-be57-d5a56a194da1

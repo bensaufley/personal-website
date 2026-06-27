@@ -11,7 +11,6 @@ yearPublished: 2024
 isbn10: '1250354048'
 isbn13: '9781250354044'
 asin: B0CQTQNMR9
-coverImageUrl: https://assets.hardcover.app/editions/31581480/8021998958297869.jpeg
 hardcoverUrl: https://hardcover.app/books/the-last-one-at-the-wedding/editions/31581480
 series: null
 startedAt: 2025-09-17T00:00:00.000Z

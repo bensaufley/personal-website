@@ -12,7 +12,6 @@ yearPublished: 2015
 isbn10: '1535020709'
 isbn13: '9781535020701'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/59375069/c7fa3f34ee41bed09d041618a774c1135e40b993.jpeg
 hardcoverUrl: https://hardcover.app/books/the-land-founding/editions/25027703
 finishedAt: 2020-09-21
 rating: 2

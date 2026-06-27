@@ -12,7 +12,6 @@ yearPublished: 2018
 isbn10: '1443455520'
 isbn13: '9781443455527'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/30403438/content.jpeg
 hardcoverUrl: https://hardcover.app/books/the-sentence-is-death/editions/30403438
 finishedAt: 2020-02-17
 rating: 4

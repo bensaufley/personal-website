@@ -21,7 +21,6 @@ yearPublished: 2024
 isbn10: null
 isbn13: null
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/32275234/4d3e600391c7b296a9a95dcb90305787990e46c0.jpeg
 hardcoverUrl: https://hardcover.app/books/love-mom-2024/editions/32680833
 series: null
 startedAt: null
@@ -29,5 +28,5 @@ finishedAt: null
 rating: null
 storygraphId: 039acd80-e082-4b4c-849d-08323dc866a6
 storygraphUrl: https://app.thestorygraph.com/books/039acd80-e082-4b4c-849d-08323dc866a6
-hasCoverImage: false
+coverImage: love-mom.jpeg
 ---

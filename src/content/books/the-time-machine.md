@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/47654737/37c972ad60197661f809b2545d03ec828cb57c95.jpeg
 hardcoverUrl: https://hardcover.app/books/the-time-machine/editions/31497058
 storygraphId: 6df723c1-5c29-4466-bb64-88c93c25400e
 storygraphUrl: https://app.thestorygraph.com/books/6df723c1-5c29-4466-bb64-88c93c25400e

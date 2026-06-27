@@ -14,7 +14,6 @@ subtitle: null
 narrators:
   - lastName: Fey
     firstName: Tina
-coverImageUrl: https://assets.hardcover.app/edition/30399197/9418327._SX98_.jpg
 hardcoverUrl: https://hardcover.app/books/bossypants/editions/23955702
 storygraphId: 271a91cf-5235-4218-b741-cfd38c7e3263
 storygraphUrl: https://app.thestorygraph.com/books/271a91cf-5235-4218-b741-cfd38c7e3263

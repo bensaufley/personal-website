@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30404926/8443773-L.jpg
 hardcoverUrl: https://hardcover.app/books/amatka/editions/30404926
 storygraphId: ea0d615f-9b28-4c04-a1e4-de08202baeb1
 storygraphUrl: https://app.thestorygraph.com/books/ea0d615f-9b28-4c04-a1e4-de08202baeb1

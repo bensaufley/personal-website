@@ -12,7 +12,6 @@ yearPublished: 2013
 isbn10: '1410466825'
 isbn13: '9781410466822'
 asin: null
-coverImageUrl: https://assets.hardcover.app/book_mappings/7332791/ce03ec1a4173b2d95365a83ec6a602cc0139bbd7.jpeg
 hardcoverUrl: https://hardcover.app/books/the-circle/editions/7402587
 finishedAt: 2017-03-25
 rating: 3

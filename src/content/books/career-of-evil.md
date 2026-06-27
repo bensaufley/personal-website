@@ -15,7 +15,6 @@ series:
   name: Cormoran Strike
   volume: 3
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/61548706/a0e812ac1bffd8c04031b4b179de76c25dc26794.jpeg
 hardcoverUrl: https://hardcover.app/books/career-of-evil/editions/13550205
 storygraphId: 2a5736f6-d6ee-4bed-956c-30a972f432b2
 storygraphUrl: https://app.thestorygraph.com/books/2a5736f6-d6ee-4bed-956c-30a972f432b2

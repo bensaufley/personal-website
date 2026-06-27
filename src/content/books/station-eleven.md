@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/47671286/cde65e40092722f63a5b9a29a672d12bc75ae19b.jpeg
 hardcoverUrl: https://hardcover.app/books/station-eleven/editions/14028427
 storygraphId: 429ac891-cc8c-4cbe-a6cc-1671a331ca28
 storygraphUrl: https://app.thestorygraph.com/books/429ac891-cc8c-4cbe-a6cc-1671a331ca28

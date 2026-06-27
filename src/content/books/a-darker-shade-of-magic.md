@@ -12,7 +12,6 @@ yearPublished: 2015
 isbn10: null
 isbn13: '9780765376459'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/30399523/a63ed9ec59f7e2bc8cbc960131d5455ac4310cb6.jpeg
 hardcoverUrl: https://hardcover.app/books/a-darker-shade-of-magic/editions/30399523
 finishedAt: 2016-02-19
 rating: 3

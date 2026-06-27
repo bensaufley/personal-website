@@ -12,8 +12,8 @@ yearPublished: 1993
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/edition/31497067/e0b29fa20d6aa45d1d5d496a02a5c027e3ac9c19.jpeg
 hardcoverUrl:
+coverImage: serbs-and-croats.jpeg
 ---
 
 I knew that this account was written with an eye on defending Serbia, and I think that in some ways Dragnich did an admirable job discussing the motives of most parties. Unfortunately, what he most neglected was Serbia itself: despite his attempts to sound even-handed and fairly analyze actions of which he clearly disapproved from Croatia and Slovenia, he gave no thought to Serbia's own actions. When I looked up major players mentioned in the book, I found accusations (real or not) that were not even addressed by Dragnich.

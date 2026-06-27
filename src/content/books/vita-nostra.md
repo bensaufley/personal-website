@@ -16,7 +16,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/14143375/008198b60fee7d5242637fdf4caa66641300ee05.jpeg
 hardcoverUrl: https://hardcover.app/books/vita-nostra/editions/31484682
 storygraphId: c5ff6727-4711-4ab4-8f47-c1fd9eb96cc3
 storygraphUrl: https://app.thestorygraph.com/books/c5ff6727-4711-4ab4-8f47-c1fd9eb96cc3

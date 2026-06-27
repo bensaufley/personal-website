@@ -12,7 +12,6 @@ yearPublished: 2014
 isbn10: '0374104093'
 isbn13: '9780374104092'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/61104538/b91d0115043c247a33f6cea3d9aa571ff85721df.jpeg
 hardcoverUrl: https://hardcover.app/books/annihilation/editions/31471949
 finishedAt: 2018-02-27
 rating: 3

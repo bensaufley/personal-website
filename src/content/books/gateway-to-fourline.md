@@ -15,7 +15,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30485191/8568039-L.jpg
 hardcoverUrl: https://hardcover.app/books/gateway-to-fourline/editions/30485191
 storygraphId: ea2d37cc-19ac-4c77-a475-281d715c0c52
 storygraphUrl: https://app.thestorygraph.com/books/ea2d37cc-19ac-4c77-a475-281d715c0c52

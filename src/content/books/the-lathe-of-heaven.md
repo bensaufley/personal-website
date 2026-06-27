@@ -14,7 +14,6 @@ subtitle: null
 narrators:
   - lastName: Guidall
     firstName: George
-coverImageUrl: https://assets.hardcover.app/external_data/59634943/2227040a16099237a2e1ca934f4d5fed905e0933.jpeg
 hardcoverUrl: https://hardcover.app/books/the-lathe-of-heaven/editions/8723971
 storygraphId: be21c17b-5baf-4d4a-b071-908c2eb87ddd
 storygraphUrl: https://app.thestorygraph.com/books/be21c17b-5baf-4d4a-b071-908c2eb87ddd

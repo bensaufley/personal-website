@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: The Bannerless Saga, Book 1
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/10356266/content.jpeg
 hardcoverUrl: https://hardcover.app/books/bannerless/editions/10356266
 storygraphId: 8781fd35-a204-4530-962f-6fd988538336
 storygraphUrl: https://app.thestorygraph.com/books/8781fd35-a204-4530-962f-6fd988538336

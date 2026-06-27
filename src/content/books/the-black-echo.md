@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/2084417/48aac84c3cc20a232f1b6d5a00f62454604c3de9.jpeg
 hardcoverUrl: https://hardcover.app/books/the-black-echo/editions/31497079
 storygraphId: 8e13d42c-65a1-4cad-bf36-8874c88d235b
 storygraphUrl: https://app.thestorygraph.com/books/8e13d42c-65a1-4cad-bf36-8874c88d235b

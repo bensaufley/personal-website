@@ -12,7 +12,6 @@ startedAt: null
 asin: '0765326353'
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/3134360/a18d937805a28e3214a556442c8d33f41c02f2cb.jpeg
 hardcoverUrl: https://hardcover.app/books/the-way-of-kings/editions/3134360
 storygraphId: 00005fc1-c486-4b9b-977f-ee9c1c25a3b1
 storygraphUrl: https://app.thestorygraph.com/books/00005fc1-c486-4b9b-977f-ee9c1c25a3b1

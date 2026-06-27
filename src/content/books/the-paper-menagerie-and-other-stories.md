@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/book_mappings/7333263/cd28a33edacc7b0f4c6fdb8ef54b62a7833343a4.jpeg
 hardcoverUrl: https://hardcover.app/books/the-paper-menagerie-and-other-stories/editions/31497005
 storygraphId: 2b83922c-41cd-4ce8-8d3f-86c1cda20fc8
 storygraphUrl: https://app.thestorygraph.com/books/2b83922c-41cd-4ce8-8d3f-86c1cda20fc8

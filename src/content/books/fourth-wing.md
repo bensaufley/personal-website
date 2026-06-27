@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/editions/30706608/7798138539052064-fourth-wing.jpeg
 hardcoverUrl: https://hardcover.app/books/fourth-wing/editions/30906291
 storygraphId: 590a3d87-39a0-4603-ae04-d852b51212e3
 storygraphUrl: https://app.thestorygraph.com/books/590a3d87-39a0-4603-ae04-d852b51212e3

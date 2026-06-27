@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/17455353/5a20de4944a9f901b5de37c63d127649bb3a77b3.jpeg
 hardcoverUrl: https://hardcover.app/books/before-i-fall/editions/17455353
 storygraphId: 2c83bca2-af90-4db7-a16b-8973b3071859
 storygraphUrl: https://app.thestorygraph.com/books/2c83bca2-af90-4db7-a16b-8973b3071859

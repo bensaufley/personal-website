@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/editions/16055859/5358972612351229-49130.jpg
 hardcoverUrl: https://hardcover.app/books/harry-potter-and-the-goblet-of-fire/editions/28458058
 storygraphId: 03cdfd7c-3899-4bec-8ae3-26228a5842f0
 storygraphUrl: https://app.thestorygraph.com/books/03cdfd7c-3899-4bec-8ae3-26228a5842f0

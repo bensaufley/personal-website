@@ -15,7 +15,6 @@ series:
   name: Traveler's Gate
   volume: 1
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/38519894/ec5d6a1a978c69fab563e2de09bfb393e4626f7a.jpeg
 hardcoverUrl: https://hardcover.app/books/house-of-blades/editions/30569579
 storygraphId: a93e6c1f-4977-44d4-937c-97c459e64101
 storygraphUrl: https://app.thestorygraph.com/books/a93e6c1f-4977-44d4-937c-97c459e64101

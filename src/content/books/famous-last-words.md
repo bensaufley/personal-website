@@ -11,7 +11,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: '9780063338449'
 asin: '0063338432'
-coverImageUrl: https://assets.hardcover.app/books/1530458/ede91b25-0e41-4c93-9a60-7152210d57a2.jpeg
 hardcoverUrl: https://hardcover.app/books/famous-last-words-2025/editions/32016316
 series: null
 startedAt: null

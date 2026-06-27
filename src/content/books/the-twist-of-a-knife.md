@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/59587479/659e22d4ed9b06b7d4fb3f39afc4ca9a53b8bc31.jpeg
 hardcoverUrl: https://hardcover.app/books/the-twist-of-a-knife/editions/30517096
 storygraphId: 555c426f-2580-4c2c-8b7f-c68c9670a455
 storygraphUrl: https://app.thestorygraph.com/books/555c426f-2580-4c2c-8b7f-c68c9670a455

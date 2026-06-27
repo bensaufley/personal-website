@@ -12,6 +12,6 @@ yearPublished: 2018
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/book_mappings/7332656/305561d75a2a2ef97a62c5120ff3bd0c1086bcf4.jpeg
 hardcoverUrl: https://hardcover.app/books/factfulness/editions/30399461
+coverImage: factfulness.jpeg
 ---

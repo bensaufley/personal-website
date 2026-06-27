@@ -12,6 +12,6 @@ yearPublished: 2013
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30443982/19ea5de29c91922e212f9d55bed1493bf8e562b8.jpeg
 hardcoverUrl: https://hardcover.app/books/fear-itself-the-new-deal-and-the-origins-of-our-time/editions/30443982
+coverImage: fear-itself.jpeg
 ---

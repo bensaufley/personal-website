@@ -14,7 +14,6 @@ yearPublished: 2006
 isbn10: '0060766204'
 isbn13: '9780060766207'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/13943956/35370-L.jpg
 hardcoverUrl: https://hardcover.app/books/revenge-of-the-witch/editions/13943956
 finishedAt: 2015-01-15
 rating: 3

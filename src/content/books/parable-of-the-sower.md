@@ -12,7 +12,6 @@ yearPublished: 2019
 isbn10: '1538732181'
 isbn13: '9781538732182'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/59901724/b011e2860b2abc9669163bc4e99b100064e67dd2.jpeg
 hardcoverUrl: https://hardcover.app/books/parable-of-the-sower/editions/30404930
 finishedAt: 2019-10-26
 rating: 3

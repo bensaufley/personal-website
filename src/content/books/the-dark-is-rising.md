@@ -12,7 +12,6 @@ yearPublished: 2007
 isbn10: '1416949658'
 isbn13: '9781416949657'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/26692001/883017f2ec04c18996f618d0360b5a9bef2522f2.jpeg
 hardcoverUrl: https://hardcover.app/books/the-dark-is-rising-1973/editions/10516576
 finishedAt: 2015-02-01
 rating: 2

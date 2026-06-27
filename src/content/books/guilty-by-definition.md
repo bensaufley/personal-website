@@ -15,7 +15,6 @@ yearPublished: 2024
 isbn10: null
 isbn13: null
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/31794817/83e8d1df2b048bd521fc832f4526c6f4afb3ce90.jpeg
 hardcoverUrl: https://hardcover.app/books/guilty-by-definition
 storygraphId: 4f54a59a-1248-408f-bbe1-043529f9dde1
 storygraphUrl: https://app.thestorygraph.com/books/4f54a59a-1248-408f-bbe1-043529f9dde1

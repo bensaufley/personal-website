@@ -12,7 +12,6 @@ yearPublished: 2011
 isbn10: null
 isbn13: '9781511395267'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/59504390/6879c787099d2ddb586a18ec99f443bd243a924b.jpeg
 hardcoverUrl: https://hardcover.app/books/the-winds-of-khalakovo/editions/31497092
 finishedAt: 2022-02-05
 rating: 3

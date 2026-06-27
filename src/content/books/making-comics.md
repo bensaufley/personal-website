@@ -12,6 +12,6 @@ yearPublished: 2006
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/external_data/59845442/259429c698055e42a0608fe4e373179c31536fc5.jpeg
 hardcoverUrl: https://hardcover.app/books/making-comics-storytelling-secrets-of-comics-manga-and-graphic-novels/editions/30439561
+coverImage: making-comics.jpeg
 ---

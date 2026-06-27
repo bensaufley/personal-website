@@ -12,7 +12,6 @@ yearPublished: 2006
 isbn10: '0786838655'
 isbn13: '9780786838653'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/775810/f8e87fe8cc17eb4ed4492a028108ff48925a25ec.jpeg
 hardcoverUrl: https://hardcover.app/books/the-lightning-thief/editions/30903112
 finishedAt: 2010-02-01
 rating: 2

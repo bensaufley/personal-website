@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/41542455/e017513daee178d690e0a011e7d16697830a2fea.jpeg
 hardcoverUrl: https://hardcover.app/books/greenwitch/editions/28954567
 storygraphId: 8bc52cce-893a-46c0-92f3-d452e4b0f671
 storygraphUrl: https://app.thestorygraph.com/books/8bc52cce-893a-46c0-92f3-d452e4b0f671

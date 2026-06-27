@@ -15,11 +15,10 @@ yearPublished: 2013
 startedAt: null
 asin: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/editions/30503336/2516242451446449.jpg
 hardcoverUrl: null
 storygraphId: ba286a16-20c0-4fb2-8a01-c5b5b0145eec
 storygraphUrl: https://app.thestorygraph.com/books/ba286a16-20c0-4fb2-8a01-c5b5b0145eec
-hasCoverImage: false
+coverImage: the-cuckoos-calling.jpg
 ---
 
 **Note:** please see my 2025 [blog post re: Rowling](/blog/2025/04/jk-rowling)

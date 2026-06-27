@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30391820/3c95452c9fb481321be195ed313e5ecd0c3599cf.jpeg
 hardcoverUrl: https://hardcover.app/books/the-golden-enclaves/editions/30391820
 storygraphId: 48270b8b-4e9b-410d-86d6-4e308702cd8f
 storygraphUrl: https://app.thestorygraph.com/books/48270b8b-4e9b-410d-86d6-4e308702cd8f

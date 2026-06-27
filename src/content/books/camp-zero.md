@@ -15,7 +15,6 @@ yearPublished: 2023
 isbn10: null
 isbn13: '9781797154152'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/61513519/f965429b2a6e3fcfe4dadfcc62da67274268aee9.jpeg
 hardcoverUrl: https://hardcover.app/books/camp-zero-2023/editions/31594366
 series: null
 startedAt: 2026-02-26T00:00:00.000Z

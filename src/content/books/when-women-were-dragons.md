@@ -13,7 +13,6 @@ yearPublished: 2022
 isbn10: null
 isbn13: '9780593589311'
 asin: null
-coverImageUrl: https://assets.hardcover.app/books/465142/6633668781037143.jpg
 hardcoverUrl: https://hardcover.app/books/when-women-were-dragons/editions/31816794
 series: null
 startedAt: null

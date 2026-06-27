@@ -11,7 +11,6 @@ yearPublished: 2021
 isbn10: null
 isbn13: '9780593414668'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/60889487/99c5649867dc7ac76931b733426ec61c4e5ea0ed.jpeg
 hardcoverUrl: https://hardcover.app/books/rabbits/editions/31546302
 series:
   name: Rabbits

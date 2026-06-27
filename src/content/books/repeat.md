@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30419675/8972272-L.jpg
 hardcoverUrl: https://hardcover.app/books/repeat-2015/editions/31497132
 storygraphId: d52092e1-8095-4610-bf27-40fb3bb14f41
 storygraphUrl: https://app.thestorygraph.com/books/d52092e1-8095-4610-bf27-40fb3bb14f41

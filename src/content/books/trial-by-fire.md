@@ -12,7 +12,6 @@ yearPublished: 2014
 isbn10: 125005088X
 isbn13: '9781250050885'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/31423379/f7ae6a9fdf4d55a5f675a07d9ca8c02bff868e3b.jpeg
 hardcoverUrl: https://hardcover.app/books/trial-by-fire-2014/editions/4091747
 finishedAt: 2018-07-26
 rating: 5

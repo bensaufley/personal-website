@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/61194388/54575a12d19302b10a8fea647460a4be8cd55dd6.jpeg
 hardcoverUrl: https://hardcover.app/books/zero-days/editions/30874376
 storygraphId: faab314a-ee13-44c3-a62b-1d3152eb4109
 storygraphUrl: https://app.thestorygraph.com/books/faab314a-ee13-44c3-a62b-1d3152eb4109

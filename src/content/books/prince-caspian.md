@@ -12,7 +12,6 @@ yearPublished: 2005
 isbn10: 000720230X
 isbn13: '9780007202300'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/12554095/d9471883c51c353a5dfb530d3179df8eb68ebb91.jpeg
 hardcoverUrl: https://hardcover.app/books/prince-caspian/editions/13597093
 finishedAt: 2017-02-07
 rating: 2

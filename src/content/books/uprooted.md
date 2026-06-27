@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30399522/17a809dbce6e6922d131fe75b357f75eef12392b.jpeg
 hardcoverUrl: https://hardcover.app/books/uprooted/editions/30399522
 storygraphId: 726593f7-4e07-470c-8a8b-b302fc94220f
 storygraphUrl: https://app.thestorygraph.com/books/726593f7-4e07-470c-8a8b-b302fc94220f

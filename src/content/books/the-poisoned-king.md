@@ -11,7 +11,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: '9780593830109'
 asin: null
-coverImageUrl: https://assets.hardcover.app/book/1659993/c2d15357-25a5-4f40-a242-a77459cd28f2.jpg
 hardcoverUrl: https://hardcover.app/books/the-poisoned-king/editions/32655580
 series:
   name: Impossible Creatures

@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/59566060/a4df48c1da5030385840fcf67378ffbdc5aed98d.jpeg
 hardcoverUrl: https://hardcover.app/books/no-one-knows/editions/30493598
 storygraphId: 3311880b-41dd-4bf7-b07e-f08bfe9b6209
 storygraphUrl: https://app.thestorygraph.com/books/3311880b-41dd-4bf7-b07e-f08bfe9b6209

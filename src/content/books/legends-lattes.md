@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/editions/30396420/4372639752917043.jpg
 hardcoverUrl: https://hardcover.app/books/legends-lattes/editions/30648259
 storygraphId: d45564a6-f41e-402e-a05f-90b641e86d7a
 storygraphUrl: https://app.thestorygraph.com/books/d45564a6-f41e-402e-a05f-90b641e86d7a

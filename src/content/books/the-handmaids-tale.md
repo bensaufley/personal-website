@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/20879993/7be97c9457dd0572c4cf915cddc844a91a24dc24.jpeg
 hardcoverUrl: https://hardcover.app/books/the-handmaids-tale/editions/5150272
 storygraphId: 623a7568-a386-4f4f-acca-86f32897e064
 storygraphUrl: https://app.thestorygraph.com/books/623a7568-a386-4f4f-acca-86f32897e064

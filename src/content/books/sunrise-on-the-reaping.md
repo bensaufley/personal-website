@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/editions/31416911/2580982385827096.jpg
 hardcoverUrl: https://hardcover.app/books/sunrise-on-the-reaping/editions/31942362
 series:
   name: The Hunger Games

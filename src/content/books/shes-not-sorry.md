@@ -12,6 +12,6 @@ startedAt: null
 asin: B0C4CDP4Z1
 subtitle:
 narrators:
-coverImageUrl: https://assets.hardcover.app/editions/30979892/1023257968099312-ShesNotSorry.jpg
 hardcoverUrl: https://hardcover.app/books/shes-not-sorry/editions/31511081
+coverImage: shes-not-sorry.jpg
 ---

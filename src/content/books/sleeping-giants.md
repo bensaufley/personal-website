@@ -12,7 +12,6 @@ yearPublished: 2016
 isbn10: '1101886692'
 isbn13: '9781101886694'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/30399454/1d6c479c90a9b6a818364b67ab8f7e6e93c57d4c.jpeg
 hardcoverUrl: https://hardcover.app/books/sleeping-giants/editions/30432009
 finishedAt: 2017-01-19
 rating: 3

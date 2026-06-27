@@ -15,7 +15,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/editions/914414/6726176539138138.jpg
 hardcoverUrl: https://hardcover.app/books/a-game-of-thrones/editions/24949259
 storygraphId: 021b6c9c-a678-49b7-9a04-93b3c4fc56ae
 storygraphUrl: https://app.thestorygraph.com/books/021b6c9c-a678-49b7-9a04-93b3c4fc56ae

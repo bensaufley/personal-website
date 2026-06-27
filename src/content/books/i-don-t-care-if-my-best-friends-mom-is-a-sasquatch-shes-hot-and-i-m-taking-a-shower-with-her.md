@@ -13,7 +13,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/60471218/bb811d65d935e70c44ad49926b89a191662114df.jpeg
 hardcoverUrl: https://hardcover.app/books/i-dont-care-if-my-best-friends-mom-is-a-sasquatch-shes-hot-and-im-taking-a-shower-with-her/editions/31368817
 storygraphId: 65023c7d-396a-4ed5-8643-23956dbb22ec
 storygraphUrl: https://app.thestorygraph.com/books/65023c7d-396a-4ed5-8643-23956dbb22ec

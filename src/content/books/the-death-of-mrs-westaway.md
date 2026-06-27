@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/15799340/487662252df0b9e99741c1d98559411d9c08d831.jpeg
 hardcoverUrl: https://hardcover.app/books/the-death-of-mrs-westaway/editions/15799340
 storygraphId: a88389e1-787c-46d0-bb42-db69d19d8a72
 storygraphUrl: https://app.thestorygraph.com/books/a88389e1-787c-46d0-bb42-db69d19d8a72

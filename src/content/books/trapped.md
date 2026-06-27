@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/8812272/e8550f0d4a37ea3fa8716aaaf2be37be5eddaf16.jpeg
 hardcoverUrl: https://hardcover.app/books/trapped-d3957a2c-3adc-431b-8163-c86f7a9d9983/editions/8812272
 storygraphId: 26972720-db5b-49cc-911f-1129f84b0215
 storygraphUrl: https://app.thestorygraph.com/books/26972720-db5b-49cc-911f-1129f84b0215

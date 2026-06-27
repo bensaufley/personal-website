@@ -11,7 +11,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: '9798349120466'
 asin: null
-coverImageUrl: null
 hardcoverUrl: null
 storygraphId: 767774a3-7933-47a3-a888-7e4fb5e7bd73
 storygraphUrl: https://app.thestorygraph.com/books/767774a3-7933-47a3-a888-7e4fb5e7bd73

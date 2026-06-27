@@ -12,8 +12,8 @@ yearPublished: 2014
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/external_data/59336629/a940f4c91be049bb9e80695d1864d763c689e877.jpeg
 hardcoverUrl: https://hardcover.app/books/the-future-of-the-mind/editions/31496987
+coverImage: the-future-of-the-mind.jpeg
 ---
 
 Some really interesting stuff that, over and over, descends into silliness that is not just goofy in how it relates sci fi to real world tech, but extremely credulous or over-ambitious and not at all wary of the dangers of the things it's proposing. The actual, scientific, brain stuff is interesting. The “maybe we could recreate The Force from Star Wars” stuff feels amateurish and goofy.

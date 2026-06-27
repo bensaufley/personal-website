@@ -12,7 +12,6 @@ startedAt: null
 asin: B078SGTKS6
 subtitle: A novel of first contact
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/59790826/b0d42b0cf761926c669a35d1a157cc3767e1f5cf.jpeg
 hardcoverUrl: https://hardcover.app/books/semiosis/editions/31927328
 series:
   name: Semiosis

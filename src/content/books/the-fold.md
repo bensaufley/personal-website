@@ -14,7 +14,6 @@ yearPublished: 2015
 isbn10: '0553418297'
 isbn13: '9780553418293'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/30403889/content.jpeg
 hardcoverUrl: https://hardcover.app/books/the-fold/editions/20184649
 finishedAt: 2018-03-15
 rating: 3

@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30550486/9b0c81d2c764e15e8276810503cf327c19ae1810.jpeg
 hardcoverUrl: https://hardcover.app/books/children-of-memory/editions/30920110
 storygraphId: 702cef49-825c-457e-a170-2c261d78a242
 storygraphUrl: https://app.thestorygraph.com/books/702cef49-825c-457e-a170-2c261d78a242

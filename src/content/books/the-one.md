@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/59458770/d51304e2ba0b63e926d52983dac0010bc089fa2e.jpeg
 hardcoverUrl: https://hardcover.app/books/the-one-2016/editions/1254570
 storygraphId: faf0b4f6-bae9-4e11-8635-a41825ec049a
 storygraphUrl: https://app.thestorygraph.com/books/faf0b4f6-bae9-4e11-8635-a41825ec049a

@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/60236490/90fa6cc8cdc75203cebd7cba87f43f182e1b7905.jpeg
 hardcoverUrl: https://hardcover.app/books/infinity-gate/editions/31497102
 storygraphId: a8d039a8-b8ca-42ae-9ea4-fed649701531
 storygraphUrl: https://app.thestorygraph.com/books/a8d039a8-b8ca-42ae-9ea4-fed649701531

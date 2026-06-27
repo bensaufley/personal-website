@@ -14,7 +14,6 @@ subtitle: null
 narrators:
   - lastName: Church
     firstName: Imogen
-coverImageUrl: https://assets.hardcover.app/edition/27866753/8753735-L.jpg
 hardcoverUrl: https://hardcover.app/books/the-turn-of-the-key-2019/editions/27866753
 storygraphId: 64353188-02b6-4c00-8872-17a680637db6
 storygraphUrl: https://app.thestorygraph.com/books/64353188-02b6-4c00-8872-17a680637db6

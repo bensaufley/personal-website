@@ -12,7 +12,6 @@ yearPublished: 2013
 isbn10: '0545208858'
 isbn13: '9780545208857'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/59342412/5f8a6b773151609b36cb80019742816482beb5da.jpeg
 hardcoverUrl: https://hardcover.app/books/the-cloud-searchers/editions/11649767
 finishedAt: 2011-01-01
 rating: 4

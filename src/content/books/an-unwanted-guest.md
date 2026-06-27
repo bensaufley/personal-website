@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/13670218/content.jpeg
 hardcoverUrl: https://hardcover.app/books/an-unwanted-guest/editions/13670218
 storygraphId: 81d749c1-760d-4c5a-8704-e0ea12a0b973
 storygraphUrl: https://app.thestorygraph.com/books/81d749c1-760d-4c5a-8704-e0ea12a0b973

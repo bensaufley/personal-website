@@ -11,7 +11,6 @@ yearPublished: 2024
 isbn10: null
 isbn13: null
 asin: null
-coverImageUrl: https://assets.hardcover.app/book/1588653/45525acb-194a-4f7c-8dcb-393a5502aabf.jpeg
 hardcoverUrl: https://hardcover.app/books/carpathians/editions/32201846
 series: null
 startedAt: 2025-08-16T00:00:00.000Z

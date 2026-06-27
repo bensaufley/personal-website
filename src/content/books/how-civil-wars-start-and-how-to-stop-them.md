@@ -12,6 +12,6 @@ yearPublished: 2022
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30533464/040bd3e1279023de2e605a16e860ce2d5463fefc.jpeg
 hardcoverUrl: https://hardcover.app/books/how-civil-wars-start/editions/31110165
+coverImage: how-civil-wars-start-and-how-to-stop-them.jpeg
 ---

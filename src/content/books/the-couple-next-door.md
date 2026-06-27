@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/14260697/8466573-L.jpg
 hardcoverUrl: https://hardcover.app/books/the-couple-next-door/editions/14260697
 storygraphId: 7fe3bb57-317f-4993-8779-4c50058851c3
 storygraphUrl: https://app.thestorygraph.com/books/7fe3bb57-317f-4993-8779-4c50058851c3

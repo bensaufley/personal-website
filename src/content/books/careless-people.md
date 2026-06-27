@@ -7,7 +7,6 @@ authors:
 narrators:
   - lastName: Wynn-Williams
     firstName: Sarah
-coverImageUrl: https://assets.hardcover.app/external_data/61669772/473727843a1da99d44e58fb77e705742529f4a7f.jpeg
 hardcoverUrl: https://hardcover.app/books/careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism/editions/31933850
 finishedAt: 2025-04-20
 startedAt: null
@@ -16,6 +15,7 @@ isbn10: '1250391237'
 isbn13: '9781250391230'
 yearPublished: 2025
 rating: 4
+coverImage: careless-people.jpeg
 ---
 
 I think this reinforced a lot of my existing feelings about Facebook and Zuck and despite my disdain for hand-wringing about "echo chambers" I do have alarm bells going off off when I notice that type of thing is happening: am I receptive to this info because it's compelling and legitimate or because I want it to be true? I did not go in with any real preconception of Sandberg and her portrayal here was pretty shocking. Started out as a kind of "well I guess it makes sense that a powerful person behaves this way" but it gets worse and weirder as it goes on.

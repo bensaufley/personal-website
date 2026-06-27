@@ -13,4 +13,5 @@ startedAt: null
 asin:
 narrators:
 hardcoverUrl: https://hardcover.app/books/world-war-z/editions/3129764
+coverImage: world-war-z.jpg
 ---

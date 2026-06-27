@@ -19,7 +19,6 @@ yearPublished: 2021
 isbn10: null
 isbn13: null
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/30382961/55711588._SX98_.jpg
 hardcoverUrl: https://hardcover.app/books/the-second-rebel
 storygraphId: 9b5b52ce-7725-4483-ae5e-20badcff4758
 storygraphUrl: https://app.thestorygraph.com/books/9b5b52ce-7725-4483-ae5e-20badcff4758

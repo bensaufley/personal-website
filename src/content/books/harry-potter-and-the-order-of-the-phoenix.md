@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/editions/29262698/2170450621507933-58613451.jpg
 hardcoverUrl: https://hardcover.app/books/harry-potter-and-the-order-of-the-phoenix/editions/11816654
 storygraphId: e0f01a40-b8fb-472c-998d-853fadf00a67
 storygraphUrl: https://app.thestorygraph.com/books/e0f01a40-b8fb-472c-998d-853fadf00a67

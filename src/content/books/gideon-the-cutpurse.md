@@ -15,7 +15,6 @@ yearPublished: 2006
 startedAt: null
 asin: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/59560440/810b9709e8330da5fc1e29d4454a82666c8c7cc7.jpeg
 hardcoverUrl: https://hardcover.app/books/gideon-the-cutpurse/editions/15407801
 storygraphId: b38d5e7b-620a-4e27-8a56-92b8d7a810ce
 storygraphUrl: https://app.thestorygraph.com/books/b38d5e7b-620a-4e27-8a56-92b8d7a810ce

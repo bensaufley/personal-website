@@ -25,7 +25,6 @@ yearPublished: 2020
 isbn10: null
 isbn13: null
 asin: B09HN2VBK2
-coverImageUrl: https://assets.hardcover.app/book/429366/6a5783a057d557246b65905636e8792f1642864d.jpeg
 hardcoverUrl: https://hardcover.app/books/the-atlas-six/editions/32057523
 series:
   name: The Atlas

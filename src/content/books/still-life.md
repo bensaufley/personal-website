@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/31882491/87881f18c4f265c5647c484723c92921333cb5f8.jpeg
 hardcoverUrl: https://hardcover.app/books/still-life-2005/editions/30500550
 storygraphId: 5acc4827-fd45-4023-83b6-22704dc2ae16
 storygraphUrl: https://app.thestorygraph.com/books/5acc4827-fd45-4023-83b6-22704dc2ae16

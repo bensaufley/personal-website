@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/59400858/481bf1c70151411949456d7f190b467f0a1b1488.jpeg
 hardcoverUrl: https://hardcover.app/books/constance-constance-1/editions/30407331
 storygraphId: 72188459-6c89-4f0c-8d5d-c411a0d5eea7
 storygraphUrl: https://app.thestorygraph.com/books/72188459-6c89-4f0c-8d5d-c411a0d5eea7

@@ -12,7 +12,6 @@ yearPublished: 2014
 isbn10: '0356500152'
 isbn13: '9780356500157'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/45046247/c2c59429fe55dba2dc1d71fbc0c888514e7c1e02.jpeg
 hardcoverUrl: https://hardcover.app/books/the-girl-with-all-the-gifts/editions/11065796
 finishedAt: 2016-11-07
 rating: 4

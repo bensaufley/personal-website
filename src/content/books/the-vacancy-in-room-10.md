@@ -13,7 +13,6 @@ yearPublished: 2015
 isbn10: '1488229503'
 isbn13: '9781488229503'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/425812/ef45668b359816dab71a2176536855ccae6d81dc.jpeg
 hardcoverUrl: https://hardcover.app/books/the-vacancy-in-room-10/editions/32031498
 series: null
 startedAt: null
@@ -21,5 +20,5 @@ finishedAt: 2025-07-31T00:00:00.000Z
 rating: 3.5
 storygraphId: 46220bf9-5068-4999-9a16-4b47d9a4f63a
 storygraphUrl: https://app.thestorygraph.com/books/46220bf9-5068-4999-9a16-4b47d9a4f63a
-hasCoverImage: false
+coverImage: the-vacancy-in-room-10.jpeg
 ---

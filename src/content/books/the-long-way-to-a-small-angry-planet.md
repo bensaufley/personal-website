@@ -15,7 +15,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/editions/30403894/3494270170561911.jpg
 hardcoverUrl: https://hardcover.app/books/the-long-way-to-a-small-angry-planet/editions/88026
 storygraphId: 380205df-87ec-4160-b192-ed67a8d31833
 storygraphUrl: https://app.thestorygraph.com/books/380205df-87ec-4160-b192-ed67a8d31833

@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30382170/f8cd1cdd376082580c47fa7ad9c261ecb2cd2ff3.jpeg
 hardcoverUrl: https://hardcover.app/books/black-nowhere/editions/30382170
 storygraphId: e40b11fd-eb0e-4b26-b1a9-0843ec56152d
 storygraphUrl: https://app.thestorygraph.com/books/e40b11fd-eb0e-4b26-b1a9-0843ec56152d

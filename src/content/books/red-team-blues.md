@@ -11,7 +11,6 @@ yearPublished: 2023
 isbn10: null
 isbn13: null
 asin: null
-coverImageUrl: https://assets.hardcover.app/books/642432/47e20cdb-2fdd-47a9-9484-710eb8fc6a0b.jpeg
 hardcoverUrl: https://hardcover.app/books/red-team-blues/editions/32011716
 series:
   name: Martin Hench

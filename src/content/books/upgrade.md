@@ -12,6 +12,6 @@ startedAt: null
 asin:
 subtitle:
 narrators:
-coverImageUrl: https://assets.hardcover.app/external_data/59914457/6d05bef9020342f3438d865b650b76f4989b8408.jpeg
 hardcoverUrl: https://hardcover.app/books/upgrade/editions/30420227
+coverImage: upgrade.jpeg
 ---

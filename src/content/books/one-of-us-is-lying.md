@@ -12,7 +12,6 @@ yearPublished: 2017
 isbn10: '1524764728'
 isbn13: '9781524714680'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/24923214/78aac0886653043e61f0aaf6d881200e08bd3ba3.jpeg
 hardcoverUrl: https://hardcover.app/books/one-of-us-is-lying/editions/8110587
 finishedAt: 2017-10-02
 rating: 3

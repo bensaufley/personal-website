@@ -12,8 +12,8 @@ yearPublished: 2010
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/edition/544009/26889576._SX98_.jpg
 hardcoverUrl: https://hardcover.app/books/the-big-short/editions/544009
+coverImage: the-big-short.jpg
 ---
 
 I think I only understood about 30% of this book. That's not a criticism of the book, more a caveat of my review. But it was interesting how much time was spent emphasizing how nobody could understand CODs, credit default swaps etc, and then assuming I understood it.

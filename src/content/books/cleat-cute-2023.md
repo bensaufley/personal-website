@@ -9,7 +9,6 @@ yearPublished: 2023
 isbn10: '1250873304'
 isbn13: '9781250873309'
 asin: '1250873304'
-coverImageUrl: https://assets.hardcover.app/editions/30667846/6892764651081036-CleatCute.jpg
 hardcoverUrl: https://hardcover.app/books/cleat-cute-2023/editions/30667846
 series: null
 startedAt: null

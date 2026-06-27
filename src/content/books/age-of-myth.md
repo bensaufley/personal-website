@@ -12,7 +12,6 @@ yearPublished: 2016
 isbn10: '1101965339'
 isbn13: '9781101965337'
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/4684056/9996b1ee1b799cedc76a61e47b2ec70e633eda1e.jpeg
 hardcoverUrl: https://hardcover.app/books/age-of-myth/editions/4684056
 finishedAt: 2018-07-19
 rating: 3

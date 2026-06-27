@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30602784/content.jpeg
 hardcoverUrl: https://hardcover.app/books/open-house-2020/editions/30602784
 storygraphId: 9953f4dd-7952-48f8-9e14-7c32d02b0082
 storygraphUrl: https://app.thestorygraph.com/books/9953f4dd-7952-48f8-9e14-7c32d02b0082

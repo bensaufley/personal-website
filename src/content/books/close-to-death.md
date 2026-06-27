@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/editions/31048496/2940213235006786.jpg
 hardcoverUrl: https://hardcover.app/books/close-to-death/editions/31048496
 storygraphId: 798d2262-f469-40ba-b0b8-12d423fe60ad
 storygraphUrl: https://app.thestorygraph.com/books/798d2262-f469-40ba-b0b8-12d423fe60ad

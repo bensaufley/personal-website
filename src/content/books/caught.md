@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/60033341/f08546cb26926ffa49d49221660c20d2f545253a.jpeg
 hardcoverUrl: https://hardcover.app/books/caught-2019/editions/8102690
 storygraphId: cb604286-6754-439c-91cd-216da7855325
 storygraphUrl: https://app.thestorygraph.com/books/cb604286-6754-439c-91cd-216da7855325

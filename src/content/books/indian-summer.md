@@ -12,8 +12,8 @@ yearPublished: 2007
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30700884/5267151._SX98_.jpg
 hardcoverUrl: https://hardcover.app/books/indian-summer-the-secret-history-of-the-end-of-an-empire/editions/30700884
+coverImage: indian-summer.jpg
 ---
 
 After having just finished [b:Midnight's Furies: The Deadly Legacy of India's Partition

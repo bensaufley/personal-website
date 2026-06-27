@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/book_mappings/7332342/e3c5928fc0a24ca97940c68f03dd2b503e42ba4f.jpeg
 hardcoverUrl: https://hardcover.app/books/dark-matter/editions/10826328
 storygraphId: c043b89c-8b4c-4011-a12f-6ddd6bac1e67
 storygraphUrl: https://app.thestorygraph.com/books/c043b89c-8b4c-4011-a12f-6ddd6bac1e67

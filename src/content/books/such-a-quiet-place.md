@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/59379105/b66f79f72dade230b4cb844f4f086c0759a5914c.jpeg
 hardcoverUrl: https://hardcover.app/books/such-a-quiet-place/editions/30471573
 storygraphId: 936a19ab-5b9c-4b70-bb20-81795bfddd29
 storygraphUrl: https://app.thestorygraph.com/books/936a19ab-5b9c-4b70-bb20-81795bfddd29

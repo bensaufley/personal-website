@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30381158/content.jpeg
 hardcoverUrl: https://hardcover.app/books/the-peripheral/editions/30381158
 storygraphId: 7f39ade3-c8d5-40ee-a102-76e88460958d
 storygraphUrl: https://app.thestorygraph.com/books/7f39ade3-c8d5-40ee-a102-76e88460958d

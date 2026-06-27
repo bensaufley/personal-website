@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/5985140/2d945b669316ec04d2c399a9458658239b0eafe4.jpeg
 hardcoverUrl: https://hardcover.app/books/the-boy-on-the-bridge/editions/31497061
 storygraphId: 74987f67-1723-4f20-af17-5560272ddd25
 storygraphUrl: https://app.thestorygraph.com/books/74987f67-1723-4f20-af17-5560272ddd25

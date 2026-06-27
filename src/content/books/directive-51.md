@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/60035965/b3dc9ca16ff474f6b5b760dc33586b67cd8b3521.jpeg
 hardcoverUrl: https://hardcover.app/books/directive-51/editions/31497043
 storygraphId: 588ed448-0376-431a-94ce-ce5a0478e559
 storygraphUrl: https://app.thestorygraph.com/books/588ed448-0376-431a-94ce-ce5a0478e559

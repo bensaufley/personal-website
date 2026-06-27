@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/edition/30644385/6387351-L.jpg
 hardcoverUrl: https://hardcover.app/books/the-poachers-son/editions/31953999
 series:
   name: Mike Bowditch

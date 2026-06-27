@@ -12,7 +12,6 @@ startedAt: null
 asin: '1400079276'
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/editions/31491275/5427275157910645.jpg
 hardcoverUrl: https://hardcover.app/books/kafka-on-the-shore/editions/31491275
 storygraphId: d8682014-f0ea-4a76-a96e-f7d749857e07
 storygraphUrl: https://app.thestorygraph.com/books/d8682014-f0ea-4a76-a96e-f7d749857e07

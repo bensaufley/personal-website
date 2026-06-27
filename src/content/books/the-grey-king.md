@@ -12,7 +12,6 @@ yearPublished: 2007
 isbn10: '1416949674'
 isbn13: '9781416949671'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/41536999/78b55d2a72fea1462726302835dba435ebb58a18.jpeg
 hardcoverUrl: https://hardcover.app/books/the-grey-king/editions/24478555
 finishedAt: 2019-05-25
 rating: 4

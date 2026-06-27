@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/59917645/6ba3692524dd70a87072a7550b0b5ff642fab249.jpeg
 hardcoverUrl: https://hardcover.app/books/the-end-of-policing/editions/30782454
 storygraphId: f2480cb5-f88f-488c-948a-97d521085344
 storygraphUrl: https://app.thestorygraph.com/books/f2480cb5-f88f-488c-948a-97d521085344

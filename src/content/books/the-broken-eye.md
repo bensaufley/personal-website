@@ -14,7 +14,6 @@ yearPublished: 2014
 isbn10: '0316235555'
 isbn13: '9780316235556'
 asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/43282346/33e81d3d1bb8ef700e36c07922e8a096ec42fed6.jpeg
 hardcoverUrl: https://hardcover.app/books/the-broken-eye/editions/30405384
 finishedAt: 2017-08-30
 rating: 4

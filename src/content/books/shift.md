@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/external_data/29271861/c94b7e6c183918c7357dde9f5646d44c0161ae53.jpeg
 hardcoverUrl: https://hardcover.app/books/shift/editions/30693269
 storygraphId: 8b1582ca-1a5a-4298-9730-cc96d4e6946c
 storygraphUrl: https://app.thestorygraph.com/books/8b1582ca-1a5a-4298-9730-cc96d4e6946c

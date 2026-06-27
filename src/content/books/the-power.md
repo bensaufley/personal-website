@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-coverImageUrl: https://assets.hardcover.app/book_mappings/7332541/38b918d7f1fac96da74b3bfda014524f8fe17e4b.jpeg
 hardcoverUrl: https://hardcover.app/books/the-power/editions/30403942
 storygraphId: a387773b-7d71-4bc5-97f8-525c9cfb8de9
 storygraphUrl: https://app.thestorygraph.com/books/a387773b-7d71-4bc5-97f8-525c9cfb8de9

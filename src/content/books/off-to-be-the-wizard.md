@@ -12,7 +12,6 @@ yearPublished: 2014
 isbn10: '1612184715'
 isbn13: '9781612184715'
 asin: '1612184715'
-coverImageUrl: https://assets.hardcover.app/editions/12252114/230118369051022.jpg
 hardcoverUrl: https://hardcover.app/books/off-to-be-the-wizard/editions/12252114
 finishedAt: 2014-12-22
 rating: 4
