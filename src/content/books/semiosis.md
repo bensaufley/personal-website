@@ -17,6 +17,5 @@ series:
   name: Semiosis
   volume: 1
 storygraphId: 89c40157-1b0b-40ed-af06-2686c70c49ce
-storygraphUrl: https://app.thestorygraph.com/books/89c40157-1b0b-40ed-af06-2686c70c49ce
 coverImage: semiosis.jpg
 ---

@@ -19,7 +19,6 @@ finishedAt: 2017-08-30
 rating: 4
 startedAt: null
 storygraphId: 0b03f6bc-2377-4a32-aafe-4deba2c737c7
-storygraphUrl: https://app.thestorygraph.com/books/0b03f6bc-2377-4a32-aafe-4deba2c737c7
 coverImage: the-broken-eye.jpg
 ---
 

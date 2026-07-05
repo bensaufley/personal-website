@@ -19,6 +19,5 @@ finishedAt: 2021-12-14
 rating: 3
 startedAt: null
 storygraphId: d6c201cc-279b-4cda-b421-8d0067e17d63
-storygraphUrl: https://app.thestorygraph.com/books/d6c201cc-279b-4cda-b421-8d0067e17d63
 coverImage: shards-of-earth.jpg
 ---

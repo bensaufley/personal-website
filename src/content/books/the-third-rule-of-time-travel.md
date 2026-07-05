@@ -17,7 +17,6 @@ startedAt: 2025-09-21T00:00:00.000Z
 finishedAt: 2025-09-25T00:00:00.000Z
 rating: 2.75
 storygraphId: 4307c490-a7d5-4695-a961-aa1c7ff60236
-storygraphUrl: https://app.thestorygraph.com/books/4307c490-a7d5-4695-a961-aa1c7ff60236
 coverImage: the-third-rule-of-time-travel.jpg
 ---
 

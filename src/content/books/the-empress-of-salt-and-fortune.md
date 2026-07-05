@@ -17,6 +17,5 @@ finishedAt: 2021-08-06
 rating: 3
 startedAt: null
 storygraphId: 0329ee97-d448-43b1-81be-e06acef84832
-storygraphUrl: https://app.thestorygraph.com/books/0329ee97-d448-43b1-81be-e06acef84832
 coverImage: the-empress-of-salt-and-fortune.jpg
 ---

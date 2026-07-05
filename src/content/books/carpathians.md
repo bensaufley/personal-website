@@ -17,7 +17,6 @@ startedAt: 2025-08-16T00:00:00.000Z
 finishedAt: 2025-08-23T00:00:00.000Z
 rating: 3
 storygraphId: 21fef525-1af1-47f5-8819-0b52c59f2541
-storygraphUrl: https://app.thestorygraph.com/books/21fef525-1af1-47f5-8819-0b52c59f2541
 coverImage: carpathians.jpg
 ---
 

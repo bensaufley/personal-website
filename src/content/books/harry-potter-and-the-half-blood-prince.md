@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/harry-potter-and-the-half-blood-prince/editions/5737223
 storygraphId: 292ee7de-8dd0-4f10-8d7c-8dcb010dbb73
-storygraphUrl: https://app.thestorygraph.com/books/292ee7de-8dd0-4f10-8d7c-8dcb010dbb73
 coverImage: harry-potter-and-the-half-blood-prince.jpg
 ---
 

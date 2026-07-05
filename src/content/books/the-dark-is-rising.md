@@ -17,7 +17,6 @@ finishedAt: 2015-02-01
 rating: 2
 startedAt: null
 storygraphId: 9e1374cf-8a1a-48b7-8f49-a82d2c37c897
-storygraphUrl: https://app.thestorygraph.com/books/9e1374cf-8a1a-48b7-8f49-a82d2c37c897
 coverImage: the-dark-is-rising.jpg
 ---
 

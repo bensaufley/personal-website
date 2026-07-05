@@ -17,7 +17,6 @@ finishedAt: 2019-12-20
 rating: 4
 startedAt: null
 storygraphId: 21383bfc-c69f-47bd-b5f5-592dca02d12d
-storygraphUrl: https://app.thestorygraph.com/books/21383bfc-c69f-47bd-b5f5-592dca02d12d
 coverImage: the-amber-spyglass.jpg
 ---
 

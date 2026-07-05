@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/before-i-fall/editions/17455353
 storygraphId: 2c83bca2-af90-4db7-a16b-8973b3071859
-storygraphUrl: https://app.thestorygraph.com/books/2c83bca2-af90-4db7-a16b-8973b3071859
 coverImage: before-i-fall.jpg
 ---
 

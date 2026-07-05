@@ -18,6 +18,5 @@ narrators:
     firstName: Vikas
 hardcoverUrl: https://hardcover.app/books/the-house-of-always/editions/30504114
 storygraphId: 592f9808-5951-409d-b928-94789a6cbb81
-storygraphUrl: https://app.thestorygraph.com/books/592f9808-5951-409d-b928-94789a6cbb81
 coverImage: the-house-of-always.jpg
 ---

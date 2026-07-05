@@ -17,7 +17,6 @@ startedAt: 2025-08-01T00:00:00.000Z
 finishedAt: 2025-08-04T00:00:00.000Z
 rating: 2.5
 storygraphId: 31bd2b77-cb33-44d4-8b1e-bde2dc92b66d
-storygraphUrl: https://app.thestorygraph.com/books/31bd2b77-cb33-44d4-8b1e-bde2dc92b66d
 coverImage: she-didnt-see-it-coming.jpg
 ---
 

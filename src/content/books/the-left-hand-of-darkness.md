@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-left-hand-of-darkness/editions/30400648
 storygraphId: e6d52ef9-05ce-4d63-a079-6a69229d4a4a
-storygraphUrl: https://app.thestorygraph.com/books/e6d52ef9-05ce-4d63-a079-6a69229d4a4a
 coverImage: the-left-hand-of-darkness.jpg
 ---

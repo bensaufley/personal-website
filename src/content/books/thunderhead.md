@@ -19,7 +19,6 @@ startedAt: 2025-12-19T00:00:00.000Z
 finishedAt: 2025-12-21T00:00:00.000Z
 rating: 3.5
 storygraphId: 210aaa29-fed1-488e-9298-8c5c779e7290
-storygraphUrl: https://app.thestorygraph.com/books/210aaa29-fed1-488e-9298-8c5c779e7290
 coverImage: thunderhead.jpg
 ---
 

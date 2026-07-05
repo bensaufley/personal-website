@@ -17,7 +17,6 @@ finishedAt: 2016-03-08
 rating: 3
 startedAt: null
 storygraphId: 61ff0e09-2b69-457a-8326-f9949f87dafc
-storygraphUrl: https://app.thestorygraph.com/books/61ff0e09-2b69-457a-8326-f9949f87dafc
 coverImage: the-false-prince.jpg
 ---
 

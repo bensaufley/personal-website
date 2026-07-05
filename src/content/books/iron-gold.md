@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/iron-gold/editions/30391562
 storygraphId: 91855bc4-8d78-4a8d-a45a-c2769f8b9a82
-storygraphUrl: https://app.thestorygraph.com/books/91855bc4-8d78-4a8d-a45a-c2769f8b9a82
 coverImage: iron-gold.jpg
 ---

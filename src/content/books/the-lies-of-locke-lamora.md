@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-lies-of-locke-lamora/editions/14655125
 storygraphId: c2992ca5-4ba9-45e2-a60c-dffc5a50533f
-storygraphUrl: https://app.thestorygraph.com/books/c2992ca5-4ba9-45e2-a60c-dffc5a50533f
 coverImage: the-lies-of-locke-lamora.jpeg
 ---
 

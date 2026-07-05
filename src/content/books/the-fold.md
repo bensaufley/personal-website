@@ -19,6 +19,5 @@ finishedAt: 2018-03-15
 rating: 3
 startedAt: null
 storygraphId: 79598f44-e453-43c5-bb6d-33235ecb307c
-storygraphUrl: https://app.thestorygraph.com/books/79598f44-e453-43c5-bb6d-33235ecb307c
 coverImage: the-fold.jpg
 ---

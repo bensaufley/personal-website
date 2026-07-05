@@ -16,6 +16,5 @@ narrators:
     firstName: James Scott
 hardcoverUrl: https://hardcover.app/books/how-to-write-best-selling-fiction-92686b8d-c599-4f9b-b07b-8c94aadf4e9e/editions/31594042
 storygraphId: 222ebffd-75ba-476a-89a8-99c42c74ad01
-storygraphUrl: https://app.thestorygraph.com/books/222ebffd-75ba-476a-89a8-99c42c74ad01
 coverImage: how-to-write-best-selling-fiction.jpg
 ---

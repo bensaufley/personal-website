@@ -17,6 +17,5 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/come-tumbling-down/editions/27395705
 storygraphId: 885ae1a6-cf1f-4966-a308-934790b61a4b
-storygraphUrl: https://app.thestorygraph.com/books/885ae1a6-cf1f-4966-a308-934790b61a4b
 coverImage: come-tumbling-down.jpg
 ---

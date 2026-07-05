@@ -17,7 +17,6 @@ finishedAt: 2017-09-07
 rating: 3
 startedAt: null
 storygraphId: f1697a09-0025-4e85-af44-26b3c438ca13
-storygraphUrl: https://app.thestorygraph.com/books/f1697a09-0025-4e85-af44-26b3c438ca13
 coverImage: the-blood-mirror.jpg
 ---
 

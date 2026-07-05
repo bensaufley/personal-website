@@ -17,6 +17,5 @@ finishedAt: 2015-01-13
 rating: 3
 startedAt: null
 storygraphId: d820c807-e2cb-4a76-a508-984637e13b14
-storygraphUrl: https://app.thestorygraph.com/books/d820c807-e2cb-4a76-a508-984637e13b14
 coverImage: spell-or-high-water.jpg
 ---

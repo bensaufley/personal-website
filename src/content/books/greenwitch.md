@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/greenwitch/editions/28954567
 storygraphId: 8bc52cce-893a-46c0-92f3-d452e4b0f671
-storygraphUrl: https://app.thestorygraph.com/books/8bc52cce-893a-46c0-92f3-d452e4b0f671
 coverImage: greenwitch.jpg
 ---
 

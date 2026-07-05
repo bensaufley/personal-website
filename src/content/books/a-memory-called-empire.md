@@ -17,6 +17,5 @@ finishedAt: 2019-06-06
 rating: 5
 startedAt: null
 storygraphId: 76f01d57-00fc-4570-9e71-ab622347c7ba
-storygraphUrl: https://app.thestorygraph.com/books/76f01d57-00fc-4570-9e71-ab622347c7ba
 coverImage: a-memory-called-empire.jpg
 ---

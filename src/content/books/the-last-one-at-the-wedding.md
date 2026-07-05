@@ -17,7 +17,6 @@ startedAt: 2025-09-17T00:00:00.000Z
 finishedAt: 2025-09-21T00:00:00.000Z
 rating: 3.5
 storygraphId: cb3ad4a3-a19b-4f04-9aac-4c40c5520ff3
-storygraphUrl: https://app.thestorygraph.com/books/cb3ad4a3-a19b-4f04-9aac-4c40c5520ff3
 coverImage: the-last-one-at-the-wedding.jpg
 ---
 

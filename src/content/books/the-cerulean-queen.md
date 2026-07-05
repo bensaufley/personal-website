@@ -17,6 +17,5 @@ finishedAt: 2021-05-29
 rating: 5
 startedAt: null
 storygraphId: caec6c52-83cc-4031-8302-ce7f77b77bc7
-storygraphUrl: https://app.thestorygraph.com/books/caec6c52-83cc-4031-8302-ce7f77b77bc7
 coverImage: the-cerulean-queen.jpg
 ---

@@ -13,6 +13,5 @@ asin: null
 subtitle: null
 narrators: null
 storygraphId: f273a537-c949-480b-a1ea-c95fe5e6140a
-storygraphUrl: https://app.thestorygraph.com/books/f273a537-c949-480b-a1ea-c95fe5e6140a
 coverImage: a-branded-world.jpg
 ---

@@ -17,7 +17,6 @@ finishedAt: 2018-03-20
 rating: 3
 startedAt: null
 storygraphId: 6cb86e5a-9f3b-47cd-a18a-60e803d3f0e3
-storygraphUrl: https://app.thestorygraph.com/books/6cb86e5a-9f3b-47cd-a18a-60e803d3f0e3
 coverImage: the-star-touched-queen.jpg
 ---
 

@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-squire/editions/30458459
 storygraphId: 94e8fe72-689d-4520-ad82-78a8c6556e0a
-storygraphUrl: https://app.thestorygraph.com/books/94e8fe72-689d-4520-ad82-78a8c6556e0a
 coverImage: the-squire.jpg
 ---

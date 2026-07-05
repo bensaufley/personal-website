@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-dragon-reborn/editions/18443854
 storygraphId: 16e493f3-9082-4257-ae66-a63eaab2251b
-storygraphUrl: https://app.thestorygraph.com/books/16e493f3-9082-4257-ae66-a63eaab2251b
 coverImage: the-dragon-reborn.jpg
 ---
 

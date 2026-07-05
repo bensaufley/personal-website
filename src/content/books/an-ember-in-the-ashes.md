@@ -17,7 +17,6 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/an-ember-in-the-ashes/editions/30402254
 storygraphId: d65ba988-6bd9-4474-8bd3-93dd19af0afb
-storygraphUrl: https://app.thestorygraph.com/books/d65ba988-6bd9-4474-8bd3-93dd19af0afb
 coverImage: an-ember-in-the-ashes.jpg
 ---
 

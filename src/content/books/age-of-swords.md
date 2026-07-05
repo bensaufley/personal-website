@@ -19,6 +19,5 @@ finishedAt: 2019-03-25
 rating: 4
 startedAt: null
 storygraphId: 77fe5d29-e148-4106-ad37-f3eaebccaf3d
-storygraphUrl: https://app.thestorygraph.com/books/77fe5d29-e148-4106-ad37-f3eaebccaf3d
 coverImage: age-of-swords.jpg
 ---

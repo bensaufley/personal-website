@@ -17,7 +17,6 @@ finishedAt: 2016-02-19
 rating: 3
 startedAt: null
 storygraphId: 3e55918e-ab6d-4759-b636-a5ac7a26d257
-storygraphUrl: https://app.thestorygraph.com/books/3e55918e-ab6d-4759-b636-a5ac7a26d257
 coverImage: a-darker-shade-of-magic.jpg
 ---
 

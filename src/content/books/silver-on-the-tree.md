@@ -17,6 +17,5 @@ finishedAt: 2019-12-03
 rating: 3
 startedAt: null
 storygraphId: c508ef28-7745-4fe9-a9ae-8bdbe6b8345f
-storygraphUrl: https://app.thestorygraph.com/books/c508ef28-7745-4fe9-a9ae-8bdbe6b8345f
 coverImage: silver-on-the-tree.jpg
 ---

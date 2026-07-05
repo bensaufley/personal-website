@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/golden-son/editions/30920011
 storygraphId: 74d44b59-99ac-4ef4-904c-55bcdd34b556
-storygraphUrl: https://app.thestorygraph.com/books/74d44b59-99ac-4ef4-904c-55bcdd34b556
 coverImage: golden-son.jpeg
 ---

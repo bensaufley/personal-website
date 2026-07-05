@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-boy-on-the-bridge/editions/31497061
 storygraphId: 74987f67-1723-4f20-af17-5560272ddd25
-storygraphUrl: https://app.thestorygraph.com/books/74987f67-1723-4f20-af17-5560272ddd25
 coverImage: the-boy-on-the-bridge.jpg
 ---

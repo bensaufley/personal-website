@@ -17,6 +17,5 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/eon-1985/editions/3489620
 storygraphId: e386152c-3ad9-4693-8041-2483acd23055
-storygraphUrl: https://app.thestorygraph.com/books/e386152c-3ad9-4693-8041-2483acd23055
 coverImage: eon.jpg
 ---

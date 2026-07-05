@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/format-c/editions/11463969
 storygraphId: 65e1dcdd-3a7b-4bee-8f7d-268223c5b996
-storygraphUrl: https://app.thestorygraph.com/books/65e1dcdd-3a7b-4bee-8f7d-268223c5b996
 coverImage: format-c-.jpg
 ---
 

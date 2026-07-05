@@ -17,6 +17,5 @@ finishedAt: 2019-02-13
 rating: 4
 startedAt: null
 storygraphId: b4f39559-c76e-463f-818b-0c9226fdf0e3
-storygraphUrl: https://app.thestorygraph.com/books/b4f39559-c76e-463f-818b-0c9226fdf0e3
 coverImage: rosewater.jpg
 ---

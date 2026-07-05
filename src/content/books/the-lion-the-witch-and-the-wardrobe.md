@@ -21,6 +21,5 @@ finishedAt: 2016-11-28
 rating: 3
 startedAt: null
 storygraphId: 47fde7a3-c935-4ed6-b20d-622e193cfbbd
-storygraphUrl: https://app.thestorygraph.com/books/47fde7a3-c935-4ed6-b20d-622e193cfbbd
 coverImage: the-lion-the-witch-and-the-wardrobe.jpg
 ---

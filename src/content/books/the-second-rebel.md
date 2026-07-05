@@ -21,9 +21,7 @@ isbn13: null
 asin: null
 hardcoverUrl: https://hardcover.app/books/the-second-rebel
 storygraphId: 9b5b52ce-7725-4483-ae5e-20badcff4758
-storygraphUrl: https://app.thestorygraph.com/books/9b5b52ce-7725-4483-ae5e-20badcff4758
 coverImage: the-second-rebel.jpg
-upNextCollection: null
 series:
   name: The First Sister Trilogy
   volume: 2

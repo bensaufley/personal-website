@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-way-of-kings/editions/3134360
 storygraphId: 00005fc1-c486-4b9b-977f-ee9c1c25a3b1
-storygraphUrl: https://app.thestorygraph.com/books/00005fc1-c486-4b9b-977f-ee9c1c25a3b1
 coverImage: the-way-of-kings.jpg
 ---
 

@@ -17,6 +17,5 @@ series:
   name: Burningblade & Silvereye
   volume: 1
 storygraphId: b94def64-aa92-4b9e-a553-9692c8bf4f28
-storygraphUrl: https://app.thestorygraph.com/books/b94def64-aa92-4b9e-a553-9692c8bf4f28
 coverImage: ashes-of-the-sun.jpg
 ---

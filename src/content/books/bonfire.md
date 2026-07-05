@@ -17,7 +17,6 @@ startedAt: 2025-10-10T00:00:00.000Z
 finishedAt: 2025-10-14T00:00:00.000Z
 rating: 3.75
 storygraphId: 8bb8c12c-4459-4b48-848b-26a2fd769266
-storygraphUrl: https://app.thestorygraph.com/books/8bb8c12c-4459-4b48-848b-26a2fd769266
 coverImage: bonfire.jpg
 ---
 

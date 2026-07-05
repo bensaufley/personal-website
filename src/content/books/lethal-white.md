@@ -19,7 +19,6 @@ finishedAt: 2018-10-11
 rating: 3
 startedAt: null
 storygraphId: bf5d01f2-e89f-4259-bdf2-5a96b1f39ade
-storygraphUrl: https://app.thestorygraph.com/books/bf5d01f2-e89f-4259-bdf2-5a96b1f39ade
 coverImage: lethal-white.jpg
 ---
 

@@ -17,6 +17,5 @@ series:
 narrators: null
 hardcoverUrl: https://hardcover.app/books/american-gods/editions/31497039
 storygraphId: 53e0dd56-dc4d-4c1c-8e7d-f55d833a8436
-storygraphUrl: https://app.thestorygraph.com/books/53e0dd56-dc4d-4c1c-8e7d-f55d833a8436
 coverImage: american-gods.jpg
 ---

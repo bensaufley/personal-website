@@ -17,6 +17,5 @@ finishedAt: 2019-06-20
 rating: 3
 startedAt: null
 storygraphId: 66f279a8-6141-4183-a405-df63b0609f6f
-storygraphUrl: https://app.thestorygraph.com/books/66f279a8-6141-4183-a405-df63b0609f6f
 coverImage: mr-mercedes.jpg
 ---

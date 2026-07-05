@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-golden-compass/editions/24358857
 storygraphId: e0c48a3e-23d5-40eb-a2b6-2e115c0e245d
-storygraphUrl: https://app.thestorygraph.com/books/e0c48a3e-23d5-40eb-a2b6-2e115c0e245d
 coverImage: the-golden-compass.jpg
 ---

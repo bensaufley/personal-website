@@ -17,6 +17,5 @@ finishedAt: 2022-02-13
 rating: 3
 startedAt: null
 storygraphId: 0feaa95b-af42-4ef2-8169-53839833fc65
-storygraphUrl: https://app.thestorygraph.com/books/0feaa95b-af42-4ef2-8169-53839833fc65
 coverImage: ruin-and-rising.jpg
 ---

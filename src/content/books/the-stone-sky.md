@@ -17,6 +17,5 @@ finishedAt: 2018-09-28
 rating: 4
 startedAt: null
 storygraphId: 64e67b90-20c3-40e3-b250-fe89907f6be5
-storygraphUrl: https://app.thestorygraph.com/books/64e67b90-20c3-40e3-b250-fe89907f6be5
 coverImage: the-stone-sky.jpg
 ---

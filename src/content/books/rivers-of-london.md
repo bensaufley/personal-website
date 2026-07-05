@@ -17,7 +17,6 @@ finishedAt: 2019-05-19
 rating: 3
 startedAt: null
 storygraphId: b0065e92-44c7-4cac-969b-d66c7ea82dc4
-storygraphUrl: https://app.thestorygraph.com/books/b0065e92-44c7-4cac-969b-d66c7ea82dc4
 coverImage: rivers-of-london.jpg
 ---
 

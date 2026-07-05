@@ -17,6 +17,5 @@ finishedAt: 2016-11-07
 rating: 4
 startedAt: null
 storygraphId: d9864c4c-d9a4-4fde-a6f2-1710900a8776
-storygraphUrl: https://app.thestorygraph.com/books/d9864c4c-d9a4-4fde-a6f2-1710900a8776
 coverImage: the-girl-with-all-the-gifts.jpg
 ---

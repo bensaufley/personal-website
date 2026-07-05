@@ -17,6 +17,5 @@ finishedAt: 2016-09-08
 rating: 3
 startedAt: null
 storygraphId: 8aef7f87-874f-40a8-99b4-c36e6cb24605
-storygraphUrl: https://app.thestorygraph.com/books/8aef7f87-874f-40a8-99b4-c36e6cb24605
 coverImage: a-torch-against-the-night.jpg
 ---

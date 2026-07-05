@@ -17,6 +17,5 @@ finishedAt: 2020-02-06
 rating: 3
 startedAt: null
 storygraphId: a14bf5b6-a19e-429a-b8f0-a628eb2a0c09
-storygraphUrl: https://app.thestorygraph.com/books/a14bf5b6-a19e-429a-b8f0-a628eb2a0c09
 coverImage: little-girl-lost.jpg
 ---

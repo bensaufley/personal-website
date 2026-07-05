@@ -19,6 +19,5 @@ finishedAt: 2020-02-09
 rating: 2
 startedAt: null
 storygraphId: 03883ad3-6cd9-4339-889c-a33f19aa7912
-storygraphUrl: https://app.thestorygraph.com/books/03883ad3-6cd9-4339-889c-a33f19aa7912
 coverImage: planetside.jpg
 ---

@@ -19,7 +19,6 @@ startedAt: null
 finishedAt: 2025-07-13T00:00:00.000Z
 rating: 4.5
 storygraphId: e78de9af-d5f6-43dc-9a8d-4de831bb399c
-storygraphUrl: https://app.thestorygraph.com/books/e78de9af-d5f6-43dc-9a8d-4de831bb399c
 coverImage: the-woman-in-suite-11.jpg
 ---
 

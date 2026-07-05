@@ -21,6 +21,5 @@ asin: null
 subtitle: null
 narrators: null
 storygraphId: 6cca46c2-c57b-4505-8fb6-62446aff5547
-storygraphUrl: https://app.thestorygraph.com/books/6cca46c2-c57b-4505-8fb6-62446aff5547
 coverImage: candide.jpg
 ---

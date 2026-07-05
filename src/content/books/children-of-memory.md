@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/children-of-memory/editions/30920110
 storygraphId: 702cef49-825c-457e-a170-2c261d78a242
-storygraphUrl: https://app.thestorygraph.com/books/702cef49-825c-457e-a170-2c261d78a242
 coverImage: children-of-memory.jpg
 ---

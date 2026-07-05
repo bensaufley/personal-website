@@ -19,6 +19,5 @@ startedAt: 2025-08-29T00:00:00.000Z
 finishedAt: 2025-09-05T00:00:00.000Z
 rating: 4.5
 storygraphId: db7fe64c-b93f-49cb-950d-6dbf64f5ae24
-storygraphUrl: https://app.thestorygraph.com/books/db7fe64c-b93f-49cb-950d-6dbf64f5ae24
 coverImage: katabasis.jpg
 ---

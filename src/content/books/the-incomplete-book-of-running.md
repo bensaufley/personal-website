@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-incomplete-book-of-running/editions/30562977
 storygraphId: a1f3d8a8-e50c-4156-91ac-74dc07e784a8
-storygraphUrl: https://app.thestorygraph.com/books/a1f3d8a8-e50c-4156-91ac-74dc07e784a8
 coverImage: the-incomplete-book-of-running.jpg
 ---

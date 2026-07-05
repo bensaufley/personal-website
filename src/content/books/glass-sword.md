@@ -17,6 +17,5 @@ series:
 narrators: null
 hardcoverUrl: https://hardcover.app/books/glass-sword/editions/31497014
 storygraphId: 37ec4618-d2c3-453a-aa02-7ccd1cc5c5ee
-storygraphUrl: https://app.thestorygraph.com/books/37ec4618-d2c3-453a-aa02-7ccd1cc5c5ee
 coverImage: glass-sword.jpg
 ---

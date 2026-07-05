@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-clockmakers-daughter/editions/12369327
 storygraphId: 9bb14dfb-8f27-4171-af7a-fb958567ff5d
-storygraphUrl: https://app.thestorygraph.com/books/9bb14dfb-8f27-4171-af7a-fb958567ff5d
 coverImage: the-clockmakers-daughter.jpg
 ---

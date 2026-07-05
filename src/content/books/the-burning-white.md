@@ -17,6 +17,5 @@ finishedAt: 2019-11-08
 rating: 4
 startedAt: null
 storygraphId: c695e5b6-40b2-43e5-a587-7a48df921284
-storygraphUrl: https://app.thestorygraph.com/books/c695e5b6-40b2-43e5-a587-7a48df921284
 coverImage: the-burning-white.jpg
 ---

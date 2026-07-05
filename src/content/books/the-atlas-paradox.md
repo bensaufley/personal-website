@@ -37,7 +37,6 @@ startedAt: 2025-10-05T00:00:00.000Z
 finishedAt: 2025-10-14T00:00:00.000Z
 rating: 3.75
 storygraphId: cafd04fa-534d-4429-bc0b-553717197146
-storygraphUrl: https://app.thestorygraph.com/books/cafd04fa-534d-4429-bc0b-553717197146
 coverImage: the-atlas-paradox.jpg
 ---
 

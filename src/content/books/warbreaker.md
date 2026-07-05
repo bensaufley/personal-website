@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/warbreaker/editions/6002717
 storygraphId: dbdd7ddc-e6ce-40d1-9f67-29e35fafc088
-storygraphUrl: https://app.thestorygraph.com/books/dbdd7ddc-e6ce-40d1-9f67-29e35fafc088
 coverImage: warbreaker.jpg
 ---

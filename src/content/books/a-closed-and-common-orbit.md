@@ -17,6 +17,5 @@ finishedAt: 2020-02-14
 rating: 4
 startedAt: null
 storygraphId: c93235f5-08e9-4224-85da-42fc0ba53158
-storygraphUrl: https://app.thestorygraph.com/books/c93235f5-08e9-4224-85da-42fc0ba53158
 coverImage: a-closed-and-common-orbit.jpg
 ---

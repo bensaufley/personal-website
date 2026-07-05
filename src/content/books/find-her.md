@@ -17,7 +17,6 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/find-her-2016/editions/12962467
 storygraphId: a28f4a06-080a-433b-a448-527b3af207f6
-storygraphUrl: https://app.thestorygraph.com/books/a28f4a06-080a-433b-a448-527b3af207f6
 coverImage: find-her.jpg
 ---
 

@@ -13,6 +13,5 @@ asin: null
 subtitle: null
 narrators: null
 storygraphId: 4107c5b1-7f1a-4473-b9cb-81074e762c66
-storygraphUrl: https://app.thestorygraph.com/books/4107c5b1-7f1a-4473-b9cb-81074e762c66
 coverImage: an-american-marriage.jpg
 ---

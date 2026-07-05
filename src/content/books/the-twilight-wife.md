@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-twilight-wife-2016/editions/30493659
 storygraphId: f9c7c56d-f7e6-4f6f-bcdd-9fbdcad377b8
-storygraphUrl: https://app.thestorygraph.com/books/f9c7c56d-f7e6-4f6f-bcdd-9fbdcad377b8
 coverImage: the-twilight-wife.jpg
 ---

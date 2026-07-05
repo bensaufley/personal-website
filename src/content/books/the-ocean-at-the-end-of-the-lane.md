@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-ocean-at-the-end-of-the-lane/editions/31491548
 storygraphId: a34847e7-a254-4fe3-8be9-8b1ec73a8bdb
-storygraphUrl: https://app.thestorygraph.com/books/a34847e7-a254-4fe3-8be9-8b1ec73a8bdb
 coverImage: the-ocean-at-the-end-of-the-lane.jpg
 ---
 

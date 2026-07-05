@@ -17,6 +17,5 @@ startedAt: 2025-07-16
 finishedAt: null
 rating: null
 storygraphId: 11418b61-51d8-4790-b206-9e8ebf02973b
-storygraphUrl: https://app.thestorygraph.com/books/11418b61-51d8-4790-b206-9e8ebf02973b
 coverImage: the-blue-place.jpg
 ---

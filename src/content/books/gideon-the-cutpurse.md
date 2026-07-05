@@ -17,7 +17,6 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/gideon-the-cutpurse/editions/15407801
 storygraphId: b38d5e7b-620a-4e27-8a56-92b8d7a810ce
-storygraphUrl: https://app.thestorygraph.com/books/b38d5e7b-620a-4e27-8a56-92b8d7a810ce
 coverImage: gideon-the-cutpurse.jpg
 ---
 

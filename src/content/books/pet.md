@@ -17,6 +17,5 @@ finishedAt: 2021-02-03
 rating: 5
 startedAt: null
 storygraphId: 04aa3b0c-80b8-4c90-8173-49bbf8820ff3
-storygraphUrl: https://app.thestorygraph.com/books/04aa3b0c-80b8-4c90-8173-49bbf8820ff3
 coverImage: pet.jpg
 ---

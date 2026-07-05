@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/agent-running-in-the-field/editions/30504416
 storygraphId: 944fac18-0db7-4ff5-8734-db7c7abbcce5
-storygraphUrl: https://app.thestorygraph.com/books/944fac18-0db7-4ff5-8734-db7c7abbcce5
 coverImage: agent-running-in-the-field.jpg
 ---
 

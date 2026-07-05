@@ -17,6 +17,5 @@ finishedAt: 2019-10-06
 rating: 4
 startedAt: null
 storygraphId: a87fca0f-d2af-4bd7-9df8-6f278939dce8
-storygraphUrl: https://app.thestorygraph.com/books/a87fca0f-d2af-4bd7-9df8-6f278939dce8
 coverImage: the-ruin-of-kings.jpg
 ---

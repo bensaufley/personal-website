@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/need-to-know/editions/30403423
 storygraphId: b12813d3-71fe-4227-96d4-961b4d785cd8
-storygraphUrl: https://app.thestorygraph.com/books/b12813d3-71fe-4227-96d4-961b4d785cd8
 coverImage: need-to-know.jpg
 ---
 

@@ -13,9 +13,7 @@ isbn13: '9798349120466'
 asin: null
 hardcoverUrl: null
 storygraphId: 767774a3-7933-47a3-a888-7e4fb5e7bd73
-storygraphUrl: https://app.thestorygraph.com/books/767774a3-7933-47a3-a888-7e4fb5e7bd73
 coverImage: when-were-in-charge.jpg
-upNextCollection: null
 series: null
 startedAt: 2025-08-08T00:00:00.000Z
 finishedAt: 2026-03-10T00:00:00.000Z

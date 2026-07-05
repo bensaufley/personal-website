@@ -17,7 +17,6 @@ finishedAt: 2010-09-08
 rating: 4
 startedAt: null
 storygraphId: c9c7c685-1c62-46d0-8e55-3fe58d8ac9a7
-storygraphUrl: https://app.thestorygraph.com/books/c9c7c685-1c62-46d0-8e55-3fe58d8ac9a7
 coverImage: the-hunger-games.jpg
 ---
 

@@ -13,9 +13,7 @@ isbn13: null
 asin: null
 hardcoverUrl: https://hardcover.app/books/a-drop-of-corruption/editions/31992992
 storygraphId: cbdd9d79-243f-4def-8413-306f88054147
-storygraphUrl: https://app.thestorygraph.com/books/cbdd9d79-243f-4def-8413-306f88054147
 coverImage: a-drop-of-corruption.jpg
-upNextCollection: null
 series:
   name: Shadow of the Leviathan
   volume: 2

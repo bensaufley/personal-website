@@ -21,6 +21,5 @@ finishedAt: 2020-07-29
 rating: 4
 startedAt: null
 storygraphId: b3daee9f-6abd-479c-b620-7d0b9f3d3c91
-storygraphUrl: https://app.thestorygraph.com/books/b3daee9f-6abd-479c-b620-7d0b9f3d3c91
 coverImage: a-queen-in-hiding.jpg
 ---

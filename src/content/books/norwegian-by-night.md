@@ -17,6 +17,5 @@ finishedAt: 2017-06-29
 rating: 4
 startedAt: null
 storygraphId: 25b3def6-e937-48a9-a84b-a5f192c13c84
-storygraphUrl: https://app.thestorygraph.com/books/25b3def6-e937-48a9-a84b-a5f192c13c84
 coverImage: norwegian-by-night.jpg
 ---

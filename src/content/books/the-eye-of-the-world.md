@@ -17,7 +17,6 @@ finishedAt: 2017-03-18
 rating: 2
 startedAt: null
 storygraphId: 82280be4-3a48-4768-8c46-0ad3d44f00e9
-storygraphUrl: https://app.thestorygraph.com/books/82280be4-3a48-4768-8c46-0ad3d44f00e9
 coverImage: the-eye-of-the-world.jpg
 ---
 

@@ -19,6 +19,5 @@ finishedAt: 2018-02-11
 rating: 4
 startedAt: null
 storygraphId: 54a6d6f8-ac20-43dd-aff3-1e7676d2f829
-storygraphUrl: https://app.thestorygraph.com/books/54a6d6f8-ac20-43dd-aff3-1e7676d2f829
 coverImage: the-wolf-of-the-north.jpg
 ---

@@ -17,6 +17,5 @@ finishedAt: 2017-12-20
 rating: 2
 startedAt: null
 storygraphId: 963503c4-5e9f-4fac-97be-ac75fd930d32
-storygraphUrl: https://app.thestorygraph.com/books/963503c4-5e9f-4fac-97be-ac75fd930d32
 coverImage: the-paper-magician.jpg
 ---

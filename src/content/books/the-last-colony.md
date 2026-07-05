@@ -17,6 +17,5 @@ finishedAt: 2018-11-27
 rating: 3
 startedAt: null
 storygraphId: 7a3886a5-bd1f-4e45-8aae-6657ff1ae871
-storygraphUrl: https://app.thestorygraph.com/books/7a3886a5-bd1f-4e45-8aae-6657ff1ae871
 coverImage: the-last-colony.jpg
 ---

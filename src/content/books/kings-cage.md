@@ -20,6 +20,5 @@ narrators:
     firstName: Erin
 hardcoverUrl: https://hardcover.app/books/kings-cage/editions/31503810
 storygraphId: 05f4700d-f69a-448f-8807-23a4607b11c5
-storygraphUrl: https://app.thestorygraph.com/books/05f4700d-f69a-448f-8807-23a4607b11c5
 coverImage: kings-cage.jpg
 ---

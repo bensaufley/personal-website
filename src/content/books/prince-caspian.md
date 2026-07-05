@@ -17,7 +17,6 @@ finishedAt: 2017-02-07
 rating: 2
 startedAt: null
 storygraphId: 056f06e5-bc90-44a6-a699-71bd9703e9c0
-storygraphUrl: https://app.thestorygraph.com/books/056f06e5-bc90-44a6-a699-71bd9703e9c0
 coverImage: prince-caspian.jpg
 ---
 

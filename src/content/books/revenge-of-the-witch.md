@@ -19,7 +19,6 @@ finishedAt: 2015-01-15
 rating: 3
 startedAt: null
 storygraphId: 85f6b92d-c06d-4d92-a095-d7bacddb74ee
-storygraphUrl: https://app.thestorygraph.com/books/85f6b92d-c06d-4d92-a095-d7bacddb74ee
 coverImage: revenge-of-the-witch.jpg
 ---
 

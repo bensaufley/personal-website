@@ -17,6 +17,5 @@ series:
   name: Mike Bowditch
   volume: 1
 storygraphId: 6894db99-c772-4fce-97ea-8dac15bf88d3
-storygraphUrl: https://app.thestorygraph.com/books/6894db99-c772-4fce-97ea-8dac15bf88d3
 coverImage: the-poachers-son.jpg
 ---

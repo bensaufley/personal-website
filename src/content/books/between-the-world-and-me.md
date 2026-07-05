@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/between-the-world-and-me/editions/30400949
 storygraphId: beab3f35-0eae-4ea0-9ad1-8463b17eacb2
-storygraphUrl: https://app.thestorygraph.com/books/beab3f35-0eae-4ea0-9ad1-8463b17eacb2
 coverImage: between-the-world-and-me.jpg
 ---
 

@@ -16,6 +16,5 @@ isbn13: '9781004111619'
 yearPublished: 2023
 rating: 3.5
 storygraphId: 14577fa4-d888-4621-85af-f5f5a836fe3d
-storygraphUrl: https://app.thestorygraph.com/books/14577fa4-d888-4621-85af-f5f5a836fe3d
 coverImage: the-writing-retreat.jpg
 ---

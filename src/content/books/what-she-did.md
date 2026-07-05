@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/what-she-did/editions/31969474
 storygraphId: d3d5b298-2d98-41fd-a41c-36855d78d76c
-storygraphUrl: https://app.thestorygraph.com/books/d3d5b298-2d98-41fd-a41c-36855d78d76c
 coverImage: what-she-did.jpg
 ---
 

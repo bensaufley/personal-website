@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/yes-please/editions/30401294
 storygraphId: 9815097c-8c7c-4bfe-9263-964da5be75ac
-storygraphUrl: https://app.thestorygraph.com/books/9815097c-8c7c-4bfe-9263-964da5be75ac
 coverImage: yes-please.jpg
 ---

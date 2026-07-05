@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-burning-god/editions/15105726
 storygraphId: d7db3446-bd35-42aa-9f7c-2b5dbd234dbb
-storygraphUrl: https://app.thestorygraph.com/books/d7db3446-bd35-42aa-9f7c-2b5dbd234dbb
 coverImage: the-burning-god.jpg
 ---

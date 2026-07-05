@@ -17,7 +17,6 @@ finishedAt: 2015-12-07
 rating: 4
 startedAt: null
 storygraphId: d1bc9743-fd97-497e-86fd-cfb25a492d33
-storygraphUrl: https://app.thestorygraph.com/books/d1bc9743-fd97-497e-86fd-cfb25a492d33
 coverImage: throne-of-the-crescent-moon.jpg
 ---
 

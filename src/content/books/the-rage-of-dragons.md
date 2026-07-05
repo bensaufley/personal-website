@@ -17,6 +17,5 @@ finishedAt: 2020-06-19
 rating: 4
 startedAt: null
 storygraphId: 9d61f6b8-08cf-4394-9e86-0b918788fd24
-storygraphUrl: https://app.thestorygraph.com/books/9d61f6b8-08cf-4394-9e86-0b918788fd24
 coverImage: the-rage-of-dragons.jpg
 ---

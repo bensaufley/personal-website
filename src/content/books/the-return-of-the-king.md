@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-return-of-the-king/editions/13417614
 storygraphId: 4fd8033a-02a5-454d-8e27-0953bfbebcd3
-storygraphUrl: https://app.thestorygraph.com/books/4fd8033a-02a5-454d-8e27-0953bfbebcd3
 coverImage: the-return-of-the-king.jpg
 ---

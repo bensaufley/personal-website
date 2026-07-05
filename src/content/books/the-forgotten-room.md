@@ -17,6 +17,5 @@ finishedAt: 2016-08-26
 rating: 3
 startedAt: null
 storygraphId: 79b400c0-ce0e-4950-932e-c0735b8f1725
-storygraphUrl: https://app.thestorygraph.com/books/79b400c0-ce0e-4950-932e-c0735b8f1725
 coverImage: the-forgotten-room.jpg
 ---

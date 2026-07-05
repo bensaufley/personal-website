@@ -17,6 +17,5 @@ finishedAt: 2011-08-27
 rating: 4
 startedAt: null
 storygraphId: 9a398221-6f4f-41dc-b14a-203ebc7371ad
-storygraphUrl: https://app.thestorygraph.com/books/9a398221-6f4f-41dc-b14a-203ebc7371ad
 coverImage: the-last-council.jpg
 ---

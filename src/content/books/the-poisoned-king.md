@@ -19,7 +19,6 @@ startedAt: 2026-01-20T00:00:00.000Z
 finishedAt: 2026-01-24T00:00:00.000Z
 rating: 4.25
 storygraphId: eb0c09df-3c3e-46d6-987e-a24019bf675e
-storygraphUrl: https://app.thestorygraph.com/books/eb0c09df-3c3e-46d6-987e-a24019bf675e
 coverImage: the-poisoned-king.jpg
 ---
 

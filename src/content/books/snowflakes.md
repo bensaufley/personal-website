@@ -13,6 +13,5 @@ asin: null
 subtitle: null
 narrators: null
 storygraphId: b80b05e3-fd2e-4a8f-a8f8-1fe7617dfd03
-storygraphUrl: https://app.thestorygraph.com/books/b80b05e3-fd2e-4a8f-a8f8-1fe7617dfd03
 coverImage: snowflakes.jpg
 ---

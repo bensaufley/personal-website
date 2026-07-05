@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/in-a-dark-dark-wood/editions/24562503
 storygraphId: 7a5cb16c-548a-4e65-b21d-4d22352957fd
-storygraphUrl: https://app.thestorygraph.com/books/7a5cb16c-548a-4e65-b21d-4d22352957fd
 coverImage: in-a-dark-dark-wood.jpg
 ---

@@ -17,6 +17,5 @@ finishedAt: 2018-02-06
 rating: 4
 startedAt: null
 storygraphId: f17920fc-2079-4199-bb70-67aed3571715
-storygraphUrl: https://app.thestorygraph.com/books/f17920fc-2079-4199-bb70-67aed3571715
 coverImage: the-hate-u-give.jpg
 ---

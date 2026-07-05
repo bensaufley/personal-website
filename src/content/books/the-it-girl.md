@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-it-girl-2022/editions/30455729
 storygraphId: 10d860c8-7b22-42e6-9006-7c3996f8d554
-storygraphUrl: https://app.thestorygraph.com/books/10d860c8-7b22-42e6-9006-7c3996f8d554
 coverImage: the-it-girl.jpg
 ---

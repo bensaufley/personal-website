@@ -19,6 +19,5 @@ finishedAt: 2016-10-13
 rating: 3
 startedAt: null
 storygraphId: dc1e32f2-7ea2-4744-8f71-ad6cbdbd4b05
-storygraphUrl: https://app.thestorygraph.com/books/dc1e32f2-7ea2-4744-8f71-ad6cbdbd4b05
 coverImage: the-ghost-brigades.jpg
 ---

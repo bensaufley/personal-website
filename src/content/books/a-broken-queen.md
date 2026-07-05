@@ -17,6 +17,5 @@ finishedAt: 2021-03-27
 rating: 4
 startedAt: null
 storygraphId: 816ee65a-55e8-4264-9395-415ec577e045
-storygraphUrl: https://app.thestorygraph.com/books/816ee65a-55e8-4264-9395-415ec577e045
 coverImage: a-broken-queen.jpg
 ---

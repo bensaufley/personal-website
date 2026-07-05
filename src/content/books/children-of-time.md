@@ -17,6 +17,5 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/children-of-time/editions/29864448
 storygraphId: 142bc3cb-3aac-49e5-8527-b3cc9675f158
-storygraphUrl: https://app.thestorygraph.com/books/142bc3cb-3aac-49e5-8527-b3cc9675f158
 coverImage: children-of-time.jpg
 ---

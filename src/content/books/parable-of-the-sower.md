@@ -17,7 +17,6 @@ finishedAt: 2019-10-26
 rating: 3
 startedAt: null
 storygraphId: a5413fa0-71d9-4881-8d39-46ba01578134
-storygraphUrl: https://app.thestorygraph.com/books/a5413fa0-71d9-4881-8d39-46ba01578134
 coverImage: parable-of-the-sower.jpg
 ---
 

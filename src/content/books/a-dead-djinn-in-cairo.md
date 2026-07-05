@@ -17,6 +17,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/a-dead-djinn-in-cairo/editions/31496999
 storygraphId: 388bb9a0-f97c-40c3-9225-1233f5726657
-storygraphUrl: https://app.thestorygraph.com/books/388bb9a0-f97c-40c3-9225-1233f5726657
 coverImage: a-dead-djinn-in-cairo.jpg
 ---

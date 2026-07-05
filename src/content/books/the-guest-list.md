@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-guest-list/editions/7648184
 storygraphId: 54029513-f5f9-4e7a-aa4e-54f391bd1ea0
-storygraphUrl: https://app.thestorygraph.com/books/54029513-f5f9-4e7a-aa4e-54f391bd1ea0
 coverImage: the-guest-list.jpg
 ---

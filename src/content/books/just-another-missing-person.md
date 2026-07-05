@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/just-another-missing-person/editions/31497066
 storygraphId: 7b3a3b69-9ac9-4a9f-82bf-895c7e7eabf1
-storygraphUrl: https://app.thestorygraph.com/books/7b3a3b69-9ac9-4a9f-82bf-895c7e7eabf1
 coverImage: just-another-missing-person.jpg
 ---

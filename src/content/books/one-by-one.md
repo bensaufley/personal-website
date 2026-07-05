@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/one-by-one/editions/23260157
 storygraphId: ac773af0-9034-4190-8abc-8698c392734e
-storygraphUrl: https://app.thestorygraph.com/books/ac773af0-9034-4190-8abc-8698c392734e
 coverImage: one-by-one.jpg
 ---

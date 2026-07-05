@@ -17,6 +17,5 @@ finishedAt: 2011-01-01
 rating: 4
 startedAt: null
 storygraphId: 9fb0be3c-3df2-431a-ab11-03a728c86e71
-storygraphUrl: https://app.thestorygraph.com/books/9fb0be3c-3df2-431a-ab11-03a728c86e71
 coverImage: the-cloud-searchers.jpg
 ---

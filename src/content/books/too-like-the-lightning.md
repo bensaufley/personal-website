@@ -17,6 +17,5 @@ finishedAt: 2021-10-28
 rating: 3
 startedAt: null
 storygraphId: ef83ec6b-88ac-4db2-a982-27c1581cd5e2
-storygraphUrl: https://app.thestorygraph.com/books/ef83ec6b-88ac-4db2-a982-27c1581cd5e2
 coverImage: too-like-the-lightning.jpg
 ---

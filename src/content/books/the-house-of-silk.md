@@ -17,6 +17,5 @@ finishedAt: 2018-04-01
 rating: 4
 startedAt: null
 storygraphId: 1a9ea6a4-56e7-471f-a1a5-0ad0e46a0591
-storygraphUrl: https://app.thestorygraph.com/books/1a9ea6a4-56e7-471f-a1a5-0ad0e46a0591
 coverImage: the-house-of-silk.jpg
 ---

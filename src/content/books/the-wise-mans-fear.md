@@ -17,7 +17,6 @@ finishedAt: 2012-10-18
 rating: 4
 startedAt: null
 storygraphId: 0031c6f9-1109-450f-9ecf-910cda416016
-storygraphUrl: https://app.thestorygraph.com/books/0031c6f9-1109-450f-9ecf-910cda416016
 coverImage: the-wise-mans-fear.jpg
 ---
 

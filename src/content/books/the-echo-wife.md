@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-echo-wife/editions/13438092
 storygraphId: 8ee39d1f-87e8-4c32-b639-2f669bd4d303
-storygraphUrl: https://app.thestorygraph.com/books/8ee39d1f-87e8-4c32-b639-2f669bd4d303
 coverImage: the-echo-wife.jpg
 ---

@@ -19,7 +19,6 @@ startedAt: 2025-08-24T00:00:00.000Z
 finishedAt: 2025-08-29T00:00:00.000Z
 rating: 5
 storygraphId: a97ae9ff-1aa2-4ea9-a547-f290ac647b61
-storygraphUrl: https://app.thestorygraph.com/books/a97ae9ff-1aa2-4ea9-a547-f290ac647b61
 coverImage: the-tainted-cup.jpg
 ---
 

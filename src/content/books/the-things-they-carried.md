@@ -13,6 +13,5 @@ asin: null
 subtitle: null
 narrators: null
 storygraphId: 862b35d4-0f33-46f7-940d-cb1712a4813d
-storygraphUrl: https://app.thestorygraph.com/books/862b35d4-0f33-46f7-940d-cb1712a4813d
 coverImage: the-things-they-carried.jpg
 ---

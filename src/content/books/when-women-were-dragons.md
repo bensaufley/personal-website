@@ -19,7 +19,6 @@ startedAt: null
 finishedAt: 2025-07-29T00:00:00.000Z
 rating: 3.75
 storygraphId: cfd6dd83-bb6e-4fb4-b2dd-65dd4b5fa087
-storygraphUrl: https://app.thestorygraph.com/books/cfd6dd83-bb6e-4fb4-b2dd-65dd4b5fa087
 coverImage: when-women-were-dragons.jpg
 ---
 

@@ -17,7 +17,6 @@ finishedAt: 2018-07-26
 rating: 5
 startedAt: null
 storygraphId: d9e8257d-69e1-4464-8c30-bac402d84d25
-storygraphUrl: https://app.thestorygraph.com/books/d9e8257d-69e1-4464-8c30-bac402d84d25
 coverImage: trial-by-fire.jpg
 ---
 

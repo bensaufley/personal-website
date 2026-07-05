@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/educated/editions/30510139
 storygraphId: 8f8d5178-ee65-450d-aec1-56b200975d89
-storygraphUrl: https://app.thestorygraph.com/books/8f8d5178-ee65-450d-aec1-56b200975d89
 coverImage: educated.jpg
 ---

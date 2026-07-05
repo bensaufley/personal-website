@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/autonomous/editions/30428531
 storygraphId: ae65777e-7c1e-459f-9174-7657d05f9602
-storygraphUrl: https://app.thestorygraph.com/books/ae65777e-7c1e-459f-9174-7657d05f9602
 coverImage: autonomous.jpg
 ---
 

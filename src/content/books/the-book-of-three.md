@@ -17,6 +17,5 @@ finishedAt: 2016-12-22
 rating: 3
 startedAt: null
 storygraphId: d8ab9c5e-1a28-4292-aa47-2dc22e350000
-storygraphUrl: https://app.thestorygraph.com/books/d8ab9c5e-1a28-4292-aa47-2dc22e350000
 coverImage: the-book-of-three.jpg
 ---

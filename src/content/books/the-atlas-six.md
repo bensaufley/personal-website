@@ -33,7 +33,6 @@ startedAt: null
 finishedAt: 2025-06-25T00:00:00.000Z
 rating: 4
 storygraphId: 75785938-75f6-40e3-af8f-b5464617b137
-storygraphUrl: https://app.thestorygraph.com/books/75785938-75f6-40e3-af8f-b5464617b137
 coverImage: the-atlas-six.jpg
 ---
 

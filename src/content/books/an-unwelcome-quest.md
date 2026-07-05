@@ -19,6 +19,5 @@ finishedAt: 2015-02-22
 rating: 3
 startedAt: null
 storygraphId: ccd416b5-20d6-436e-82e2-d30cb7f19733
-storygraphUrl: https://app.thestorygraph.com/books/ccd416b5-20d6-436e-82e2-d30cb7f19733
 coverImage: an-unwelcome-quest.jpg
 ---

@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-girl-who-kicked-the-hornets-nest-9f685be0-bfdd-4031-8b74-6a6930893290/editions/30401479
 storygraphId: 959a8068-b0b0-4d20-b494-b59b379708ea
-storygraphUrl: https://app.thestorygraph.com/books/959a8068-b0b0-4d20-b494-b59b379708ea
 coverImage: the-girl-who-kicked-the-hornets-nest.jpg
 ---

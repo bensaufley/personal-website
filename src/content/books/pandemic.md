@@ -19,6 +19,5 @@ narrators:
     firstName: Edoardo
 hardcoverUrl: https://hardcover.app/books/pandemic-2017/editions/30407599
 storygraphId: 15761a00-7d2e-4e9d-b3ac-0cdbb0857f33
-storygraphUrl: https://app.thestorygraph.com/books/15761a00-7d2e-4e9d-b3ac-0cdbb0857f33
 coverImage: pandemic.jpg
 ---

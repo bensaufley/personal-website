@@ -17,6 +17,5 @@ finishedAt: 2016-10-06
 rating: 4
 startedAt: null
 storygraphId: 4851381f-eeea-46ad-befd-0b1d80281d5d
-storygraphUrl: https://app.thestorygraph.com/books/4851381f-eeea-46ad-befd-0b1d80281d5d
 coverImage: the-woman-in-cabin-10.jpg
 ---

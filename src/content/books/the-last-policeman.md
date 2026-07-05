@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-last-policeman/editions/30399480
 storygraphId: 2fe54396-2f2a-40dd-b351-89fc4ac14c74
-storygraphUrl: https://app.thestorygraph.com/books/2fe54396-2f2a-40dd-b351-89fc4ac14c74
 coverImage: the-last-policeman.jpg
 ---

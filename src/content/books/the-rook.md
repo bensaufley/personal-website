@@ -17,6 +17,5 @@ finishedAt: 2019-08-26
 rating: 2
 startedAt: null
 storygraphId: 0071547b-dfe4-41c0-af4b-3fb741fb249c
-storygraphUrl: https://app.thestorygraph.com/books/0071547b-dfe4-41c0-af4b-3fb741fb249c
 coverImage: the-rook.jpg
 ---

@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/through-the-wall-2019/editions/30455745
 storygraphId: d98a16ac-c226-4bc4-aebc-7200f717dd92
-storygraphUrl: https://app.thestorygraph.com/books/d98a16ac-c226-4bc4-aebc-7200f717dd92
 coverImage: through-the-wall.jpg
 ---

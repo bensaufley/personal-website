@@ -17,7 +17,6 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/deep-storm/editions/30455103
 storygraphId: e308852d-4ff4-45fc-a319-5af2ea4d843f
-storygraphUrl: https://app.thestorygraph.com/books/e308852d-4ff4-45fc-a319-5af2ea4d843f
 coverImage: deep-storm.jpg
 ---
 

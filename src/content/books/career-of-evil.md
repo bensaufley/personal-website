@@ -17,7 +17,6 @@ series:
 narrators: null
 hardcoverUrl: https://hardcover.app/books/career-of-evil/editions/13550205
 storygraphId: 2a5736f6-d6ee-4bed-956c-30a972f432b2
-storygraphUrl: https://app.thestorygraph.com/books/2a5736f6-d6ee-4bed-956c-30a972f432b2
 coverImage: career-of-evil.jpg
 ---
 

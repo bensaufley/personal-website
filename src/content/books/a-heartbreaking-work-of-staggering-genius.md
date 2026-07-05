@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/a-heartbreaking-work-of-staggering-genius/editions/15243157
 storygraphId: 6dd28889-cbab-43c6-a371-92fd4f13e19b
-storygraphUrl: https://app.thestorygraph.com/books/6dd28889-cbab-43c6-a371-92fd4f13e19b
 coverImage: a-heartbreaking-work-of-staggering-genius.jpg
 ---

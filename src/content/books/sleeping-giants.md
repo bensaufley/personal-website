@@ -17,7 +17,6 @@ finishedAt: 2017-01-19
 rating: 3
 startedAt: null
 storygraphId: bb2dcaf4-82ad-438a-93e3-f7e60051e366
-storygraphUrl: https://app.thestorygraph.com/books/bb2dcaf4-82ad-438a-93e3-f7e60051e366
 coverImage: sleeping-giants.jpg
 ---
 

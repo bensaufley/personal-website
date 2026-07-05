@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/directive-51/editions/31497043
 storygraphId: 588ed448-0376-431a-94ce-ce5a0478e559
-storygraphUrl: https://app.thestorygraph.com/books/588ed448-0376-431a-94ce-ce5a0478e559
 coverImage: directive-51.jpg
 ---
 

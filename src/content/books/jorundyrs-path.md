@@ -17,6 +17,5 @@ finishedAt: 2018-02-19
 rating: 4
 startedAt: null
 storygraphId: 0357e95f-cab0-4814-a223-aa44f1e76909
-storygraphUrl: https://app.thestorygraph.com/books/0357e95f-cab0-4814-a223-aa44f1e76909
 coverImage: jorundyrs-path.jpg
 ---

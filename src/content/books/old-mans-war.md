@@ -17,6 +17,5 @@ finishedAt: 2016-06-15
 rating: 4
 startedAt: null
 storygraphId: 332929c6-7b62-4bc6-869b-0d775958d1d6
-storygraphUrl: https://app.thestorygraph.com/books/332929c6-7b62-4bc6-869b-0d775958d1d6
 coverImage: old-mans-war.jpg
 ---

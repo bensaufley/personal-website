@@ -17,7 +17,6 @@ finishedAt: 2011-07-08
 rating: 3
 startedAt: null
 storygraphId: 3619eccb-e77a-4a33-beee-fef5e6f6f442
-storygraphUrl: https://app.thestorygraph.com/books/3619eccb-e77a-4a33-beee-fef5e6f6f442
 coverImage: the-stonekeeper.jpg
 ---
 

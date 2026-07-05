@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/beyond-the-shadows/editions/30403646
 storygraphId: 600a176f-a4b3-4e09-8ff1-0ebac691b379
-storygraphUrl: https://app.thestorygraph.com/books/600a176f-a4b3-4e09-8ff1-0ebac691b379
 coverImage: beyond-the-shadows.jpg
 ---
 

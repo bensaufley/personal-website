@@ -17,6 +17,5 @@ finishedAt: 2017-10-18
 rating: 4
 startedAt: null
 storygraphId: 74157f6a-f541-4ef5-868a-b9be31a937ac
-storygraphUrl: https://app.thestorygraph.com/books/74157f6a-f541-4ef5-868a-b9be31a937ac
 coverImage: the-mists-of-avalon.jpg
 ---

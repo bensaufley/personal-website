@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/woman-on-the-edge-of-time/editions/31497035
 storygraphId: 4cd9e61f-01f5-4d61-9bc2-2b8a8b36a477
-storygraphUrl: https://app.thestorygraph.com/books/4cd9e61f-01f5-4d61-9bc2-2b8a8b36a477
 coverImage: woman-on-the-edge-of-time.jpg
 ---

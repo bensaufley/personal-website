@@ -17,6 +17,5 @@ startedAt: 2025-10-02T00:00:00.000Z
 finishedAt: 2025-10-03T00:00:00.000Z
 rating: 3.75
 storygraphId: 57a630bb-21d4-4e8f-a197-49d4a625a597
-storygraphUrl: https://app.thestorygraph.com/books/57a630bb-21d4-4e8f-a197-49d4a625a597
 coverImage: everyone-here-is-lying.jpg
 ---

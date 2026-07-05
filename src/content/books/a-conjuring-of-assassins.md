@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/a-conjuring-of-assassins/editions/30445020
 storygraphId: 69b5fe22-9115-4697-89ae-79845b835e83
-storygraphUrl: https://app.thestorygraph.com/books/69b5fe22-9115-4697-89ae-79845b835e83
 coverImage: a-conjuring-of-assassins.jpg
 ---

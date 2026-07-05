@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/shadows-edge/editions/30403645
 storygraphId: 58b94cb0-99e2-46c0-8d03-cbeb325c0f47
-storygraphUrl: https://app.thestorygraph.com/books/58b94cb0-99e2-46c0-8d03-cbeb325c0f47
 coverImage: shadows-edge.jpg
 ---

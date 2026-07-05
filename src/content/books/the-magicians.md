@@ -17,7 +17,6 @@ finishedAt: 2012-05-08
 rating: 5
 startedAt: null
 storygraphId: 45f53ba2-20e6-4318-ad90-f972d95265cf
-storygraphUrl: https://app.thestorygraph.com/books/45f53ba2-20e6-4318-ad90-f972d95265cf
 coverImage: the-magicians.jpg
 ---
 

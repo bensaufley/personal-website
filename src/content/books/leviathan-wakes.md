@@ -17,7 +17,6 @@ finishedAt: 2020-03-09
 rating: 3
 startedAt: null
 storygraphId: c83664bb-15bf-4404-b896-af6bbb0cfc18
-storygraphUrl: https://app.thestorygraph.com/books/c83664bb-15bf-4404-b896-af6bbb0cfc18
 coverImage: leviathan-wakes.jpg
 ---
 

@@ -17,6 +17,5 @@ finishedAt: 2008-01-01
 rating: 3
 startedAt: null
 storygraphId: 10959e36-7765-41f9-a180-2d7ced0b12f5
-storygraphUrl: https://app.thestorygraph.com/books/10959e36-7765-41f9-a180-2d7ced0b12f5
 coverImage: over-sea-under-stone.jpg
 ---

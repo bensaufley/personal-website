@@ -17,6 +17,5 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/firewalker-2001/editions/11304423
 storygraphId: c4628305-e433-49bb-a740-67faf4aa7c39
-storygraphUrl: https://app.thestorygraph.com/books/c4628305-e433-49bb-a740-67faf4aa7c39
 coverImage: firewalker.jpg
 ---

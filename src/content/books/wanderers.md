@@ -17,7 +17,6 @@ finishedAt: 2020-03-26
 rating: 4
 startedAt: null
 storygraphId: e2ec8f1b-182f-42c8-b446-b5e773379d3d
-storygraphUrl: https://app.thestorygraph.com/books/e2ec8f1b-182f-42c8-b446-b5e773379d3d
 coverImage: wanderers.jpg
 ---
 

@@ -13,6 +13,5 @@ asin: null
 subtitle: null
 narrators: null
 storygraphId: bcee7c6e-3870-4f03-abf8-056e86d7226b
-storygraphUrl: https://app.thestorygraph.com/books/bcee7c6e-3870-4f03-abf8-056e86d7226b
 coverImage: a-simple-favor.jpg
 ---

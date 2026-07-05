@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-legend-of-eli-monpress/editions/30397122
 storygraphId: ae809629-0e0c-449b-95ed-87f8c5e0b5de
-storygraphUrl: https://app.thestorygraph.com/books/ae809629-0e0c-449b-95ed-87f8c5e0b5de
 coverImage: the-legend-of-eli-monpress.jpeg
 ---

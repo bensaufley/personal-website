@@ -17,7 +17,6 @@ finishedAt: 2018-11-04
 rating: 3
 startedAt: null
 storygraphId: 453e46f1-5b4e-4384-a8f1-af9ad6a7a1e5
-storygraphUrl: https://app.thestorygraph.com/books/453e46f1-5b4e-4384-a8f1-af9ad6a7a1e5
 coverImage: the-grace-of-kings.jpg
 ---
 

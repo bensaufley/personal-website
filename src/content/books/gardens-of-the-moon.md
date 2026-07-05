@@ -19,7 +19,6 @@ startedAt: 2026-03-02T00:00:00.000Z
 finishedAt: 2026-03-19T00:00:00.000Z
 rating: 2.5
 storygraphId: ab298f16-883c-456c-ab09-4444f5956d13
-storygraphUrl: https://app.thestorygraph.com/books/ab298f16-883c-456c-ab09-4444f5956d13
 coverImage: gardens-of-the-moon.jpg
 ---
 

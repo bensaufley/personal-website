@@ -17,7 +17,6 @@ finishedAt: 2020-09-21
 rating: 2
 startedAt: null
 storygraphId: 9eab1d31-e70a-4918-915b-e4504fd0c0ac
-storygraphUrl: https://app.thestorygraph.com/books/9eab1d31-e70a-4918-915b-e4504fd0c0ac
 coverImage: the-land-founding.jpg
 ---
 

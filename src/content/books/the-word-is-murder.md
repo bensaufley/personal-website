@@ -19,7 +19,6 @@ finishedAt: 2019-02-16
 rating: 3
 startedAt: null
 storygraphId: 8a351ff1-8b7c-4f6e-ba0e-3a8db9886cca
-storygraphUrl: https://app.thestorygraph.com/books/8a351ff1-8b7c-4f6e-ba0e-3a8db9886cca
 coverImage: the-word-is-murder.jpg
 ---
 

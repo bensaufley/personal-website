@@ -17,7 +17,6 @@ finishedAt: 2014-12-22
 rating: 4
 startedAt: null
 storygraphId: 59c1f7b9-52e2-489a-97b6-f7ff246e3cca
-storygraphUrl: https://app.thestorygraph.com/books/59c1f7b9-52e2-489a-97b6-f7ff246e3cca
 coverImage: off-to-be-the-wizard.jpg
 ---
 

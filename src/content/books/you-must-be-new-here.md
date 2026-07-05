@@ -19,9 +19,7 @@ isbn13: null
 asin: null
 hardcoverUrl: https://hardcover.app/books/you-must-be-new-here
 storygraphId: 203ec3e8-fe4f-4c97-9a49-6d17be2abb89
-storygraphUrl: https://app.thestorygraph.com/books/203ec3e8-fe4f-4c97-9a49-6d17be2abb89
 coverImage: you-must-be-new-here.jpg
-upNextCollection: null
 series: null
 startedAt: null
 finishedAt: 2026-05-09T00:00:00.000Z

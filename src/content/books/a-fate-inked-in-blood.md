@@ -19,7 +19,6 @@ startedAt: null
 finishedAt: 2025-07-07T00:00:00.000Z
 rating: 4
 storygraphId: cfefe229-77aa-4ea9-8455-1a50922a37f0
-storygraphUrl: https://app.thestorygraph.com/books/cfefe229-77aa-4ea9-8455-1a50922a37f0
 coverImage: a-fate-inked-in-blood.jpg
 ---
 

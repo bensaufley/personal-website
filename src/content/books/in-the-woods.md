@@ -17,6 +17,5 @@ finishedAt: 2019-03-13
 rating: 4
 startedAt: null
 storygraphId: 8b21ace2-ad82-4031-a0f3-b63e2d2287fe
-storygraphUrl: https://app.thestorygraph.com/books/8b21ace2-ad82-4031-a0f3-b63e2d2287fe
 coverImage: in-the-woods.jpeg
 ---

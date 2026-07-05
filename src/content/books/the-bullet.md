@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-bullet/editions/30403348
 storygraphId: d6f68c55-4c30-4ee3-99e9-a5f44e20d43d
-storygraphUrl: https://app.thestorygraph.com/books/d6f68c55-4c30-4ee3-99e9-a5f44e20d43d
 coverImage: the-bullet.jpg
 ---

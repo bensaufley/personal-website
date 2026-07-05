@@ -17,6 +17,5 @@ series:
   name: The Hunger Games
   volume: 0.5
 storygraphId: a40d5585-cce4-4267-8879-3479ab930c61
-storygraphUrl: https://app.thestorygraph.com/books/a40d5585-cce4-4267-8879-3479ab930c61
 coverImage: sunrise-on-the-reaping.jpg
 ---

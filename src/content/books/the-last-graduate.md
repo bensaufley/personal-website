@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-last-graduate/editions/30396979
 storygraphId: d26c6ac3-b6f1-40f7-ad21-df07d0970004
-storygraphUrl: https://app.thestorygraph.com/books/d26c6ac3-b6f1-40f7-ad21-df07d0970004
 coverImage: the-last-graduate.jpg
 ---

@@ -19,7 +19,6 @@ finishedAt: 2017-07-16
 rating: 4
 startedAt: null
 storygraphId: 49672510-c514-46b6-a7a4-7ba3efa5317e
-storygraphUrl: https://app.thestorygraph.com/books/49672510-c514-46b6-a7a4-7ba3efa5317e
 coverImage: the-blinding-knife.jpg
 ---
 

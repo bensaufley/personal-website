@@ -17,6 +17,5 @@ finishedAt: 2021-06-18
 rating: 4
 startedAt: null
 storygraphId: 077e84f9-e720-4ac7-b2fe-06642837298b
-storygraphUrl: https://app.thestorygraph.com/books/077e84f9-e720-4ac7-b2fe-06642837298b
 coverImage: the-house-in-the-cerulean-sea.jpg
 ---

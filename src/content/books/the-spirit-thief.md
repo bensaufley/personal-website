@@ -16,6 +16,5 @@ startedAt: null
 asin: null
 narrators: null
 storygraphId: 38dee0d7-0b35-477a-b359-579dd8b7ad27
-storygraphUrl: https://app.thestorygraph.com/books/38dee0d7-0b35-477a-b359-579dd8b7ad27
 coverImage: the-spirit-thief.jpg
 ---

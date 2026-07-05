@@ -17,6 +17,5 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/beneath-the-sugar-sky/editions/30400864
 storygraphId: 55cb9c85-4f6f-4535-bce3-da4e378bfbc0
-storygraphUrl: https://app.thestorygraph.com/books/55cb9c85-4f6f-4535-bce3-da4e378bfbc0
 coverImage: beneath-the-sugar-sky.jpg
 ---

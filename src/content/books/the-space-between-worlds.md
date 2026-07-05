@@ -17,6 +17,5 @@ finishedAt: 2021-08-27
 rating: 5
 startedAt: null
 storygraphId: 79f38f1f-bc2e-475d-a46b-5c5eb0726b70
-storygraphUrl: https://app.thestorygraph.com/books/79f38f1f-bc2e-475d-a46b-5c5eb0726b70
 coverImage: the-space-between-worlds.jpg
 ---

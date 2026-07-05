@@ -21,6 +21,5 @@ finishedAt: 2016-10-15
 rating: 4
 startedAt: null
 storygraphId: cd37afd9-09bb-4555-bfa5-6afd7600735d
-storygraphUrl: https://app.thestorygraph.com/books/cd37afd9-09bb-4555-bfa5-6afd7600735d
 coverImage: the-dispatcher.jpg
 ---

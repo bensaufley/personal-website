@@ -17,7 +17,6 @@ finishedAt: 2010-09-21
 rating: 5
 startedAt: null
 storygraphId: 037b8b82-cc25-47e2-b47a-d9b3f4a0625c
-storygraphUrl: https://app.thestorygraph.com/books/037b8b82-cc25-47e2-b47a-d9b3f4a0625c
 coverImage: mockingjay.jpg
 ---
 

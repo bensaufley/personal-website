@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-paris-apartment/editions/30413240
 storygraphId: e5875beb-595a-4790-abf3-75258f58d8d2
-storygraphUrl: https://app.thestorygraph.com/books/e5875beb-595a-4790-abf3-75258f58d8d2
 coverImage: the-paris-apartment.jpg
 ---

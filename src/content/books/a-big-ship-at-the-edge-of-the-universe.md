@@ -17,7 +17,6 @@ finishedAt: 2020-05-30
 rating: 3
 startedAt: null
 storygraphId: 7a356823-e7d8-443f-bf44-15e4135f8568
-storygraphUrl: https://app.thestorygraph.com/books/7a356823-e7d8-443f-bf44-15e4135f8568
 coverImage: a-big-ship-at-the-edge-of-the-universe.jpg
 ---
 

@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-fountainhead/editions/16903532
 storygraphId: 1cec04c0-827f-440f-ae70-01ec9ff0e8bc
-storygraphUrl: https://app.thestorygraph.com/books/1cec04c0-827f-440f-ae70-01ec9ff0e8bc
 coverImage: the-fountainhead.jpg
 ---

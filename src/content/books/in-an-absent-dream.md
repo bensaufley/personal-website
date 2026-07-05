@@ -17,6 +17,5 @@ finishedAt: 2019-12-01
 rating: 4
 startedAt: null
 storygraphId: 9a00889d-d238-4d7c-a704-6dac968da18a
-storygraphUrl: https://app.thestorygraph.com/books/9a00889d-d238-4d7c-a704-6dac968da18a
 coverImage: in-an-absent-dream.jpg
 ---

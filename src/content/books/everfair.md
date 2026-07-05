@@ -17,6 +17,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/everfair/editions/30640331
 storygraphId: 96e9ff5f-bca2-4760-bda9-cd62128a1486
-storygraphUrl: https://app.thestorygraph.com/books/96e9ff5f-bca2-4760-bda9-cd62128a1486
 coverImage: everfair.jpg
 ---

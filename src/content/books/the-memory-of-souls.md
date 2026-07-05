@@ -17,6 +17,5 @@ finishedAt: 2021-07-30
 rating: 3
 startedAt: null
 storygraphId: cb7db5b3-7bc6-4f12-b9b1-323ed8850425
-storygraphUrl: https://app.thestorygraph.com/books/cb7db5b3-7bc6-4f12-b9b1-323ed8850425
 coverImage: the-memory-of-souls.jpg
 ---

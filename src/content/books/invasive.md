@@ -16,6 +16,5 @@ narrators:
     firstName: Xe
 hardcoverUrl: https://hardcover.app/books/invasive/editions/31497150
 storygraphId: f68d7efd-708d-4ddf-affc-d9a8cf8b6013
-storygraphUrl: https://app.thestorygraph.com/books/f68d7efd-708d-4ddf-affc-d9a8cf8b6013
 coverImage: invasive.jpg
 ---

@@ -20,6 +20,5 @@ narrators:
     firstName: Gabra
 hardcoverUrl: https://hardcover.app/books/ill-be-gone-in-the-dark/editions/30683020
 storygraphId: 5c4afa7e-ed7e-410f-b9d5-245a518ca7cb
-storygraphUrl: https://app.thestorygraph.com/books/5c4afa7e-ed7e-410f-b9d5-245a518ca7cb
 coverImage: i-ll-be-gone-in-the-dark.jpg
 ---

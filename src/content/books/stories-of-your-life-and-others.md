@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/stories-of-your-life-and-others/editions/3784055
 storygraphId: c34ac03b-3b0e-4a24-b694-e46674918a3a
-storygraphUrl: https://app.thestorygraph.com/books/c34ac03b-3b0e-4a24-b694-e46674918a3a
 coverImage: stories-of-your-life-and-others.jpg
 ---
 

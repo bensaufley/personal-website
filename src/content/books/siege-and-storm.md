@@ -17,6 +17,5 @@ finishedAt: 2018-04-23
 rating: 3
 startedAt: null
 storygraphId: 57c6e70b-d8e5-4e9a-9508-c2a5a5a59ac4
-storygraphUrl: https://app.thestorygraph.com/books/57c6e70b-d8e5-4e9a-9508-c2a5a5a59ac4
 coverImage: siege-and-storm.jpg
 ---

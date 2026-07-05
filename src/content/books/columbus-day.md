@@ -19,6 +19,5 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/columbus-day-2016/editions/25282254
 storygraphId: 1cd89655-eacd-469a-ab7d-e940830034db
-storygraphUrl: https://app.thestorygraph.com/books/1cd89655-eacd-469a-ab7d-e940830034db
 coverImage: columbus-day.jpg
 ---

@@ -13,6 +13,5 @@ asin: null
 subtitle: null
 narrators: null
 storygraphId: 97b07b4f-df87-4a35-bdd2-4b71fdb3cec3
-storygraphUrl: https://app.thestorygraph.com/books/97b07b4f-df87-4a35-bdd2-4b71fdb3cec3
 coverImage: a-farewell-to-arms.jpg
 ---

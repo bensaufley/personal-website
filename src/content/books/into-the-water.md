@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/into-the-water/editions/24552571
 storygraphId: 8b5ddcbd-00ad-4a56-91ba-b1dd2f03cac4
-storygraphUrl: https://app.thestorygraph.com/books/8b5ddcbd-00ad-4a56-91ba-b1dd2f03cac4
 coverImage: into-the-water.jpg
 ---
 

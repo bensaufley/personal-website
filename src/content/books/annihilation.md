@@ -17,7 +17,6 @@ finishedAt: 2018-02-27
 rating: 3
 startedAt: null
 storygraphId: fda768e2-65be-43cc-a83e-3dfe4ad15775
-storygraphUrl: https://app.thestorygraph.com/books/fda768e2-65be-43cc-a83e-3dfe4ad15775
 coverImage: annihilation.jpg
 ---
 

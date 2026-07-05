@@ -17,7 +17,6 @@ finishedAt: 2010-02-01
 rating: 2
 startedAt: null
 storygraphId: 0b0d9ba9-835d-4567-b50e-f7a1541ca190
-storygraphUrl: https://app.thestorygraph.com/books/0b0d9ba9-835d-4567-b50e-f7a1541ca190
 coverImage: the-lightning-thief.jpg
 ---
 

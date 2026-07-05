@@ -19,7 +19,6 @@ asin: null
 narrators: null
 hardcoverUrl: null
 storygraphId: 9fdc03bb-0680-4f74-8803-6faee8e7f55c
-storygraphUrl: https://app.thestorygraph.com/books/9fdc03bb-0680-4f74-8803-6faee8e7f55c
 coverImage: the-silkworm.jpeg
 ---
 

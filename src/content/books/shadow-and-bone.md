@@ -17,7 +17,6 @@ finishedAt: 2015-09-03
 rating: 4
 startedAt: null
 storygraphId: fd626a2d-1964-4ddb-88b1-34fb4d0a4da8
-storygraphUrl: https://app.thestorygraph.com/books/fd626a2d-1964-4ddb-88b1-34fb4d0a4da8
 coverImage: shadow-and-bone.jpg
 ---
 

@@ -17,6 +17,5 @@ finishedAt: 2014-11-15
 rating: 4
 startedAt: null
 storygraphId: 5f3ba75e-a199-41ec-b6f1-f5177460bf88
-storygraphUrl: https://app.thestorygraph.com/books/5f3ba75e-a199-41ec-b6f1-f5177460bf88
 coverImage: the-magicians-land.jpg
 ---

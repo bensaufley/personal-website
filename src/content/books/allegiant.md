@@ -17,6 +17,5 @@ finishedAt: 2014-12-15
 rating: 3
 startedAt: null
 storygraphId: 8e3f1230-e146-435c-b27a-ea3fc168b3f1
-storygraphUrl: https://app.thestorygraph.com/books/8e3f1230-e146-435c-b27a-ea3fc168b3f1
 coverImage: allegiant.jpg
 ---

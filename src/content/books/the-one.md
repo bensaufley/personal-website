@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-one-2016/editions/1254570
 storygraphId: faf0b4f6-bae9-4e11-8635-a41825ec049a
-storygraphUrl: https://app.thestorygraph.com/books/faf0b4f6-bae9-4e11-8635-a41825ec049a
 coverImage: the-one.jpg
 ---
 

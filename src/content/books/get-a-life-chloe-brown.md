@@ -17,6 +17,5 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/get-a-life-chloe-brown/editions/30713601
 storygraphId: 54d0ad9e-f00d-4ea9-8422-b745159cbea8
-storygraphUrl: https://app.thestorygraph.com/books/54d0ad9e-f00d-4ea9-8422-b745159cbea8
 coverImage: get-a-life-chloe-brown.jpg
 ---

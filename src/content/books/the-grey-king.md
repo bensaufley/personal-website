@@ -17,7 +17,6 @@ finishedAt: 2019-05-25
 rating: 4
 startedAt: null
 storygraphId: 98d01e96-c335-4443-9776-80209881014c
-storygraphUrl: https://app.thestorygraph.com/books/98d01e96-c335-4443-9776-80209881014c
 coverImage: the-grey-king.jpg
 ---
 

@@ -17,7 +17,6 @@ finishedAt: 2010-02-23
 rating: 3
 startedAt: null
 storygraphId: fad4ba13-e27b-4968-8c32-3d9041e42520
-storygraphUrl: https://app.thestorygraph.com/books/fad4ba13-e27b-4968-8c32-3d9041e42520
 coverImage: the-sea-of-monsters.jpeg
 ---
 

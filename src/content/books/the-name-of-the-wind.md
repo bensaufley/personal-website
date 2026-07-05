@@ -17,7 +17,6 @@ finishedAt: 2012-09-06
 rating: 4
 startedAt: null
 storygraphId: e94d8047-9dc1-4b8f-a367-0806319d939c
-storygraphUrl: https://app.thestorygraph.com/books/e94d8047-9dc1-4b8f-a367-0806319d939c
 coverImage: the-name-of-the-wind.jpg
 ---
 

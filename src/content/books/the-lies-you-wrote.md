@@ -19,7 +19,6 @@ startedAt: 2025-08-12T00:00:00.000Z
 finishedAt: 2025-09-30T00:00:00.000Z
 rating: 4.5
 storygraphId: eb3c2698-95c0-4a90-9c59-4ee847050204
-storygraphUrl: https://app.thestorygraph.com/books/eb3c2698-95c0-4a90-9c59-4ee847050204
 coverImage: the-lies-you-wrote.jpg
 ---
 

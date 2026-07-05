@@ -17,7 +17,6 @@ finishedAt: 2016-06-27
 rating: 3
 startedAt: null
 storygraphId: 83b9df58-4452-440b-9ee7-dc4f74991adc
-storygraphUrl: https://app.thestorygraph.com/books/83b9df58-4452-440b-9ee7-dc4f74991adc
 coverImage: infomocracy.jpg
 ---
 

@@ -19,7 +19,6 @@ startedAt: 2025-10-29T00:00:00.000Z
 finishedAt: 2025-11-03T00:00:00.000Z
 rating: 4.5
 storygraphId: 793678fd-dbc8-498a-a5ae-ed3c21ac8bf6
-storygraphUrl: https://app.thestorygraph.com/books/793678fd-dbc8-498a-a5ae-ed3c21ac8bf6
 coverImage: age-of-legend.jpg
 ---
 

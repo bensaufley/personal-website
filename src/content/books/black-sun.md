@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/black-sun/editions/31482868
 storygraphId: faed9fbc-5eaf-4626-ab4c-cf883f31c870
-storygraphUrl: https://app.thestorygraph.com/books/faed9fbc-5eaf-4626-ab4c-cf883f31c870
 coverImage: black-sun.jpg
 ---

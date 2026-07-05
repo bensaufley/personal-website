@@ -15,6 +15,5 @@ asin: null
 subtitle: null
 narrators: null
 storygraphId: 396e8f1b-e0b4-415a-96f4-250f371f16af
-storygraphUrl: https://app.thestorygraph.com/books/396e8f1b-e0b4-415a-96f4-250f371f16af
 coverImage: skip-to-the-end.jpg
 ---

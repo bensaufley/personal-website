@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/black-nowhere/editions/30382170
 storygraphId: e40b11fd-eb0e-4b26-b1a9-0843ec56152d
-storygraphUrl: https://app.thestorygraph.com/books/e40b11fd-eb0e-4b26-b1a9-0843ec56152d
 coverImage: black-nowhere.jpg
 ---
 

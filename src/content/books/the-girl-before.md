@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-girl-before/editions/26447668
 storygraphId: d84bab4c-2a4c-4945-ac24-1a404a87477e
-storygraphUrl: https://app.thestorygraph.com/books/d84bab4c-2a4c-4945-ac24-1a404a87477e
 coverImage: the-girl-before.jpg
 ---

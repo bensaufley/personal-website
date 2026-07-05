@@ -17,6 +17,5 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/gideon-the-ninth/editions/30399881
 storygraphId: ca07b067-8c64-4b8e-985c-52efc4b94f3e
-storygraphUrl: https://app.thestorygraph.com/books/ca07b067-8c64-4b8e-985c-52efc4b94f3e
 coverImage: gideon-the-ninth.jpg
 ---

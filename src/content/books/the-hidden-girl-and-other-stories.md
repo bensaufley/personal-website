@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-hidden-girl-and-other-stories/editions/30917148
 storygraphId: 4de78bdd-08fc-4944-b624-45efc613cba9
-storygraphUrl: https://app.thestorygraph.com/books/4de78bdd-08fc-4944-b624-45efc613cba9
 coverImage: the-hidden-girl-and-other-stories.jpg
 ---
 

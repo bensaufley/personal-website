@@ -17,6 +17,5 @@ finishedAt: 2008-09-24
 rating: 4
 startedAt: null
 storygraphId: 101de4d3-2536-4330-84ef-67535e1a4bab
-storygraphUrl: https://app.thestorygraph.com/books/101de4d3-2536-4330-84ef-67535e1a4bab
 coverImage: the-subtle-knife.jpg
 ---

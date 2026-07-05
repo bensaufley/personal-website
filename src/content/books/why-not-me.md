@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/why-not-me/editions/12725090
 storygraphId: 435fe687-b31b-4304-aa95-160466bd1545
-storygraphUrl: https://app.thestorygraph.com/books/435fe687-b31b-4304-aa95-160466bd1545
 coverImage: why-not-me.jpg
 ---
 

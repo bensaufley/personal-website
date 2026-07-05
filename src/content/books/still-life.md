@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/still-life-2005/editions/30500550
 storygraphId: 5acc4827-fd45-4023-83b6-22704dc2ae16
-storygraphUrl: https://app.thestorygraph.com/books/5acc4827-fd45-4023-83b6-22704dc2ae16
 coverImage: still-life.jpg
 ---
 

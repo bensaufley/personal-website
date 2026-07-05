@@ -19,7 +19,6 @@ startedAt: 2025-12-27T00:00:00.000Z
 finishedAt: 2025-12-30T00:00:00.000Z
 rating: 3
 storygraphId: 16fbc751-c755-4459-a9a5-eabc79b1cab9
-storygraphUrl: https://app.thestorygraph.com/books/16fbc751-c755-4459-a9a5-eabc79b1cab9
 coverImage: the-last-session.jpg
 ---
 

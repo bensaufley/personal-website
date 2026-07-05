@@ -16,6 +16,5 @@ narrators:
     firstName: Xe
 hardcoverUrl: https://hardcover.app/books/magic-for-liars/editions/30399448
 storygraphId: 334a39b9-6c82-4fc4-a7e3-0c9661a652a0
-storygraphUrl: https://app.thestorygraph.com/books/334a39b9-6c82-4fc4-a7e3-0c9661a652a0
 coverImage: magic-for-liars.jpg
 ---

@@ -17,7 +17,6 @@ finishedAt: 2018-07-19
 rating: 3
 startedAt: null
 storygraphId: 5314ae8d-2d7d-46e3-9dc0-75376d9bda6a
-storygraphUrl: https://app.thestorygraph.com/books/5314ae8d-2d7d-46e3-9dc0-75376d9bda6a
 coverImage: age-of-myth.jpg
 ---
 

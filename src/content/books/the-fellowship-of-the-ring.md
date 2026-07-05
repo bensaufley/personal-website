@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-fellowship-of-the-ring/editions/16862026
 storygraphId: a996edee-3c68-45d9-b0aa-4ea7fad1e920
-storygraphUrl: https://app.thestorygraph.com/books/a996edee-3c68-45d9-b0aa-4ea7fad1e920
 coverImage: the-fellowship-of-the-ring.jpg
 ---

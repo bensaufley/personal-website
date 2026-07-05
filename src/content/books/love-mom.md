@@ -27,6 +27,5 @@ startedAt: null
 finishedAt: null
 rating: null
 storygraphId: 039acd80-e082-4b4c-849d-08323dc866a6
-storygraphUrl: https://app.thestorygraph.com/books/039acd80-e082-4b4c-849d-08323dc866a6
 coverImage: love-mom.jpeg
 ---

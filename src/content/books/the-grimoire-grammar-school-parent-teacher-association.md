@@ -17,7 +17,6 @@ startedAt: 2025-10-18T00:00:00.000Z
 finishedAt: 2025-10-23T00:00:00.000Z
 rating: 4
 storygraphId: a7ab656c-bdcb-42fa-b621-38fa2816327f
-storygraphUrl: https://app.thestorygraph.com/books/a7ab656c-bdcb-42fa-b621-38fa2816327f
 coverImage: the-grimoire-grammar-school-parent-teacher-association.jpeg
 ---
 

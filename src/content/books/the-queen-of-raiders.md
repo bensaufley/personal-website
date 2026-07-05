@@ -17,6 +17,5 @@ finishedAt: 2020-11-15
 rating: 4
 startedAt: null
 storygraphId: 56584f92-1370-4375-8fd8-ed2e27a5315e
-storygraphUrl: https://app.thestorygraph.com/books/56584f92-1370-4375-8fd8-ed2e27a5315e
 coverImage: the-queen-of-raiders.jpg
 ---

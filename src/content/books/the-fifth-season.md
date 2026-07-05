@@ -17,6 +17,5 @@ finishedAt: 2018-09-07
 rating: 3
 startedAt: null
 storygraphId: 6d74f9d0-c0ad-40f8-abc2-3d8016467c1d
-storygraphUrl: https://app.thestorygraph.com/books/6d74f9d0-c0ad-40f8-abc2-3d8016467c1d
 coverImage: the-fifth-season.jpg
 ---

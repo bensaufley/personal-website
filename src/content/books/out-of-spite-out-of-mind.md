@@ -19,6 +19,5 @@ narrators:
     firstName: Luke
 hardcoverUrl: https://hardcover.app/books/out-of-spite-out-of-mind/editions/31497147
 storygraphId: f44c2406-69ca-48c6-b7f6-0d2970d3e0b8
-storygraphUrl: https://app.thestorygraph.com/books/f44c2406-69ca-48c6-b7f6-0d2970d3e0b8
 coverImage: out-of-spite-out-of-mind.jpg
 ---

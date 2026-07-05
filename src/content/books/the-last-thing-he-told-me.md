@@ -19,7 +19,6 @@ startedAt: 2026-01-24T00:00:00.000Z
 finishedAt: 2026-01-28T00:00:00.000Z
 rating: 3.25
 storygraphId: c232d649-1235-4b8c-b856-85fa0086e23f
-storygraphUrl: https://app.thestorygraph.com/books/c232d649-1235-4b8c-b856-85fa0086e23f
 coverImage: the-last-thing-he-told-me.jpg
 ---
 

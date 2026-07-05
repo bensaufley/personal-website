@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/zero-days/editions/30874376
 storygraphId: faab314a-ee13-44c3-a62b-1d3152eb4109
-storygraphUrl: https://app.thestorygraph.com/books/faab314a-ee13-44c3-a62b-1d3152eb4109
 coverImage: zero-days.jpg
 ---
 

@@ -17,7 +17,6 @@ finishedAt: 2017-09-14
 rating: 2
 startedAt: null
 storygraphId: c4451601-64f3-4bc9-8bbf-4ed12b2d3b77
-storygraphUrl: https://app.thestorygraph.com/books/c4451601-64f3-4bc9-8bbf-4ed12b2d3b77
 coverImage: the-gunslinger.jpg
 ---
 

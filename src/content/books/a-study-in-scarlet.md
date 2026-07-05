@@ -17,6 +17,5 @@ finishedAt: 2011-01-01
 rating: 4
 startedAt: null
 storygraphId: b300f7d9-19e3-4f07-af22-b35fef68aaf7
-storygraphUrl: https://app.thestorygraph.com/books/b300f7d9-19e3-4f07-af22-b35fef68aaf7
 coverImage: a-study-in-scarlet.jpg
 ---

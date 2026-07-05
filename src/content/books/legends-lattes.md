@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/legends-lattes/editions/30648259
 storygraphId: d45564a6-f41e-402e-a05f-90b641e86d7a
-storygraphUrl: https://app.thestorygraph.com/books/d45564a6-f41e-402e-a05f-90b641e86d7a
 coverImage: legends-lattes.jpg
 ---
 

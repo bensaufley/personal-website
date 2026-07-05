@@ -17,6 +17,5 @@ finishedAt: 2020-02-17
 rating: 4
 startedAt: null
 storygraphId: d543aee6-0f0b-4dcd-8c51-6b950acde2e2
-storygraphUrl: https://app.thestorygraph.com/books/d543aee6-0f0b-4dcd-8c51-6b950acde2e2
 coverImage: the-sentence-is-death.jpg
 ---

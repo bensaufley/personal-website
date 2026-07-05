@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/no-one-knows/editions/30493598
 storygraphId: 3311880b-41dd-4bf7-b07e-f08bfe9b6209
-storygraphUrl: https://app.thestorygraph.com/books/3311880b-41dd-4bf7-b07e-f08bfe9b6209
 coverImage: no-one-knows.jpg
 ---
 

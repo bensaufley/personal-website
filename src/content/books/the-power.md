@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/the-power/editions/30403942
 storygraphId: a387773b-7d71-4bc5-97f8-525c9cfb8de9
-storygraphUrl: https://app.thestorygraph.com/books/a387773b-7d71-4bc5-97f8-525c9cfb8de9
 coverImage: the-power.jpg
 ---
 

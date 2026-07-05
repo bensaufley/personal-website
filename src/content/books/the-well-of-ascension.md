@@ -17,6 +17,5 @@ finishedAt: 2019-04-30
 rating: 3
 startedAt: null
 storygraphId: 7e5fa2d9-d959-4564-8093-1f9aec082cd2
-storygraphUrl: https://app.thestorygraph.com/books/7e5fa2d9-d959-4564-8093-1f9aec082cd2
 coverImage: the-well-of-ascension.jpg
 ---

@@ -17,7 +17,6 @@ finishedAt: 2017-03-25
 rating: 3
 startedAt: null
 storygraphId: dce06df4-5090-46fa-8d90-23fa7a02cbe5
-storygraphUrl: https://app.thestorygraph.com/books/dce06df4-5090-46fa-8d90-23fa7a02cbe5
 coverImage: the-circle.jpg
 ---
 

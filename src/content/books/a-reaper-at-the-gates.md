@@ -17,6 +17,5 @@ finishedAt: 2018-11-13
 rating: 4
 startedAt: null
 storygraphId: 31dca04d-1708-49b2-b5e6-0b83320aac59
-storygraphUrl: https://app.thestorygraph.com/books/31dca04d-1708-49b2-b5e6-0b83320aac59
 coverImage: a-reaper-at-the-gates.jpg
 ---

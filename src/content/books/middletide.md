@@ -17,6 +17,5 @@ startedAt: null
 finishedAt: 2025-05-18T00:00:00.000Z
 rating: 3.5
 storygraphId: 426daa09-91ea-4192-9d4e-fc0b795ccf75
-storygraphUrl: https://app.thestorygraph.com/books/426daa09-91ea-4192-9d4e-fc0b795ccf75
 coverImage: middletide.jpg
 ---

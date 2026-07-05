@@ -14,7 +14,6 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/constance-constance-1/editions/30407331
 storygraphId: 72188459-6c89-4f0c-8d5d-c411a0d5eea7
-storygraphUrl: https://app.thestorygraph.com/books/72188459-6c89-4f0c-8d5d-c411a0d5eea7
 coverImage: constance.jpg
 ---
 

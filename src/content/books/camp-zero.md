@@ -21,7 +21,6 @@ startedAt: 2026-02-26T00:00:00.000Z
 finishedAt: 2026-03-01T00:00:00.000Z
 rating: 3.75
 storygraphId: b7bd8dd0-4fb9-4a92-a6c5-16f53320af98
-storygraphUrl: https://app.thestorygraph.com/books/b7bd8dd0-4fb9-4a92-a6c5-16f53320af98
 coverImage: camp-zero.jpg
 ---
 

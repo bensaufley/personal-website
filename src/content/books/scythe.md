@@ -17,6 +17,5 @@ series:
   name: Arc of a Scythe
   volume: 1
 storygraphId: 53eeb598-9e44-4392-bcbf-d693e8e3e2b5
-storygraphUrl: https://app.thestorygraph.com/books/53eeb598-9e44-4392-bcbf-d693e8e3e2b5
 coverImage: scythe.jpg
 ---

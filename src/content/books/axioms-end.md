@@ -21,6 +21,5 @@ narrators:
     firstName: Abigail
 hardcoverUrl: https://hardcover.app/books/axioms-end/editions/23378293
 storygraphId: 192aa102-a58d-4370-af16-f40f2e90bb4e
-storygraphUrl: https://app.thestorygraph.com/books/192aa102-a58d-4370-af16-f40f2e90bb4e
 coverImage: axioms-end.jpg
 ---

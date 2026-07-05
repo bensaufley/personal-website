@@ -19,6 +19,5 @@ startedAt: null
 finishedAt: null
 rating: null
 storygraphId: 13ec1b91-bace-46ac-bec1-528d5a54b48e
-storygraphUrl: https://app.thestorygraph.com/books/13ec1b91-bace-46ac-bec1-528d5a54b48e
 coverImage: a-conspiracy-of-truths.jpg
 ---

@@ -17,6 +17,5 @@ series:
 narrators: null
 hardcoverUrl: https://hardcover.app/books/an-echo-of-things-to-come/editions/30407510
 storygraphId: 52f62c41-180f-4f2e-9a62-81d4c46e92ec
-storygraphUrl: https://app.thestorygraph.com/books/52f62c41-180f-4f2e-9a62-81d4c46e92ec
 coverImage: an-echo-of-things-to-come.jpg
 ---

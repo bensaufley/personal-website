@@ -19,6 +19,5 @@ finishedAt: 2014-10-29
 rating: 4
 startedAt: null
 storygraphId: 7492d5fd-fd7e-4d76-84ef-18c72877f20b
-storygraphUrl: https://app.thestorygraph.com/books/7492d5fd-fd7e-4d76-84ef-18c72877f20b
 coverImage: sabriel.jpg
 ---

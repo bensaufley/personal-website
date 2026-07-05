@@ -16,7 +16,6 @@ narrators:
     firstName: Julia
 hardcoverUrl: https://hardcover.app/books/the-measure/editions/30458398
 storygraphId: a26fa577-b833-4d88-b75a-280ced780557
-storygraphUrl: https://app.thestorygraph.com/books/a26fa577-b833-4d88-b75a-280ced780557
 coverImage: the-measure.jpg
 ---
 

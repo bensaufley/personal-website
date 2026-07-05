@@ -17,7 +17,6 @@ finishedAt: 2018-08-07
 rating: 3
 startedAt: null
 storygraphId: 5f92cf01-a7ce-425f-98a6-0b97696bd81b
-storygraphUrl: https://app.thestorygraph.com/books/5f92cf01-a7ce-425f-98a6-0b97696bd81b
 coverImage: seraphina.jpg
 ---
 

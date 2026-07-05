@@ -17,7 +17,6 @@ finishedAt: 2017-10-02
 rating: 3
 startedAt: null
 storygraphId: 75250f71-c6a5-4823-a502-e32735f0e3c6
-storygraphUrl: https://app.thestorygraph.com/books/75250f71-c6a5-4823-a502-e32735f0e3c6
 coverImage: one-of-us-is-lying.jpg
 ---
 

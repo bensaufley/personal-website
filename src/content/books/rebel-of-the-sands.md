@@ -17,6 +17,5 @@ finishedAt: 2020-02-12
 rating: 4
 startedAt: null
 storygraphId: 086e6e72-2de3-4cea-8846-15a21744815b
-storygraphUrl: https://app.thestorygraph.com/books/086e6e72-2de3-4cea-8846-15a21744815b
 coverImage: rebel-of-the-sands.jpg
 ---

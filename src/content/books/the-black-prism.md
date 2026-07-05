@@ -17,6 +17,5 @@ finishedAt: 2016-11-26
 rating: 3
 startedAt: null
 storygraphId: 4285fdf6-9452-4852-9cf9-5a35b372c784
-storygraphUrl: https://app.thestorygraph.com/books/4285fdf6-9452-4852-9cf9-5a35b372c784
 coverImage: the-black-prism.jpg
 ---

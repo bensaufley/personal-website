@@ -17,7 +17,6 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/children-of-god/editions/20215202
 storygraphId: 0a7c79c4-11f0-4961-80db-272cd779f1f6
-storygraphUrl: https://app.thestorygraph.com/books/0a7c79c4-11f0-4961-80db-272cd779f1f6
 coverImage: children-of-god.jpg
 ---
 

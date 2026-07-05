@@ -17,6 +17,5 @@ finishedAt: 2019-07-18
 rating: 4
 startedAt: null
 storygraphId: 4f064672-5028-4bec-b0ac-0e78d9b5eb17
-storygraphUrl: https://app.thestorygraph.com/books/4f064672-5028-4bec-b0ac-0e78d9b5eb17
 coverImage: the-last-kingdom.jpg
 ---

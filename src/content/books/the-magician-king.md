@@ -17,7 +17,6 @@ finishedAt: 2013-07-05
 rating: 4
 startedAt: null
 storygraphId: 54f96ee7-d6bd-412e-b066-494ce10a8b00
-storygraphUrl: https://app.thestorygraph.com/books/54f96ee7-d6bd-412e-b066-494ce10a8b00
 coverImage: the-magician-king.jpg
 ---
 

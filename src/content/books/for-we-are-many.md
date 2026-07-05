@@ -19,6 +19,5 @@ asin: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/for-we-are-many/editions/30403945
 storygraphId: 4481a3a7-fabc-4cfb-a70a-4250a9b873ad
-storygraphUrl: https://app.thestorygraph.com/books/4481a3a7-fabc-4cfb-a70a-4250a9b873ad
 coverImage: for-we-are-many.jpg
 ---

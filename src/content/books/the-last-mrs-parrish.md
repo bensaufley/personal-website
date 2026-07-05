@@ -18,6 +18,5 @@ narrators:
     firstName: Meghan
 hardcoverUrl: https://hardcover.app/books/the-last-mrs-parrish/editions/30793056
 storygraphId: 744ced97-cefa-435f-a62e-37b99aec6c3d
-storygraphUrl: https://app.thestorygraph.com/books/744ced97-cefa-435f-a62e-37b99aec6c3d
 coverImage: the-last-mrs-parrish.jpg
 ---

@@ -17,6 +17,5 @@ finishedAt: 2019-01-05
 rating: 3
 startedAt: null
 storygraphId: bb2b7387-6bfe-44cb-b3b6-895a65f9d789
-storygraphUrl: https://app.thestorygraph.com/books/bb2b7387-6bfe-44cb-b3b6-895a65f9d789
 coverImage: the-shadow-of-what-was-lost.jpg
 ---

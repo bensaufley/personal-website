@@ -17,6 +17,5 @@ series:
 narrators: null
 hardcoverUrl: https://hardcover.app/books/head-on/editions/31497041
 storygraphId: 567a81d9-fd3c-4c0c-b851-16f5801d46e2
-storygraphUrl: https://app.thestorygraph.com/books/567a81d9-fd3c-4c0c-b851-16f5801d46e2
 coverImage: head-on.jpg
 ---

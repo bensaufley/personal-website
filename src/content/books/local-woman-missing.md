@@ -14,6 +14,5 @@ subtitle: null
 narrators: null
 hardcoverUrl: https://hardcover.app/books/local-woman-missing/editions/30382594
 storygraphId: b40c9667-0b38-4f27-8f9c-5282c8ba2e87
-storygraphUrl: https://app.thestorygraph.com/books/b40c9667-0b38-4f27-8f9c-5282c8ba2e87
 coverImage: local-woman-missing.jpg
 ---
