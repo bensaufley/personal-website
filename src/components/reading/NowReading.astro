@@ -21,8 +21,10 @@ const allBooks = (await getCollection('books', (book) => !book.data.finishedAt &
   <ul>
     {
       allBooks.map((book) => {
-        const href = book.data.storygraphUrl ?? undefined;
-        const cover = coverUrl(book.data.coverImage) ?? book.data.coverImageUrl;
+        const href = book.data.storygraphId
+          ? `https://app.thestorygraph.com/books/${book.data.storygraphId}`
+          : undefined;
+        const cover = coverUrl(book.data.coverImage);
         const Wrap = href ? 'a' : 'span';
         const wrapProps = href ? { href, target: '_blank', rel: 'noopener' } : {};
         return (

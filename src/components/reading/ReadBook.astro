@@ -47,8 +47,13 @@ export const LEFT_GOODREADS_DATE = dayjs.utc('2022-02-15');
         )
       }
       {
-        book.storygraphUrl && (
-          <a href={book.storygraphUrl} target="_blank" rel="noopener" title="View on The StoryGraph">
+        book.storygraphId && (
+          <a
+            href={`https://app.thestorygraph.com/books/${book.storygraphId}`}
+            target="_blank"
+            rel="noopener"
+            title="View on The StoryGraph"
+          >
             <TheStoryGraph fill="currentColor" />
           </a>
         )

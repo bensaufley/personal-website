@@ -34,9 +34,7 @@ const books = defineCollection({
       asin: z.string().nullable(),
       hardcoverUrl: z.string().url().nullable().optional(),
       storygraphId: z.string().nullable().optional(),
-      storygraphUrl: z.string().url().nullable().optional(),
       coverImage: z.string().nullable().optional(),
-      upNextCollection: z.string().nullable().optional(),
       series: z
         .object({
           name: z.string(),

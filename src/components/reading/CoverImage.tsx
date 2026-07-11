@@ -8,7 +8,9 @@ import { coverUrl as coverUrlFor } from '../../lib/covers';
 import styles from './styles.module.css';
 
 const CoverImage = (props: { book: BookFrontmatter }) => {
-  const storygraphUrl = createMemo(() => props.book.storygraphUrl);
+  const storygraphUrl = createMemo(() =>
+    props.book.storygraphId ? `https://app.thestorygraph.com/books/${props.book.storygraphId}` : null,
+  );
   const CoverWrap = createMemo(() => (storygraphUrl() ? 'a' : 'div'));
   const wrapProps = createMemo(() =>
     storygraphUrl()

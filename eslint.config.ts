@@ -56,6 +56,8 @@ const config: Linter.Config[] = [
       'no-console': 'off',
       'no-await-in-loop': 'off',
       'import/no-extraneous-dependencies': 'off',
+      'import/prefer-default-export': 'off',
+      'no-restricted-syntax': 'off',
     },
   },
 ];
