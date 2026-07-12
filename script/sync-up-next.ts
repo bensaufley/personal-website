@@ -1,6 +1,6 @@
 import { processTsgBook } from './lib/process-tsg-book';
 import { req } from './lib/tsg-req';
-import { upsertBook } from './lib/upsertBook';
+import { upsertBook } from './lib/upsert-book';
 import { TO_READ_PATH } from './lib/utils';
 
 export const syncUpNext = async () => {

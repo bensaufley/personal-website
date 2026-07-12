@@ -1,3 +1,5 @@
+import dayjs from 'dayjs';
+import utc from 'dayjs/plugin/utc';
 import type { HTMLElement } from 'node-html-parser';
 import TurndownService from 'turndown';
 import { gfm, strikethrough, tables } from 'turndown-plugin-gfm';
@@ -8,6 +10,8 @@ export const TO_READ_PATH = '/to-read/bnsfly';
 export const SEARCH_PATH = '/search?search_term=%s';
 
 export const UUID_REGEX = /[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}/i;
+
+dayjs.extend(utc);
 
 export const turndownService = new TurndownService();
 turndownService.use([gfm, tables, strikethrough]);
@@ -25,7 +29,7 @@ export const parseName = (name: string) => {
   const nameParts = name.split(' ').filter(Boolean);
   return nameParts.length === 1
     ? { lastName: nameParts[0]! }
-    : { firstName: nameParts[0]!, lastName: nameParts.slice(1).join(' ') };
+    : { firstName: nameParts.slice(0, -1).join(' '), lastName: nameParts.at(-1)! };
 };
 
 /** It looks like node-html-parser isn't getting selected options via other
@@ -48,5 +52,5 @@ export const getDateFromForm = (form: HTMLElement, prefix: string): Date | null 
   if (!month) return null;
 
   const day = getSelectValue(form.getElementById(`${prefix}_day`)) ?? 1;
-  return new Date(Number(year), Number(month) - 1, Number(day));
+  return dayjs.utc(`${year}-${month}-${day}`).toDate();
 };

@@ -1,6 +1,6 @@
-import Enquirer from 'enquirer';
+import { confirm, select, Separator } from '@inquirer/prompts';
 import { extension } from 'mime-types';
-import { glob, rm, writeFile } from 'node:fs/promises';
+import { glob, readFile, rm, writeFile } from 'node:fs/promises';
 import { basename, extname, resolve } from 'node:path';
 import { styleText } from 'node:util';
 import { parse } from 'node-html-parser';
@@ -11,12 +11,8 @@ import { getBook } from './build-db';
 import { rawReq, req } from './tsg-req';
 import { getDateFromForm, parseName, turndownService, UUID_REGEX } from './utils';
 
-const enquirer = new Enquirer<{
-  format?: 'digital' | 'paperback' | 'audio' | 'hardcover' | 'cancel';
-  importCurrent?: boolean;
-  overwriteCover?: boolean;
-  addToShelf?: 'to-read' | 'read' | 'currently-reading' | 'none' | 'cancel';
-}>();
+type Format = 'digital' | 'paperback' | 'audio' | 'hardcover' | 'cancel';
+type AddToShelf = 'to-read' | 'read' | 'currently-reading' | 'none' | 'cancel';
 
 export type ProcessedTsgBook = BookFrontmatter & { slug: string; review: string | null; hasSpoilers: boolean };
 
@@ -52,7 +48,7 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
 
     const existingBook = getBook(slug);
 
-    const contributors = doc.querySelector('.book-title-author-and-series p')?.textContent.trim();
+    const contributors = doc.querySelector('.book-title-author-and-series p:last-of-type')?.textContent.trim();
     const [rawAuthors, rawOthers] = contributors?.split(' with ') ?? [];
     if (!rawAuthors) throw new Error(`Could not find authors at ${bookUrl.toString()}`);
     const authors = rawAuthors
@@ -60,11 +56,12 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
       .map((author) => author.trim())
       .filter(Boolean)
       .map(parseName);
-    const narrators = rawOthers
+    let narrators = rawOthers
       ?.split(', ')
       .map((narrator) => narrator.trim())
       .filter((narrator) => narrator && narrator.endsWith('(Narrator)'))
       .map((narrator) => parseName(narrator.replace('(Narrator)', '').trim()));
+    if (!narrators?.length) narrators = undefined;
 
     const imageSrc = doc.querySelector('.book-cover img')?.getAttribute('src');
     let coverImage: string | null = null;
@@ -75,14 +72,16 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
       coverImage = `${slug}.${ext}`;
       const { value: existingCover } = await glob(resolve(import.meta.dirname, '../../covers', `${slug}.*`)).next();
       let write = !existingCover;
-      if (existingCover) {
-        const result = await enquirer.prompt({
-          type: 'confirm',
-          name: 'overwriteCover',
+      const coverIsSame =
+        existingCover &&
+        basename(existingCover) === coverImage &&
+        (await readFile(existingCover)).equals(Buffer.from(await img.arrayBuffer()));
+
+      if (existingCover && !coverIsSame) {
+        write = await confirm({
           message: `Cover image for "${title}" already exists. Overwrite?`,
-          initial: false,
+          default: false,
         });
-        write = !!result.overwriteCover;
         if (!write) coverImage = basename(existingCover);
       }
       if (write) {
@@ -102,19 +101,19 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
     const sharedFrontmatter: ProcessedTsgBook = {
       asin: existingBook?.asin ?? null,
       authors,
-      coverImage,
+      coverImage: coverImage ?? existingBook?.coverImage ?? null,
       finishedAt: existingBook?.finishedAt ?? null,
       hasSpoilers: false,
       isbn10: isbn?.textContent?.length === 10 ? isbn.textContent : null,
       isbn13: isbn?.textContent?.length === 13 ? isbn.textContent : null,
-      narrators,
+      narrators: narrators ?? existingBook?.narrators ?? null,
       rating: null,
       review: null,
-      series,
+      series: series ?? existingBook?.series ?? null,
       slug,
       startedAt: existingBook?.startedAt ?? null,
       storygraphId: id,
-      subtitle,
+      subtitle: subtitle ?? existingBook?.subtitle ?? null,
       title,
       yearPublished: rawPublished ? Number(rawPublished) : null,
     };
@@ -173,16 +172,15 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
       .find((el) => /You.* another edition/gi.test(el.textContent ?? ''));
     if (readLink) return processTsgBook(readLink.getAttribute('href')!, true);
 
-    const { format } = await enquirer.prompt({
-      type: 'select',
-      name: 'format',
+    const format = await select<Format>({
       message: 'This book is not already in your StoryGraph library. Select the format to import:',
       choices: [
-        { name: 'audio', message: 'Audio' },
-        { name: 'paperback', message: 'Paperback' },
-        { name: 'hardcover', message: 'Hardcover' },
-        { name: 'digital', message: 'Digital' },
-        { name: 'cancel', message: 'Cancel', hint: 'Do not import book' },
+        { value: 'audio', name: 'Audio' },
+        { value: 'paperback', name: 'Paperback' },
+        { value: 'hardcover', name: 'Hardcover' },
+        { value: 'digital', name: 'Digital' },
+        new Separator(),
+        { value: 'cancel', name: 'Cancel', description: 'Do not import book' },
       ],
     });
     if (format === 'cancel') throw new Error('Import canceled by user.');
@@ -201,33 +199,30 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
       .find((el) => (format === 'audio' ? /\(Narrator\)/.test(el.textContent ?? '') : true));
     const bookLink = firstBookPane?.querySelector('a[href^="/books/"]')?.getAttribute('href');
     if (bookLink) {
-      const result = await enquirer.prompt({
-        type: 'select',
-        name: 'addToShelf',
+      const addToShelf = await select<AddToShelf>({
         message: `Do you want to add ${styleText(['underline', 'blue'], `https://app.thestorygraph.com/${bookLink}`)} to a shelf?`,
         choices: [
-          { name: 'to-read', message: 'To Read' },
-          { name: 'read', message: 'Read' },
-          { name: 'currently-reading', message: 'Currently Reading' },
-          { name: 'none', message: 'Do Not Add', hint: 'Do not add this book to any shelf' },
-          { name: 'cancel', message: 'Cancel Import', hint: 'End the import process' },
+          { value: 'to-read', name: 'To Read' },
+          { value: 'read', name: 'Read' },
+          { value: 'currently-reading', name: 'Currently Reading' },
+          new Separator(),
+          { value: 'none', name: 'Do Not Add', description: 'Do not add this book to any shelf' },
+          { value: 'cancel', name: 'Cancel Import', description: 'End the import process' },
         ],
       });
-      if (!['none', 'cancel'].includes(result.addToShelf!)) {
-        await rawReq(`/update-status.js?book_id=${encodeURIComponent(id)}&status=${result.addToShelf}`);
+      if (!['none', 'cancel'].includes(addToShelf!)) {
+        await rawReq(`/update-status.js?book_id=${encodeURIComponent(id)}&status=${addToShelf}`);
       }
-      if (result.addToShelf === 'cancel') throw new Error('Import canceled by user.');
+      if (addToShelf === 'cancel') throw new Error('Import canceled by user.');
       return processTsgBook(bookLink, true);
     }
 
     console.warn(`${styleText(['dim', 'yellow'], 'Warning:')} No suitable ${format} edition found.`);
-    const result = await enquirer.prompt({
-      type: 'confirm',
-      name: 'importCurrent',
+    const importCurrent = await confirm({
       message: `Do you want to import ${styleText(['underline', 'blue'], `https://app.thestorygraph.com/${path}`)} anyway?`,
-      initial: false,
+      default: false,
     });
-    if (!result.importCurrent) throw new Error(`Aborted by user due to no suitable ${format} edition.`);
+    if (!importCurrent) throw new Error(`Aborted by user due to no suitable ${format} edition.`);
     return processTsgBook(path, true);
   }
 };

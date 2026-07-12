@@ -1,5 +1,5 @@
+import { confirm } from '@inquirer/prompts';
 import { diffWords } from 'diff';
-import Enquirer from 'enquirer';
 import { glob, readFile, rm, writeFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
 import { type InspectColor, styleText } from 'node:util';
@@ -39,15 +39,18 @@ export const upsertBook = async (input: string | ProcessedTsgBook) => {
   }
   const filename = `${slug}.md${hasSpoilers ? 'x' : ''}`;
 
-  const enquirer = new Enquirer<{
-    save?: boolean;
-  }>();
-
   if (existingFiles.length) {
     const existingContent = await readFile(existingFiles.at(-1)!, 'utf-8');
     const [, fmRaw, review] = existingContent.split('---');
     const existingStandardized = standardize(parse(fmRaw!) as BookFrontmatter, review);
     const diff = diffWords(existingStandardized, newContent);
+
+    // No changes
+    if (diff.length === 1 && !diff[0]!.added && !diff[0]!.removed) {
+      console.log(`No changes for book "${processed.title}"`);
+      return processed;
+    }
+
     diff.forEach((part) => {
       process.stdout.write(
         styleText(
@@ -59,13 +62,11 @@ export const upsertBook = async (input: string | ProcessedTsgBook) => {
       );
     });
     console.log();
-    const response = await enquirer.prompt({
-      type: 'confirm',
-      name: 'save',
+    const save = await confirm({
       message: `Overwrite existing file "${existingFiles.at(-1)}"?`,
-      initial: false,
+      default: false,
     });
-    if (!response.save) return processed;
+    if (!save) return processed;
 
     for (const existingFile of existingFiles) {
       await rm(existingFile);
@@ -73,13 +74,11 @@ export const upsertBook = async (input: string | ProcessedTsgBook) => {
     await writeFile(resolve(contentDir, filename), newContent, 'utf-8');
   } else {
     console.log(`New Book:\n\n${newContent}\n\n`);
-    const response = await enquirer.prompt({
-      type: 'confirm',
-      name: 'save',
+    const save = await confirm({
       message: `Save new file as "${filename}"?`,
-      initial: true,
+      default: true,
     });
-    if (response.save) await writeFile(resolve(contentDir, filename), newContent, 'utf-8');
+    if (save) await writeFile(resolve(contentDir, filename), newContent, 'utf-8');
   }
 
   return processed;

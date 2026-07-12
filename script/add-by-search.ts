@@ -1,10 +1,10 @@
-import Enquirer from 'enquirer';
+import { select } from '@inquirer/prompts';
 
 import { req } from './lib/tsg-req';
-import { upsertBook } from './lib/upsertBook';
+import { upsertBook } from './lib/upsert-book';
 import { SEARCH_PATH } from './lib/utils';
 
-const searchStr = process.argv.at(-1);
+const searchStr = process.argv[2];
 if (!searchStr) {
   console.error('Please provide a search string.');
   process.exit(1);
@@ -21,22 +21,25 @@ if (!items?.length) {
 
 let href: string | undefined;
 if (items.length > 1) {
-  const enquirer = new Enquirer<{ selection: string }>();
-  const response = await enquirer.prompt({
-    type: 'select',
-    name: 'selection',
+  const response = await select({
     message: 'Multiple search results found. Please select the correct one:',
     choices: items.map((item) => ({
-      name: item.textContent
-        ?.trim()
+      name: `${item
+        .querySelector('h1')!
+        .textContent?.trim()
         .split('\n')
         .map((v) => v.trim())
         .filter(Boolean)
-        .join(' - '),
+        .join(' - ')}, by ${item
+        .querySelector('h2')!
+        .textContent.split('\n')
+        .map((v) => v.trim())
+        .filter(Boolean)
+        .join(' - ')}`,
       value: item.getAttribute('href')!,
     })),
   });
-  href = response.selection;
+  href = response;
 } else {
   href = items.at(0)!.getAttribute('href')!;
 }

@@ -4,7 +4,7 @@ import dayjs from 'dayjs';
 import { db } from './lib/build-db';
 import { processTsgBook } from './lib/process-tsg-book';
 import { req } from './lib/tsg-req';
-import { upsertBook } from './lib/upsertBook';
+import { upsertBook } from './lib/upsert-book';
 import { READ_BOOKS_PATH } from './lib/utils';
 
 export const syncRead = async (since?: Dayjs) => {
