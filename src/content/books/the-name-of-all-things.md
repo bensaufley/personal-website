@@ -12,7 +12,6 @@ yearPublished: 2019
 isbn10: '1250175534'
 isbn13: '9781250175533'
 asin: null
-hardcoverUrl: https://hardcover.app/books/der-name-aller-dinge/editions/30382964
 finishedAt: 2020-05-15
 rating: 4
 startedAt: null

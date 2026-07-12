@@ -14,7 +14,6 @@ yearPublished: 2014
 isbn10: '1800249179'
 isbn13: '9781800249172'
 asin:
-hardcoverUrl: https://hardcover.app/books/the-three-body-problem/editions/30394943
 finishedAt: 2017-01-12
 rating: 2
 startedAt: null

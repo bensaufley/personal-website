@@ -12,7 +12,6 @@ yearPublished: 2013
 isbn10: '0375866566'
 isbn13: '9780375866562'
 asin: null
-hardcoverUrl: https://hardcover.app/books/seraphina/editions/29859439
 finishedAt: 2018-08-07
 rating: 3
 startedAt: null

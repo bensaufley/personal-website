@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-traitor-baru-cormorant/editions/25267282
 storygraphId: d5fdec07-bd6d-4681-9581-95c8127eeeda
 coverImage: the-traitor-baru-cormorant.jpg
 ---

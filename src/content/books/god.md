@@ -12,6 +12,5 @@ yearPublished: 2017
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/god/editions/30416507
 coverImage: god.jpg
 ---

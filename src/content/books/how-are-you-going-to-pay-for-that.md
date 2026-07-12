@@ -11,7 +11,6 @@ yearPublished: 2022
 isbn10: null
 isbn13: '9781250272348'
 asin: '1250272343'
-hardcoverUrl: https://hardcover.app/books/how-are-you-going-to-pay-for-that/editions/31579127
 series: null
 startedAt: null
 finishedAt: 2025-05-10T00:00:00.000Z

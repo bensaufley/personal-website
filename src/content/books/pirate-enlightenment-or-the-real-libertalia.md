@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/pirate-enlightenment-or-the-real-libertalia/editions/31497154
 storygraphId: facd9211-579d-4a26-81fa-280752267971
 coverImage: pirate-enlightenment-or-the-real-libertalia.jpg
 ---

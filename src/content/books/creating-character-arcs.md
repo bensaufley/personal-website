@@ -12,6 +12,5 @@ yearPublished: 2016
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/creating-character-arcs/editions/30432663
 coverImage: creating-character-arcs.jpeg
 ---

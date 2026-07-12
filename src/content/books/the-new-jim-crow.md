@@ -14,7 +14,6 @@ asin:
 narrators:
   - lastName: Chilton
     firstName: Karen
-hardcoverUrl: https://hardcover.app/books/the-new-jim-crow/editions/30401060
 coverImage: the-new-jim-crow.jpeg
 ---
 

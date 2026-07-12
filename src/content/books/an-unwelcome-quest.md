@@ -14,7 +14,6 @@ yearPublished: 2015
 isbn10: 147787139X
 isbn13: '9781477871393'
 asin: null
-hardcoverUrl: https://hardcover.app/books/an-unwelcome-quest/editions/30399257
 finishedAt: 2015-02-22
 rating: 3
 startedAt: null

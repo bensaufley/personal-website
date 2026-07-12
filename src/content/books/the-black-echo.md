@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-black-echo/editions/31497079
 storygraphId: 8e13d42c-65a1-4cad-bf36-8874c88d235b
 coverImage: the-black-echo.jpg
 ---

@@ -12,7 +12,6 @@ yearPublished: 2017
 isbn10: '0316229245'
 isbn13: '9780316229241'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-stone-sky/editions/30390649
 finishedAt: 2018-09-28
 rating: 4
 startedAt: null

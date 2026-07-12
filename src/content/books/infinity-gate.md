@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/infinity-gate/editions/31497102
 storygraphId: a8d039a8-b8ca-42ae-9ea4-fed649701531
 coverImage: infinity-gate.jpg
 ---

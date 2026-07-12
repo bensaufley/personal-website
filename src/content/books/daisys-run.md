@@ -12,7 +12,6 @@ startedAt: null
 asin:
 subtitle:
 narrators:
-hardcoverUrl: https://hardcover.app/books/daisys-run/editions/30660093
 coverImage: daisys-run.webp
 ---
 

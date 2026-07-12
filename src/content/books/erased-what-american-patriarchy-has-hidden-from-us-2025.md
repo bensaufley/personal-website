@@ -11,7 +11,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/erased-what-american-patriarchy-has-hidden-from-us-2025
 series: null
 startedAt: null
 finishedAt: null

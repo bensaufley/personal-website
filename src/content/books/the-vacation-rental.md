@@ -12,6 +12,5 @@ startedAt: null
 asin:
 subtitle:
 narrators:
-hardcoverUrl: https://hardcover.app/books/the-vacation-rental/editions/31305590
 coverImage: the-vacation-rental.jpeg
 ---

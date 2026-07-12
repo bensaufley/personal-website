@@ -11,7 +11,6 @@ yearPublished: 2005
 isbn10: '0739323245'
 isbn13: '9780739323243'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-color-of-law
 series: null
 startedAt: null
 finishedAt: null

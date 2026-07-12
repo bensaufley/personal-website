@@ -13,7 +13,6 @@ yearPublished: 2020
 isbn10: '0063036048'
 isbn13: '9780063036048'
 asin: null
-hardcoverUrl: https://hardcover.app/books/when-no-one-is-watching/editions/32046566
 series: null
 startedAt: null
 finishedAt: 2025-05-29T00:00:00.000Z

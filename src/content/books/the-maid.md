@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-maid/editions/30403510
 storygraphId: 4ddb660c-5cf6-4dcc-a755-a9ba5a4cf6ea
 coverImage: the-maid.jpg
 ---

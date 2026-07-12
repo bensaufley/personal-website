@@ -15,7 +15,6 @@ yearPublished: 2017
 startedAt: null
 asin: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/down-among-the-sticks-and-bones/editions/30648204
 storygraphId: 074055d6-ca66-431c-adea-2b18bac5d07c
 coverImage: down-among-the-sticks-and-bones.jpg
 ---

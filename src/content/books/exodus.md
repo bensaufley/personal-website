@@ -12,7 +12,6 @@ yearPublished: 2024
 startedAt: null
 asin: B0CTKSG1VB
 narrators:
-hardcoverUrl: https://hardcover.app/books/exodus-the-archimedes-engine/editions/31549094
 coverImage: exodus.jpg
 ---
 

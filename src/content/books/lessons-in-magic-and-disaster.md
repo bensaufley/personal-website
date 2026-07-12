@@ -15,7 +15,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: '9781250438439'
 asin: null
-hardcoverUrl: https://hardcover.app/books/lessons-in-magic-and-disaster/editions/32206951
 series: null
 startedAt: 2026-02-06T00:00:00.000Z
 finishedAt: 2026-02-11T00:00:00.000Z

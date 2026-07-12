@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-glass-hotel/editions/29271113
 storygraphId: b701051f-f53a-47aa-b314-9864888854f6
 coverImage: the-glass-hotel.jpg
 ---

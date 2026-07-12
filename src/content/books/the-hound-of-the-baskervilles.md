@@ -15,7 +15,6 @@ startedAt: null
 asin:
 subtitle:
 narrators:
-hardcoverUrl: https://hardcover.app/books/the-hound-of-the-baskervilles/editions/9551586
 coverImage: the-hound-of-the-baskervilles.jpeg
 ---
 

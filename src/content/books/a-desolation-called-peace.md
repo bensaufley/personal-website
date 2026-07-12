@@ -12,7 +12,6 @@ yearPublished: 2021
 isbn10: '1250186463'
 isbn13: '9781250186461'
 asin: null
-hardcoverUrl: https://hardcover.app/books/a-desolation-called-peace-2021/editions/21249503
 finishedAt: 2021-12-30
 rating: 3
 startedAt: null

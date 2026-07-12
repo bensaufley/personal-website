@@ -11,7 +11,6 @@ yearPublished: 2018
 isbn10: null
 isbn13: null
 asin: B07FXXBPNK
-hardcoverUrl: https://hardcover.app/books/a-conspiracy-of-truths/editions/32333403
 series:
   name: A Conspiracy of Truths
   volume: 1

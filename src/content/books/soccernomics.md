@@ -16,7 +16,6 @@ yearPublished: 2009
 startedAt: null
 asin: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/soccernomics/editions/30433799
 storygraphId: 1327be95-2c8f-4733-b21a-40d7e89b883d
 coverImage: soccernomics.jpg
 ---

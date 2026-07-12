@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/vox-2018/editions/3270225
 storygraphId: d78db393-f138-4f39-9b5a-2b1d6ae42f39
 coverImage: vox.jpg
 ---

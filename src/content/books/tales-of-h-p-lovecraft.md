@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/tales-of-h-p-lovecraft/editions/30652385
 storygraphId: 7c30c8bb-77ac-43eb-820d-8d2062f7c593
 coverImage: tales-of-h-p-lovecraft.jpg
 ---

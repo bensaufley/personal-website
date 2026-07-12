@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/a-slow-fire-burning/editions/31497113
 storygraphId: b92b851c-fe88-48aa-81f1-824cc1314678
 coverImage: a-slow-fire-burning.jpg
 ---

@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/project-hail-mary/editions/3274049
 storygraphId: 7112fac3-ec7f-4ead-8bc7-7b0d3a990da4
 coverImage: project-hail-mary.jpg
 ---

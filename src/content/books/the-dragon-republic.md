@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-dragon-republic/editions/30399338
 storygraphId: 5b1c1f9a-024b-4535-aebf-f12c33853f9f
 coverImage: the-dragon-republic.jpg
 ---

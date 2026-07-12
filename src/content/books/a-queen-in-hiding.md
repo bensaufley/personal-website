@@ -16,7 +16,6 @@ yearPublished: 2020
 isbn10: '1250243548'
 isbn13: '9781250243546'
 asin: null
-hardcoverUrl: https://hardcover.app/books/a-queen-in-hiding/editions/31497110
 finishedAt: 2020-07-29
 rating: 4
 startedAt: null

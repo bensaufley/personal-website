@@ -12,7 +12,6 @@ yearPublished: 2019
 isbn10: 031648976X
 isbn13: '9780316489768'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-rage-of-dragons/editions/31484659
 finishedAt: 2020-06-19
 rating: 4
 startedAt: null

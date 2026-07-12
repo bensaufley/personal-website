@@ -12,7 +12,6 @@ startedAt: null
 asin: B0BCBYC42P
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/yellowface/editions/30904342
 storygraphId: c61a54c1-2dd1-45da-814f-e1e8278a4c68
 coverImage: yellowface.jpg
 ---

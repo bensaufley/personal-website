@@ -13,7 +13,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: null
 asin: B0DPJGSVLT
-hardcoverUrl: https://hardcover.app/books/katabasis-2025/editions/32225923
 series: null
 startedAt: 2025-08-29T00:00:00.000Z
 finishedAt: 2025-09-05T00:00:00.000Z

@@ -12,7 +12,6 @@ yearPublished: 2014
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/the-future-of-the-mind/editions/31496987
 coverImage: the-future-of-the-mind.jpeg
 ---
 

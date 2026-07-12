@@ -13,7 +13,6 @@ yearPublished: 2017
 isbn10: null
 isbn13: '9781541471870'
 asin: null
-hardcoverUrl: https://hardcover.app/books/manufacturing-consent/editions/32386057
 series: null
 startedAt: 2025-09-05T00:00:00.000Z
 finishedAt: 2025-12-29T00:00:00.000Z

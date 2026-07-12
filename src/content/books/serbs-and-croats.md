@@ -12,7 +12,6 @@ yearPublished: 1993
 startedAt: null
 asin:
 narrators:
-hardcoverUrl:
 coverImage: serbs-and-croats.jpeg
 ---
 

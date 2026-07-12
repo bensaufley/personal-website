@@ -12,7 +12,6 @@ yearPublished: 1984
 isbn10: '0812523563'
 isbn13: '9780812523560'
 asin:
-hardcoverUrl: https://hardcover.app/books/the-first-book-of-swords/editions/11469538
 finishedAt: 2018-10-18
 rating: 3
 startedAt: null

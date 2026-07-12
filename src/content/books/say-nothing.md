@@ -12,6 +12,5 @@ yearPublished: 2019
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/say-nothing/editions/30406260
 coverImage: say-nothing.jpeg
 ---

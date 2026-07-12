@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/artemis-fowl/editions/30593831
 storygraphId: ed2678ad-e943-4208-b988-865d097eb280
 coverImage: artemis-fowl.jpg
 ---

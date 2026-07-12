@@ -14,7 +14,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-golden-couple/editions/30882798
 storygraphId: 9a5f4229-56ee-4451-88a9-586deebef8f7
 coverImage: the-golden-couple.jpg
 ---

@@ -13,7 +13,6 @@ yearPublished: 2020
 isbn10: '1488208158'
 isbn13: '9781488208157'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-other-mrs-2020/editions/32079532
 series: null
 startedAt: null
 finishedAt: 2025-06-30T00:00:00.000Z

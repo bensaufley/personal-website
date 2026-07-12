@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/black-sun-rising/editions/28834169
 storygraphId: 13262e8e-e9cc-4ab1-a033-7f3aaa65ef16
 coverImage: black-sun-rising.jpg
 ---

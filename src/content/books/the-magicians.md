@@ -12,7 +12,6 @@ yearPublished: 2009
 isbn10: '0670020559'
 isbn13: '9780670020553'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-magicians/editions/29845101
 finishedAt: 2012-05-08
 rating: 5
 startedAt: null

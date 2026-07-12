@@ -11,7 +11,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: '9781668131527'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-woman-in-suite-11/editions/32103986
 series:
   name: Lo Blacklock
   volume: 2

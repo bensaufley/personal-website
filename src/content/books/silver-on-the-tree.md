@@ -12,7 +12,6 @@ yearPublished: 2000
 isbn10: '0689840330'
 isbn13: '9780689840333'
 asin: null
-hardcoverUrl: https://hardcover.app/books/silver-on-the-tree/editions/25656748
 finishedAt: 2019-12-03
 rating: 3
 startedAt: null

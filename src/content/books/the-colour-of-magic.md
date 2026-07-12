@@ -15,7 +15,6 @@ yearPublished: 1983
 isbn10: '1473588111'
 isbn13: '9781473588110'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-colour-of-magic/editions/31821816
 series:
   name: Discworld
   volume: 1

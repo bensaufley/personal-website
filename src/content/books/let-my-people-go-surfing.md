@@ -12,7 +12,6 @@ yearPublished: 2005
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/let-my-people-go-surfing/editions/20689976
 coverImage: let-my-people-go-surfing.jpeg
 ---
 

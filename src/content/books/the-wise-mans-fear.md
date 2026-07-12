@@ -12,7 +12,6 @@ yearPublished: 2011
 isbn10: '0756404738'
 isbn13: '9780756404734'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-wise-mans-fear/editions/31488150
 finishedAt: 2012-10-18
 rating: 4
 startedAt: null

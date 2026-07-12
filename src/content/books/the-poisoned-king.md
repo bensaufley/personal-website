@@ -11,7 +11,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: '9780593830109'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-poisoned-king/editions/32655580
 series:
   name: Impossible Creatures
   volume: 2

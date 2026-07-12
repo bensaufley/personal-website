@@ -15,7 +15,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/victories-greater-than-death/editions/2917808
 storygraphId: 51c34d28-c2a0-4a7b-b49a-37556cc76027
 coverImage: victories-greater-than-death.jpg
 ---

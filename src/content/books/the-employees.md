@@ -12,7 +12,6 @@ yearPublished: 2018
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/the-employees/editions/31497063
 coverImage: the-employees.jpeg
 ---
 

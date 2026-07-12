@@ -12,6 +12,5 @@ startedAt: null
 asin:
 subtitle:
 narrators:
-hardcoverUrl: https://hardcover.app/books/compendium-2015/editions/30849291
 coverImage: compendium.jpeg
 ---

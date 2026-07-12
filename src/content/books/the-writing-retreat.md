@@ -7,7 +7,6 @@ authors:
 narrators:
   - lastName: Shalan
     firstName: Gail
-hardcoverUrl: https://hardcover.app/books/the-writing-retreat/editions/31946141
 finishedAt: 2025-04-26
 startedAt: null
 asin: null

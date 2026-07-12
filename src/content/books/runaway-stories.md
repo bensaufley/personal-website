@@ -12,6 +12,5 @@ yearPublished: 2003
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/runaway-stories/editions/11224501
 coverImage: runaway-stories.jpeg
 ---

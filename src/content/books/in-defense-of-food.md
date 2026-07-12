@@ -12,7 +12,6 @@ yearPublished: 2008
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/in-defense-of-food-an-eaters-manifesto/editions/6537300
 coverImage: in-defense-of-food.jpg
 ---
 

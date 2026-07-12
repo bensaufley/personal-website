@@ -12,7 +12,6 @@ yearPublished: 2013
 isbn10: '0007524277'
 isbn13: '9780007524273'
 asin: null
-hardcoverUrl: https://hardcover.app/books/allegiant/editions/12268501
 finishedAt: 2014-12-15
 rating: 3
 startedAt: null

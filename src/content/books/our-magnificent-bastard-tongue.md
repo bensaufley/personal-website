@@ -12,6 +12,5 @@ yearPublished: 2009
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/our-magnificent-bastard-tongue-the-untold-history-of-english/editions/30701393
 coverImage: our-magnificent-bastard-tongue.jpeg
 ---

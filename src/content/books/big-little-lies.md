@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/little-lies-6dc65178-7d92-4493-9d44-ed6a59ba8bb0/editions/30428131
 storygraphId: 2920da48-d5bf-4f35-9a53-3e2f82309459
 coverImage: big-little-lies.jpg
 ---

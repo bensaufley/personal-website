@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-never-tilting-world/editions/31497040
 storygraphId: 54019c0c-ecf6-42a9-a4fc-d92a79c47818
 coverImage: the-never-tilting-world.jpg
 ---

@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/dust/editions/31491069
 storygraphId: 227e2da4-8c5d-4cea-a6be-f86cde804dcd
 coverImage: dust.jpg
 ---

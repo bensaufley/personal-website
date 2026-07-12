@@ -17,7 +17,6 @@ yearPublished: 2015
 startedAt: null
 asin: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/carry-on/editions/3735653
 storygraphId: 8d066858-4b7f-48d9-b4d8-40f6453da4a4
 coverImage: carry-on.jpg
 ---

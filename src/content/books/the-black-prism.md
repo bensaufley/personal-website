@@ -12,7 +12,6 @@ yearPublished: 2010
 isbn10: '0316075558'
 isbn13: '9780316075558'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-black-prism/editions/28312981
 finishedAt: 2016-11-26
 rating: 3
 startedAt: null

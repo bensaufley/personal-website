@@ -10,7 +10,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/im-afraid-of-men/editions/29979421
 storygraphId: 0edd5ca0-defa-41f7-9419-ea79645c9510
 coverImage: i-m-afraid-of-men.jpg
 ---

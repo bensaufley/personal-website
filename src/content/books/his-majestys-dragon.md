@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/his-majestys-dragon/editions/30805909
 storygraphId: 6c400904-51d8-48a5-94a5-03a32a0b1391
 coverImage: his-majestys-dragon.jpg
 ---

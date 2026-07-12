@@ -12,7 +12,6 @@ yearPublished: 2020
 isbn10: '1250217288'
 isbn13: '9781250217288'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-house-in-the-cerulean-sea/editions/12846449
 finishedAt: 2021-06-18
 rating: 4
 startedAt: null

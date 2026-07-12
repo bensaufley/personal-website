@@ -14,7 +14,6 @@ subtitle: null
 narrators:
   - lastName: Sands
     firstName: Xe
-hardcoverUrl: https://hardcover.app/books/stranger-in-the-lake/editions/31497071
 storygraphId: 823adbd2-f658-4ac3-8366-cbd77ed1a669
 coverImage: stranger-in-the-lake.jpg
 ---

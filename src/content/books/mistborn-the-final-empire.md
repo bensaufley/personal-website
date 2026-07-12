@@ -13,7 +13,6 @@ yearPublished: 2006
 isbn10: '8466658890'
 isbn13: '9780765311788'
 asin:
-hardcoverUrl: https://hardcover.app/books/mistborn/editions/5195452
 finishedAt: 2016-12-12
 rating: 4
 startedAt: null

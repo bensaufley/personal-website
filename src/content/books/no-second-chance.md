@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/no-second-chance/editions/29361582
 storygraphId: 04579a1c-9c8a-4cfb-8d5b-94a3d011f90a
 coverImage: no-second-chance.jpg
 ---

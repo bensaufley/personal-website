@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-poachers-son/editions/31953999
 series:
   name: Mike Bowditch
   volume: 1

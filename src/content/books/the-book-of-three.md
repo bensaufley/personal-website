@@ -12,7 +12,6 @@ yearPublished: 2006
 isbn10: '0805080481'
 isbn13: '9780805080483'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-first-chronicles-of-prydain/editions/13827957
 finishedAt: 2016-12-22
 rating: 3
 startedAt: null

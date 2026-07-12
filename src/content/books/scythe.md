@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/scythe/editions/30403953
 series:
   name: Arc of a Scythe
   volume: 1

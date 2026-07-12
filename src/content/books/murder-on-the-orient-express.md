@@ -15,7 +15,6 @@ yearPublished: 2007
 startedAt: null
 asin: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/murder-on-the-orient-express/editions/30399401
 storygraphId: b9a40df3-164b-4c95-8382-05cf8ff4be06
 coverImage: murder-on-the-orient-express.jpg
 ---

@@ -12,7 +12,6 @@ yearPublished: 2003
 isbn10: '0440238153'
 isbn13: '9780440238157'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-amber-spyglass/editions/30370285
 finishedAt: 2019-12-20
 rating: 4
 startedAt: null

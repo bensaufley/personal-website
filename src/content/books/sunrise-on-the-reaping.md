@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/sunrise-on-the-reaping/editions/31942362
 series:
   name: The Hunger Games
   volume: 0.5

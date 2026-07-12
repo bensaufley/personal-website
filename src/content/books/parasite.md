@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/parasite/editions/31497151
 storygraphId: f6f0d397-2ae0-4aa1-b0ca-db83e1576822
 coverImage: parasite.jpg
 ---

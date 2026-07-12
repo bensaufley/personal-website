@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-wolf-under-the-northern-sky-1/editions/30421295
 storygraphId: 9b509d1c-89ff-466d-ac82-b5ae6171b9d6
 coverImage: the-wolf.jpg
 ---

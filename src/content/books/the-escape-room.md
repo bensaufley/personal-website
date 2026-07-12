@@ -13,7 +13,6 @@ yearPublished: 2018
 isbn10: null
 isbn13: null
 asin: '1409189538'
-hardcoverUrl: https://hardcover.app/books/the-escape-room-2018/editions/31925813
 series: null
 startedAt: null
 finishedAt: 2025-06-04T00:00:00.000Z

@@ -12,7 +12,6 @@ yearPublished: 2009
 isbn10: '0439846838'
 isbn13: '9780439846837'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-stonekeepers-curse/editions/4554328
 finishedAt: 2011-01-01
 rating: 3
 startedAt: null

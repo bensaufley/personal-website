@@ -14,7 +14,6 @@ subtitle: null
 narrators:
   - lastName: Lee
     firstName: John
-hardcoverUrl: https://hardcover.app/books/the-banneret/editions/31969471
 storygraphId: a3a1813d-6fd1-4c0a-a408-647a33e42716
 coverImage: the-banneret.jpg
 ---

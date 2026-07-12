@@ -11,7 +11,6 @@ yearPublished: 2024
 isbn10: null
 isbn13: '9780593823859'
 asin: B0C6YMCRBM
-hardcoverUrl: https://hardcover.app/books/the-tainted-cup/editions/31163155
 series:
   name: Shadow of the Leviathan
   volume: 1

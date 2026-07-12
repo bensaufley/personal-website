@@ -12,6 +12,5 @@ yearPublished: 2019
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/the-socialist-manifesto/editions/30515075
 coverImage: the-socialist-manifesto.jpg
 ---

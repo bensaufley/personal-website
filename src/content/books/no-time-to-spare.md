@@ -12,6 +12,5 @@ yearPublished: 2017
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/no-time-to-spare/editions/25854251
 coverImage: no-time-to-spare.jpeg
 ---

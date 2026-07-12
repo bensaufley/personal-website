@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/evvie-drake-starts-over/editions/1015980
 storygraphId: 0102e3c0-4769-464b-8d64-b55d0ad839f8
 coverImage: evvie-drake-starts-over.jpg
 ---

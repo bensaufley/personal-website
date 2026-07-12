@@ -14,7 +14,6 @@ yearPublished: 2006
 isbn10: '0765341425'
 isbn13: '9780765341426'
 asin:
-hardcoverUrl: https://hardcover.app/books/to-light-a-candle/editions/13828514
 finishedAt: 2019-02-06
 rating: 2
 startedAt: null

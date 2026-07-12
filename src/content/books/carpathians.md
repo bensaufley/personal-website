@@ -11,7 +11,6 @@ yearPublished: 2024
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/carpathians/editions/32201846
 series: null
 startedAt: 2025-08-16T00:00:00.000Z
 finishedAt: 2025-08-23T00:00:00.000Z

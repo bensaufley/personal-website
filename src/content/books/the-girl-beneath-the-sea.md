@@ -11,7 +11,6 @@ yearPublished: 2020
 isbn10: null
 isbn13: null
 asin: '1799754790'
-hardcoverUrl: https://hardcover.app/books/the-girl-beneath-the-sea/editions/31829319
 series:
   name: Underwater Investigation Unit
   volume: 1

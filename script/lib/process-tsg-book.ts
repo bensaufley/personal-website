@@ -104,7 +104,6 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
       authors,
       coverImage,
       finishedAt: existingBook?.finishedAt ?? null,
-      hardcoverUrl: existingBook?.hardcoverUrl ?? null,
       hasSpoilers: false,
       isbn10: isbn?.textContent?.length === 10 ? isbn.textContent : null,
       isbn13: isbn?.textContent?.length === 13 ? isbn.textContent : null,

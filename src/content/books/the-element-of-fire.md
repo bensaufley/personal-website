@@ -11,7 +11,6 @@ yearPublished: 1993
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-element-of-fire/editions/31912430
 series:
   name: Ile-Rien
   volume: 1

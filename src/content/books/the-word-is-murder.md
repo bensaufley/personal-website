@@ -14,7 +14,6 @@ yearPublished: 2018
 isbn10: '0062676784'
 isbn13: '9780062676788'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-word-is-murder/editions/31497076
 finishedAt: 2019-02-16
 rating: 3
 startedAt: null

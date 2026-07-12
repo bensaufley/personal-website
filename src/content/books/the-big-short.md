@@ -12,7 +12,6 @@ yearPublished: 2010
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/the-big-short/editions/544009
 coverImage: the-big-short.jpg
 ---
 

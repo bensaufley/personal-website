@@ -17,7 +17,6 @@ yearPublished: 2009
 isbn10: '1035000059'
 isbn13: '9781035000050'
 asin: null
-hardcoverUrl: https://hardcover.app/books/abandon-2009/editions/31777456
 storygraphId: 3375299d-b181-4968-ad5a-1b34cebed22f
 coverImage: abandon.jpg
 series: null

@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-lying-game/editions/30941187
 storygraphId: 1d25508a-d517-4664-ba8c-74484f090151
 coverImage: the-lying-game.jpg
 ---

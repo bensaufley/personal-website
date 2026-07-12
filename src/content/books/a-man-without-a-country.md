@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/a-man-without-a-country/editions/31496994
 storygraphId: 0daca172-3897-4f9b-a086-88b893331dec
 coverImage: a-man-without-a-country.jpg
 ---

@@ -11,7 +11,6 @@ yearPublished: 2024
 isbn10: 166803509X
 isbn13: '9781668035092'
 asin: null
-hardcoverUrl: https://hardcover.app/books/middletide/editions/32046559
 series: null
 startedAt: null
 finishedAt: 2025-05-18T00:00:00.000Z

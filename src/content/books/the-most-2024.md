@@ -11,7 +11,6 @@ yearPublished: 2024
 isbn10: '1668641429'
 isbn13: '9781668641422'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-most-2024/editions/31657845
 series: null
 startedAt: null
 finishedAt: 2025-07-09T00:00:00.000Z

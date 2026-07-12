@@ -12,7 +12,6 @@ yearPublished: 2019
 isbn10: '1250175488'
 isbn13: '9781250175489'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-ruin-of-kings/editions/6815645
 finishedAt: 2019-10-06
 rating: 4
 startedAt: null

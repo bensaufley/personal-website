@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-amazing-adventures-of-kavalier-clay/editions/30432037
 storygraphId: adb329ae-502d-4dcd-9600-d5b982236222
 coverImage: the-amazing-adventures-of-kavalier-clay.jpg
 ---

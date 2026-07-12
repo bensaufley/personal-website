@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/hild/editions/11900188
 storygraphId: 0540038b-5225-47ae-bfa6-e5fd32a27280
 coverImage: hild.jpg
 ---

@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/when-i-was-you/editions/31497141
 storygraphId: ec0787d8-0229-4e24-b42b-cf4d4587a9b3
 coverImage: when-i-was-you.jpg
 ---

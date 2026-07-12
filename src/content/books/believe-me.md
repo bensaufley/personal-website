@@ -12,7 +12,6 @@ yearPublished: 2017
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/believe-me/editions/30659566
 coverImage: believe-me.jpeg
 ---
 

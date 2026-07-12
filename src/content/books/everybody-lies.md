@@ -12,6 +12,5 @@ yearPublished: 2017
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/everybody-lies/editions/10827846
 coverImage: everybody-lies.jpeg
 ---

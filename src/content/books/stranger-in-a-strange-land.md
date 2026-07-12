@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/stranger-in-a-strange-land/editions/31497010
 storygraphId: 2d73bf83-81cd-4295-9d45-7b07a5263818
 coverImage: stranger-in-a-strange-land.jpg
 ---

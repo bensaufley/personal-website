@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/ordinary-monsters/editions/30456421
 storygraphId: f0353bb1-6858-4395-a310-a03d8c3257ef
 coverImage: ordinary-monsters.jpg
 ---

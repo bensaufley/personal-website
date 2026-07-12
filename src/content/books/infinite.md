@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/infinite/editions/30384891
 storygraphId: 49e3622d-dfaf-49cf-9fb2-d7a6ad63460a
 coverImage: infinite.jpg
 ---

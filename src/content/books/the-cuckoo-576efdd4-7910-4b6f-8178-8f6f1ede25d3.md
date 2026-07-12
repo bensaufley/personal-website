@@ -11,7 +11,6 @@ yearPublished: 2022
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-cuckoo-576efdd4-7910-4b6f-8178-8f6f1ede25d3
 series:
   name: Under the Northern Sky
   volume: 3

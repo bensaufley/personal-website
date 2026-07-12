@@ -11,7 +11,6 @@ yearPublished: 2024
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-age-of-magical-overthinking-2024
 series: null
 startedAt: null
 finishedAt: null

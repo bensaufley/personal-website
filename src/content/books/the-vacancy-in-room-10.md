@@ -13,7 +13,6 @@ yearPublished: 2015
 isbn10: '1488229503'
 isbn13: '9781488229503'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-vacancy-in-room-10/editions/32031498
 series: null
 startedAt: null
 finishedAt: 2025-07-31T00:00:00.000Z

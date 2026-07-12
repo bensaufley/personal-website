@@ -12,7 +12,6 @@ yearPublished: 2014
 isbn10: '0765375869'
 isbn13: '9780765375865'
 asin: null
-hardcoverUrl: https://hardcover.app/books/lock-in-2001/editions/15917903
 finishedAt: 2016-05-23
 rating: 4
 startedAt: null

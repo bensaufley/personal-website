@@ -12,7 +12,6 @@ yearPublished: 2010
 isbn10: '0439023513'
 isbn13: '9780439023511'
 asin: null
-hardcoverUrl: https://hardcover.app/books/mockingjay/editions/27387551
 finishedAt: 2010-09-21
 rating: 5
 startedAt: null

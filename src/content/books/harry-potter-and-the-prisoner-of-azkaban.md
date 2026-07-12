@@ -15,7 +15,6 @@ series:
   name: Harry Potter
   volume: 3
 narrators: null
-hardcoverUrl: https://hardcover.app/books/harry-potter-and-the-prisoner-of-azkaban/editions/29858357
 storygraphId: d93d6f72-8d62-4294-b087-91632fac143a
 coverImage: harry-potter-and-the-prisoner-of-azkaban.jpg
 ---

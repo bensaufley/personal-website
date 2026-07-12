@@ -12,7 +12,6 @@ yearPublished: 2018
 isbn10: '0316449059'
 isbn13: '9780316449052'
 asin: null
-hardcoverUrl: https://hardcover.app/books/rosewater/editions/31497112
 finishedAt: 2019-02-13
 rating: 4
 startedAt: null

@@ -12,6 +12,5 @@ yearPublished:
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/the-forgotten-500/editions/13044206
 coverImage: the-forgotten-500.jpg
 ---

@@ -11,7 +11,6 @@ yearPublished: 2024
 isbn10: null
 isbn13: null
 asin: B0BZ1V1LVW
-hardcoverUrl: https://hardcover.app/books/the-lies-you-wrote/editions/32195315
 series:
   name: Raisa Susanto
   volume: 1

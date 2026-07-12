@@ -14,6 +14,5 @@ startedAt: null
 asin:
 subtitle:
 narrators:
-hardcoverUrl: https://hardcover.app/books/an-anonymous-girl/editions/30395637
 coverImage: an-anonymous-girl.jpeg
 ---

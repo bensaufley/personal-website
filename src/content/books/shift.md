@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/shift/editions/30693269
 storygraphId: 8b1582ca-1a5a-4298-9730-cc96d4e6946c
 coverImage: shift.jpg
 ---

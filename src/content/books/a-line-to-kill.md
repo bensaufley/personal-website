@@ -15,7 +15,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/a-line-to-kill/editions/30662156
 storygraphId: 09a534f0-a2ec-49b3-9da2-1064a7b9db05
 coverImage: a-line-to-kill.jpg
 ---

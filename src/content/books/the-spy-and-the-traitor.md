@@ -12,6 +12,5 @@ yearPublished: 2018
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/the-spy-and-the-traitor/editions/22902350
 coverImage: the-spy-and-the-traitor.jpg
 ---

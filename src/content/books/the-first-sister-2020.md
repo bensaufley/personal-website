@@ -15,7 +15,6 @@ yearPublished: 2020
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-first-sister-2020/editions/31965410
 series:
   name: The First Sister Trilogy
   volume: 1

@@ -12,7 +12,6 @@ yearPublished: 2016
 isbn10: '1250085470'
 isbn13: '9781250085474'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-star-touched-queen/editions/10475282
 finishedAt: 2018-03-20
 rating: 3
 startedAt: null

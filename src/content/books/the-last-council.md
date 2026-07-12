@@ -12,7 +12,6 @@ yearPublished: 2011
 isbn10: '0545208874'
 isbn13: '9780545208871'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-last-council/editions/24079633
 finishedAt: 2011-08-27
 rating: 4
 startedAt: null

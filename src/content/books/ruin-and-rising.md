@@ -12,7 +12,6 @@ yearPublished: 2014
 isbn10: '1480563889'
 isbn13: '9781480563889'
 asin: null
-hardcoverUrl: https://hardcover.app/books/ruin-and-rising/editions/30773001
 finishedAt: 2022-02-13
 rating: 3
 startedAt: null

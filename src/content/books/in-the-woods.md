@@ -12,7 +12,6 @@ yearPublished: 2008
 isbn10: '0670038601'
 isbn13: '9780670038602'
 asin: null
-hardcoverUrl: https://hardcover.app/books/in-the-woods/editions/10349489
 finishedAt: 2019-03-13
 rating: 4
 startedAt: null

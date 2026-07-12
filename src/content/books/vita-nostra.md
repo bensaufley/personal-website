@@ -16,7 +16,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/vita-nostra/editions/31484682
 storygraphId: c5ff6727-4711-4ab4-8f47-c1fd9eb96cc3
 coverImage: vita-nostra.jpg
 ---

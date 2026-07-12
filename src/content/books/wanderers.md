@@ -12,7 +12,6 @@ yearPublished: 2019
 isbn10: 039918211X
 isbn13: '9780399182112'
 asin: null
-hardcoverUrl: https://hardcover.app/books/wanderers/editions/30405623
 finishedAt: 2020-03-26
 rating: 4
 startedAt: null

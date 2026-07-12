@@ -12,7 +12,6 @@ yearPublished: 2018
 isbn10: '0439944678'
 isbn13: '9780439944670'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-subtle-knife/editions/30431493
 finishedAt: 2008-09-24
 rating: 4
 startedAt: null

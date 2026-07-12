@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-violence/editions/30394776
 storygraphId: 6a08f243-7109-4ceb-adbc-a1f0767a0caf
 coverImage: the-violence.jpg
 ---

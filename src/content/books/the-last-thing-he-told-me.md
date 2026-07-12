@@ -11,7 +11,6 @@ yearPublished: 2021
 isbn10: '1387589997'
 isbn13: '9781387589999'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-last-thing-he-told-me/editions/30401775
 series:
   name: Hannah Hall
   volume: 1

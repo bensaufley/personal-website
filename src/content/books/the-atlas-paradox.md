@@ -29,7 +29,6 @@ yearPublished: 2022
 isbn10: null
 isbn13: '9781250870797'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-atlas-paradox/editions/31503122
 series:
   name: The Atlas
   volume: 2

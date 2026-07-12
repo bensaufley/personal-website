@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/disclaimer/editions/30381335
 storygraphId: 24429ac5-e8b0-4a9d-bca1-977da617093b
 coverImage: disclaimer.jpg
 ---

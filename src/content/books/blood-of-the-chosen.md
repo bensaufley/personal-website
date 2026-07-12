@@ -9,7 +9,6 @@ yearPublished: 2021
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: null
 storygraphId: 0a7e6404-6398-4cd9-a294-cdc25c7bdef8
 coverImage: blood-of-the-chosen.jpg
 series:

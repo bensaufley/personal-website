@@ -14,7 +14,6 @@ yearPublished: 2017
 isbn10: '1101965363'
 isbn13: '9781101965368'
 asin: null
-hardcoverUrl: https://hardcover.app/books/age-of-swords/editions/18167019
 finishedAt: 2019-03-25
 rating: 4
 startedAt: null

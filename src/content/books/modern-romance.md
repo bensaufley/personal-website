@@ -14,7 +14,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/modern-romance/editions/30399481
 storygraphId: 9cd40a54-6651-4af1-b2b9-b417022c3037
 coverImage: modern-romance.jpeg
 ---

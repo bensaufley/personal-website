@@ -14,7 +14,6 @@ yearPublished: 2017
 isbn10: '1539423441'
 isbn13: '9781539423447'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-wolf-of-the-north/editions/30391594
 finishedAt: 2018-02-11
 rating: 4
 startedAt: null

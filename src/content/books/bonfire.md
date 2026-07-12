@@ -11,7 +11,6 @@ yearPublished: 2017
 isbn10: '1524778990'
 isbn13: '9781524778996'
 asin: null
-hardcoverUrl: https://hardcover.app/books/bonfire/editions/31433756
 series: null
 startedAt: 2025-10-10T00:00:00.000Z
 finishedAt: 2025-10-14T00:00:00.000Z

@@ -11,7 +11,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: '9798217071876'
 asin: null
-hardcoverUrl: https://hardcover.app/books/she-didnt-see-it-coming/editions/32171844
 series: null
 startedAt: 2025-08-01T00:00:00.000Z
 finishedAt: 2025-08-04T00:00:00.000Z

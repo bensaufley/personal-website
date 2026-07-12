@@ -16,7 +16,6 @@ subtitle: null
 narrators:
   - lastName: Ganser
     firstName: L.J.
-hardcoverUrl: https://hardcover.app/books/the-mote-in-gods-eye/editions/12412563
 storygraphId: c791e039-a520-4505-98bc-8748bd560495
 coverImage: the-mote-in-gods-eye.jpg
 ---

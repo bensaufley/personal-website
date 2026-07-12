@@ -12,7 +12,6 @@ yearPublished: 2017
 isbn10: '1786811227'
 isbn13: '9781786811226'
 asin: null
-hardcoverUrl: https://hardcover.app/books/little-girl-lost-2017/editions/31100601
 finishedAt: 2020-02-06
 rating: 3
 startedAt: null

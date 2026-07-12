@@ -15,7 +15,6 @@ series:
   name: Green Rider
   volume: 1
 narrators: null
-hardcoverUrl: https://hardcover.app/books/green-rider/editions/15308604
 storygraphId: b3d5b765-947b-43ac-ae8d-a32e5f75dfa1
 coverImage: green-rider.jpg
 ---

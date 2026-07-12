@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/piranesi/editions/30399707
 storygraphId: a4f97770-d661-4687-944e-89e02077190d
 coverImage: piranesi.jpg
 ---

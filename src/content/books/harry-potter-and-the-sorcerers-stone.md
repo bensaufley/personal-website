@@ -15,7 +15,6 @@ series:
   name: Harry Potter
   volume: 1
 narrators: null
-hardcoverUrl: https://hardcover.app/books/harry-potter-and-the-sorcerers-stone/editions/17239087
 storygraphId: 0e1f224a-6770-4d6c-b1ca-a93aa78902d8
 coverImage: harry-potter-and-the-sorcerers-stone.jpg
 ---

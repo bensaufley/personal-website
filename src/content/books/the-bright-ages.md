@@ -14,6 +14,5 @@ yearPublished: 2021
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/the-bright-ages/editions/30610778
 coverImage: the-bright-ages.jpg
 ---

@@ -16,7 +16,6 @@ narrators:
     firstName: Michael
   - lastName: Reading
     firstName: Kate
-hardcoverUrl: https://hardcover.app/books/a-gathering-of-shadows/editions/30590479
 storygraphId: 7984cf09-ca04-401d-a530-f687db2ec36a
 coverImage: a-gathering-of-shadows.jpg
 ---

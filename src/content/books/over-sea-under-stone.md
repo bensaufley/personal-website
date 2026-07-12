@@ -12,7 +12,6 @@ yearPublished: 2007
 isbn10: 141694964X
 isbn13: '9781416949640'
 asin: null
-hardcoverUrl: https://hardcover.app/books/over-sea-under-stone-1965/editions/23179200
 finishedAt: 2008-01-01
 rating: 3
 startedAt: null

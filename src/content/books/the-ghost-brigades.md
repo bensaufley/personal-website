@@ -14,7 +14,6 @@ yearPublished: 2007
 isbn10: '0765354063'
 isbn13: '9780765354068'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-ghost-brigades/editions/20615261
 finishedAt: 2016-10-13
 rating: 3
 startedAt: null

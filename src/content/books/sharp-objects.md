@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/sharp-objects/editions/30399227
 storygraphId: 18dead4d-37de-4d57-a017-8c907d1c33da
 coverImage: sharp-objects.jpg
 ---

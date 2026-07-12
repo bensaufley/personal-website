@@ -11,7 +11,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: '9798331939229'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-grimoire-grammar-school-parent-teacher-association/editions/32296413
 series: null
 startedAt: 2025-10-18T00:00:00.000Z
 finishedAt: 2025-10-23T00:00:00.000Z

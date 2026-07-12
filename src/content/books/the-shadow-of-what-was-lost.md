@@ -12,7 +12,6 @@ yearPublished: 2014
 isbn10: 099258020X
 isbn13: '9780992580209'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-shadow-of-what-was-lost/editions/31497114
 finishedAt: 2019-01-05
 rating: 3
 startedAt: null

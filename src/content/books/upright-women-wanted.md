@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/upright-women-wanted/editions/428032
 storygraphId: cecf7aa7-5d5c-4e0e-a39f-b34a43825cf2
 coverImage: upright-women-wanted.jpg
 ---

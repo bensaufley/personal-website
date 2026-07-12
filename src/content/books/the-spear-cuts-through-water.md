@@ -9,7 +9,6 @@ yearPublished: 2022
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-spear-cuts-through-water/editions/31446098
 series: null
 startedAt: 2025-02-14T00:00:00.000Z
 finishedAt: 2025-08-01T00:00:00.000Z

@@ -14,6 +14,5 @@ yearPublished: 2016
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/algorithms-to-live-by/editions/30959703
 coverImage: algorithms-to-live-by.jpeg
 ---

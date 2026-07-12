@@ -17,7 +17,6 @@ series:
   name: Harry Potter
   volume: 8
 narrators:
-hardcoverUrl:
 coverImage: harry-potter-and-the-cursed-child.jpeg
 ---
 

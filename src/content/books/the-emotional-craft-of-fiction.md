@@ -12,6 +12,5 @@ yearPublished: 2016
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/the-emotional-craft-of-fiction/editions/30622234
 coverImage: the-emotional-craft-of-fiction.jpeg
 ---

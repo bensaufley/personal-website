@@ -12,6 +12,5 @@ startedAt: null
 asin:
 subtitle:
 narrators:
-hardcoverUrl: https://hardcover.app/books/upgrade/editions/30420227
 coverImage: upgrade.jpeg
 ---

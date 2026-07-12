@@ -15,7 +15,6 @@ yearPublished: 2017
 startedAt: null
 asin: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/fight-and-flight/editions/30390653
 storygraphId: 3c1ae384-3984-495c-9d9e-6a86ce3f0ac4
 coverImage: fight-and-flight.jpg
 ---

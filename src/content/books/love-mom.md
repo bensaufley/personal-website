@@ -21,7 +21,6 @@ yearPublished: 2024
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/love-mom-2024/editions/32680833
 series: null
 startedAt: null
 finishedAt: null

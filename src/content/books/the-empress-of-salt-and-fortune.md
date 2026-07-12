@@ -12,7 +12,6 @@ yearPublished: 2020
 isbn10: 125075030X
 isbn13: '9781250750303'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-empress-of-salt-and-fortune/editions/31132532
 finishedAt: 2021-08-06
 rating: 3
 startedAt: null

@@ -12,7 +12,6 @@ yearPublished: 2011
 isbn10: '0316196991'
 isbn13: '9780316196994'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-house-of-silk/editions/11415961
 finishedAt: 2018-04-01
 rating: 4
 startedAt: null

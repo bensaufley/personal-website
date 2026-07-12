@@ -7,7 +7,6 @@ authors:
 narrators:
   - lastName: Wynn-Williams
     firstName: Sarah
-hardcoverUrl: https://hardcover.app/books/careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism/editions/31933850
 finishedAt: 2025-04-20
 startedAt: null
 asin:

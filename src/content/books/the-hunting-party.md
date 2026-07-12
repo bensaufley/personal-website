@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-hunting-party/editions/30105186
 storygraphId: 5abf485b-0b4c-4018-aef3-0beb03f3a748
 coverImage: the-hunting-party.jpg
 ---

@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-night-she-went-missing/editions/30466005
 storygraphId: 4a4f29c2-424d-4c83-bb46-6f71b9e4c4e4
 coverImage: the-night-she-went-missing.jpg
 ---

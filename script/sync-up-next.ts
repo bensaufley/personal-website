@@ -4,13 +4,13 @@ import { upsertBook } from './lib/upsertBook';
 import { TO_READ_PATH } from './lib/utils';
 
 export const syncUpNext = async () => {
-  const doc = await req(`${TO_READ_PATH}?page=0&per_page=50`);
+  const doc = await req(`${TO_READ_PATH}?page=1&per_page=50`);
 
   const links = doc.querySelectorAll(
     '.up-next-book-panes .book-pane-content .book-title-author-and-series a[href^="/books/"]',
   ) as unknown as HTMLAnchorElement[];
   if (!links.length) {
-    throw new Error(`No book links found on page:  ${TO_READ_PATH}?page=0&per_page=50`);
+    throw new Error(`No book links found on page:  ${TO_READ_PATH}?page=1&per_page=50`);
   }
 
   const paths = links.map((link) => link.getAttribute('href')!).filter((v, i, a) => a.indexOf(v) === i);

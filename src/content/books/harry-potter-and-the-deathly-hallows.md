@@ -15,7 +15,6 @@ series:
   name: Harry Potter
   volume: 7
 narrators: null
-hardcoverUrl: https://hardcover.app/books/harry-potter-and-the-deathly-hallows/editions/14019917
 storygraphId: 6b276e97-e346-4b96-9d66-0b7f8aa4a02f
 coverImage: harry-potter-and-the-deathly-hallows.jpg
 ---

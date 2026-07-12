@@ -14,7 +14,6 @@ yearPublished: 2018
 isbn10: '0316422738'
 isbn13: '9780316422734'
 asin: null
-hardcoverUrl: https://hardcover.app/books/lethal-white/editions/18994277
 finishedAt: 2018-10-11
 rating: 3
 startedAt: null

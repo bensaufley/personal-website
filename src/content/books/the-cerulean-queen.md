@@ -12,7 +12,6 @@ yearPublished: 2020
 isbn10: '1250168961'
 isbn13: '9781250168962'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-cerulean-queen/editions/31260130
 finishedAt: 2021-05-29
 rating: 5
 startedAt: null

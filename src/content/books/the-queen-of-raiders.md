@@ -12,7 +12,6 @@ yearPublished: 2020
 isbn10: '1250168562'
 isbn13: '9781250168566'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-queen-of-raiders/editions/31226172
 finishedAt: 2020-11-15
 rating: 4
 startedAt: null

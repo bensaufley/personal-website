@@ -12,7 +12,6 @@ yearPublished: 2018
 isbn10: '0448494507'
 isbn13: '9780448494500'
 asin: null
-hardcoverUrl: https://hardcover.app/books/a-reaper-at-the-gates/editions/9055640
 finishedAt: 2018-11-13
 rating: 4
 startedAt: null

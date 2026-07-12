@@ -11,7 +11,6 @@ yearPublished: 2018
 isbn10: null
 isbn13: null
 asin: B078PLF8MK
-hardcoverUrl: https://hardcover.app/books/thunderhead/editions/32387017
 series:
   name: Arc of a Scythe
   volume: 2

@@ -12,7 +12,6 @@ yearPublished: 2007
 isbn10: '1423103343'
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-sea-of-monsters/editions/31497155
 finishedAt: 2010-02-23
 rating: 3
 startedAt: null

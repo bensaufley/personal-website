@@ -17,7 +17,6 @@ yearPublished: 2019
 startedAt: null
 asin: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/children-of-ruin/editions/30407274
 storygraphId: b25151f4-7d2e-461c-9588-2900fad09c17
 coverImage: children-of-ruin.jpg
 ---

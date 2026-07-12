@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-fire-next-time/editions/5491292
 storygraphId: 9ef6bf14-d9f8-4cd1-97bb-43f541a1c26a
 coverImage: the-fire-next-time.jpg
 ---

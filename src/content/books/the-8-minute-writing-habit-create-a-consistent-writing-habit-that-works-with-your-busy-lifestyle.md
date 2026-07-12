@@ -12,7 +12,6 @@ yearPublished:
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/the-8-minute-writing-habit-create-a-consistent-writing-habit-that-works-with-your-busy-lifestyle/editions/31221884
 coverImage: the-8-minute-writing-habit-create-a-consistent-writing-habit-that-works-with-your-busy-lifestyle.jpeg
 ---
 

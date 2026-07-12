@@ -12,7 +12,6 @@ yearPublished: 2014
 isbn10: '1476754454'
 isbn13: '9781476754451'
 asin: null
-hardcoverUrl: https://hardcover.app/books/mr-mercedes/editions/8226283
 finishedAt: 2019-06-20
 rating: 3
 startedAt: null

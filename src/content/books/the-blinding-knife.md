@@ -14,7 +14,6 @@ yearPublished: 2012
 isbn10: 031607991X
 isbn13: '9780316079914'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-blinding-knife/editions/26322662
 finishedAt: 2017-07-16
 rating: 4
 startedAt: null

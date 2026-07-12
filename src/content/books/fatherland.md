@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/fatherland/editions/12139301
 storygraphId: 9daf164c-9361-4654-abc9-5e3521d2128e
 coverImage: fatherland.jpg
 ---

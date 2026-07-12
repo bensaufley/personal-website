@@ -12,7 +12,6 @@ yearPublished: 2017
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/jorundyrs-path/editions/30391583
 finishedAt: 2018-02-19
 rating: 4
 startedAt: null

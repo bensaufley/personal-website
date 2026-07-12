@@ -12,7 +12,6 @@ yearPublished: 2017
 isbn10: '0062498533'
 isbn13: '9780062498533'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-hate-u-give/editions/21479089
 finishedAt: 2018-02-06
 rating: 4
 startedAt: null

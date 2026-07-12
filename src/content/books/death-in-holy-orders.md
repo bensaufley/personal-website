@@ -15,7 +15,6 @@ yearPublished: 2002
 startedAt: null
 asin: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/death-in-holy-orders/editions/23629929
 storygraphId: 52174ed6-a08a-4ffa-90d2-089a660df3ee
 coverImage: death-in-holy-orders.jpg
 ---

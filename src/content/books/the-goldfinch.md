@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-goldfinch/editions/30399797
 storygraphId: 4557881a-73e0-46ff-a4bf-6991939e6295
 coverImage: the-goldfinch.jpg
 ---

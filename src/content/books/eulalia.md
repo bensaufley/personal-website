@@ -13,7 +13,6 @@ yearPublished: 2007
 isbn10: null
 isbn13: '9781428198999'
 asin: null
-hardcoverUrl: https://hardcover.app/books/eulalia/editions/32388626
 storygraphId: d4a3962f-d20e-49fa-a1b2-9c02ebe19c57
 coverImage: eulalia.jpg
 series:

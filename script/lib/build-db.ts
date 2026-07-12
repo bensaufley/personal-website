@@ -24,7 +24,6 @@ db.exec(`
     finishedAt TEXT,
     startedAt TEXT,
     rating INTEGER,
-    hardcoverUrl TEXT,
     storygraphId TEXT,
     coverImage TEXT
   );
@@ -48,10 +47,9 @@ const addBook = db.prepare(
       startedAt,
       rating,
       narrators,
-      hardcoverUrl,
       storygraphId,
       coverImage
-    ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+    ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)
      ON CONFLICT(slug) DO UPDATE SET
       title=excluded.title,
       subtitle=excluded.subtitle,
@@ -64,7 +62,6 @@ const addBook = db.prepare(
       startedAt=excluded.startedAt,
       rating=excluded.rating,
       narrators=excluded.narrators,
-      hardcoverUrl=excluded.hardcoverUrl,
       storygraphId=excluded.storygraphId,
       coverImage=excluded.coverImage
     `,
@@ -91,7 +88,6 @@ for await (const mdFile of mdFiles) {
       : ((frontmatter.startedAt as string | null | undefined) ?? null),
     frontmatter.rating,
     frontmatter.narrators ? JSON.stringify(frontmatter.narrators) : null,
-    frontmatter.hardcoverUrl ?? null,
     frontmatter.storygraphId ?? null,
     frontmatter.coverImage ?? null,
   );
@@ -111,7 +107,6 @@ const getBookQuery = db.prepare(`
     startedAt,
     rating,
     narrators,
-    hardcoverUrl,
     storygraphId,
     coverImage
   FROM books
@@ -134,7 +129,6 @@ export const getBook = (slug: string) => {
     startedAt: result.startedAt ? new Date(Date.parse(result.startedAt as string)) : null,
     rating: result.rating,
     narrators: result.narrators ? JSON.parse(result.narrators as string) : null,
-    hardcoverUrl: result.hardcoverUrl,
     storygraphId: result.storygraphId,
     coverImage: result.coverImage,
   } as BookFrontmatter;

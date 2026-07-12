@@ -16,7 +16,6 @@ yearPublished: 2016
 isbn10: 159606787X
 isbn13: '9781596067868'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-dispatcher/editions/30405917
 finishedAt: 2016-10-15
 rating: 4
 startedAt: null

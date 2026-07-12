@@ -12,7 +12,6 @@ yearPublished: 1990
 isbn10: '0812511816'
 isbn13: '9780812511819'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-eye-of-the-world/editions/30789251
 finishedAt: 2017-03-18
 rating: 2
 startedAt: null

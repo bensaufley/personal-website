@@ -11,7 +11,6 @@ yearPublished: 2021
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-sum-of-us/editions/31662823
 series: null
 startedAt: null
 finishedAt: null

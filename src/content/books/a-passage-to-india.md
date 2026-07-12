@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/a-passage-to-india/editions/14889618
 storygraphId: af7329c1-f168-4004-9db3-050a0b3e1618
 coverImage: a-passage-to-india.jpg
 ---

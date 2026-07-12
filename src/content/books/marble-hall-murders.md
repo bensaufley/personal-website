@@ -13,7 +13,6 @@ yearPublished: 2025
 isbn10: '1804943010'
 isbn13: '9781804943014'
 asin: '0063444623'
-hardcoverUrl: https://hardcover.app/books/marble-hall-murders/editions/32046553
 series:
   name: Susan Ryeland
   volume: 3

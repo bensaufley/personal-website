@@ -17,7 +17,6 @@ asin: B01L082SCI
 narrators:
   - lastName: Porter
     firstName: Ray
-hardcoverUrl: https://hardcover.app/books/we-are-legion/editions/30403937
 storygraphId: 55afb1e7-3fac-41d1-af0d-d15ac2448d4b
 coverImage: we-are-legion-we-are-bob.jpg
 ---

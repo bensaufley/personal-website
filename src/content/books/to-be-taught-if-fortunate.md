@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/to-be-taught-if-fortunate/editions/30405524
 storygraphId: 68ab6936-20e3-4ffe-81c1-0eb67ae603f5
 coverImage: to-be-taught-if-fortunate.jpg
 ---

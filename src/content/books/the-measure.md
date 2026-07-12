@@ -14,7 +14,6 @@ subtitle: null
 narrators:
   - lastName: Whelan
     firstName: Julia
-hardcoverUrl: https://hardcover.app/books/the-measure/editions/30458398
 storygraphId: a26fa577-b833-4d88-b75a-280ced780557
 coverImage: the-measure.jpg
 ---

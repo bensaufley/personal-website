@@ -11,7 +11,6 @@ yearPublished: 2024
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: null
 storygraphId: 2b4673d2-c736-4300-b3ee-1f1af7f3552d
 coverImage: the-originalism-trap.jpg
 series: null

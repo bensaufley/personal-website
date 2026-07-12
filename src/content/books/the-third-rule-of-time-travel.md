@@ -11,7 +11,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: '9781668647721'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-third-rule-of-time-travel/editions/32293401
 series: null
 startedAt: 2025-09-21T00:00:00.000Z
 finishedAt: 2025-09-25T00:00:00.000Z

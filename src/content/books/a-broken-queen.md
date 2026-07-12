@@ -12,7 +12,6 @@ yearPublished: 2020
 isbn10: 125016866X
 isbn13: '9781250168665'
 asin: null
-hardcoverUrl: https://hardcover.app/books/a-broken-queen/editions/31260128
 finishedAt: 2021-03-27
 rating: 4
 startedAt: null

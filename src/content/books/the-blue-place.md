@@ -9,7 +9,6 @@ yearPublished: 1998
 isbn10: '0374539197'
 isbn13: '9780374539191'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-blue-place-a-novel/editions/32117936
 series:
   name: Aud Torvingen
   volume: 1

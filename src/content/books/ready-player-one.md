@@ -15,7 +15,6 @@ yearPublished: 2011
 startedAt: null
 asin: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/ready-player-one/editions/30426366
 storygraphId: c84bba55-3c4c-4351-b445-3f6f780156c4
 coverImage: ready-player-one.jpeg
 ---

@@ -11,7 +11,6 @@ yearPublished: 1999
 isbn10: null
 isbn13: '9781469225692'
 asin: null
-hardcoverUrl: https://hardcover.app/books/gardens-of-the-moon/editions/32775902
 series:
   name: Malazan Book of the Fallen
   volume: 1

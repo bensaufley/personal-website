@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/fourth-wing/editions/30906291
 storygraphId: 590a3d87-39a0-4603-ae04-d852b51212e3
 coverImage: fourth-wing.jpg
 ---

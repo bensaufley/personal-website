@@ -25,7 +25,6 @@ yearPublished: 2017
 isbn10: null
 isbn13: '9780525529125'
 asin: B06ZZXC8VJ
-hardcoverUrl: https://hardcover.app/books/after-on/editions/32070377
 series: null
 startedAt: null
 finishedAt: 2025-06-16T00:00:00.000Z

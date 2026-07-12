@@ -12,7 +12,6 @@ startedAt: null
 asin: B01MYZ8X5C
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/all-systems-red/editions/30431489
 storygraphId: 0885d5f1-edc2-435f-b17c-7e881829dbc6
 coverImage: all-systems-red.jpg
 ---

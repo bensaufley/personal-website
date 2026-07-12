@@ -12,7 +12,6 @@ yearPublished: 2007
 isbn10: '0765316978'
 isbn13: '9780765316974'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-last-colony/editions/20574805
 finishedAt: 2018-11-27
 rating: 3
 startedAt: null

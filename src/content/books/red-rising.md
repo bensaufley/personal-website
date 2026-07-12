@@ -12,7 +12,6 @@ startedAt: null
 asin: B00I2VWW5U
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/red-rising/editions/30920119
 storygraphId: 555da170-54de-49eb-bf16-06be9d45fab2
 coverImage: red-rising.jpg
 ---

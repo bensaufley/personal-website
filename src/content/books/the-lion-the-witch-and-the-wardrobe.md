@@ -16,7 +16,6 @@ yearPublished: 2005
 isbn10: '0060764899'
 isbn13: '9780060764890'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-lion-the-witch-and-the-wardrobe/editions/17578806
 finishedAt: 2016-11-28
 rating: 3
 startedAt: null

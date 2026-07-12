@@ -15,7 +15,6 @@ yearPublished: 2014
 startedAt: null
 asin: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/fear-the-survivors-5ed3f30d-9ef0-4620-80e2-186d61f3a4c7/editions/31080530
 storygraphId: 5f82f9df-ef52-4c7c-a254-2b8e5aa58f96
 coverImage: fear-the-survivors.jpg
 ---

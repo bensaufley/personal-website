@@ -12,6 +12,5 @@ startedAt: null
 asin:
 subtitle:
 narrators:
-hardcoverUrl: https://hardcover.app/books/even-greater-mistakes/editions/30408649
 coverImage: even-greater-mistakes.jpg
 ---

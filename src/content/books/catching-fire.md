@@ -15,7 +15,6 @@ yearPublished: 2009
 startedAt: null
 asin: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/catching-fire/editions/7988314
 storygraphId: 84c343bd-8861-49a2-9301-62f3bb6da9ae
 coverImage: catching-fire.jpg
 ---

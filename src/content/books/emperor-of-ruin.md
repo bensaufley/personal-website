@@ -11,7 +11,6 @@ yearPublished: 2023
 isbn10: '1668634899'
 isbn13: '9781668634899'
 asin: null
-hardcoverUrl: https://hardcover.app/books/emperor-of-ruin/editions/32716111
 series:
   name: Burningblade & Silvereye
   volume: 3

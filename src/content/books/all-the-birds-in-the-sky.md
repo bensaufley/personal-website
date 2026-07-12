@@ -14,7 +14,6 @@ subtitle: null
 narrators:
   - lastName: Bresnahan
     firstName: Alyssa
-hardcoverUrl: https://hardcover.app/books/all-the-birds-in-the-sky/editions/30403913
 storygraphId: 0368f687-43e3-4ecb-a561-0ac4c213b776
 coverImage: all-the-birds-in-the-sky.jpg
 ---

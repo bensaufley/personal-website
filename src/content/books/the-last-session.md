@@ -13,7 +13,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: '9781797183688'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-last-session/editions/32492250
 series: null
 startedAt: 2025-12-27T00:00:00.000Z
 finishedAt: 2025-12-30T00:00:00.000Z

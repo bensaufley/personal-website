@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-way-of-shadows/editions/30400849
 storygraphId: b11cfb99-94ae-439d-a03c-4d25989dc910
 coverImage: the-way-of-shadows.jpg
 ---

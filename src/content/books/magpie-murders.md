@@ -15,7 +15,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/magpie-murders/editions/23502840
 storygraphId: 67971187-2fbf-4c85-9eb0-9b4f580b0f79
 coverImage: magpie-murders.jpg
 ---

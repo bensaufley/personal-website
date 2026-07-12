@@ -14,7 +14,6 @@ subtitle: null
 narrators:
   - lastName: Angst
     firstName: Adam
-hardcoverUrl: https://hardcover.app/books/russian-sleeper-cell/editions/31969470
 storygraphId: 85e431f8-f153-4fd1-9c49-5d030e0aecb4
 coverImage: russian-sleeper-cell.jpg
 ---

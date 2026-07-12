@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/a-deadly-education/editions/30399805
 storygraphId: 804d01ff-1ea5-4763-aeeb-b34fe0064610
 coverImage: a-deadly-education.jpg
 ---

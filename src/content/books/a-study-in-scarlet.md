@@ -12,7 +12,6 @@ yearPublished: 2005
 isbn10: '1420925539'
 isbn13: '9781420925531'
 asin: null
-hardcoverUrl: https://hardcover.app/books/a-study-in-scarlet/editions/30399452
 finishedAt: 2011-01-01
 rating: 4
 startedAt: null

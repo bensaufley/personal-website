@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-seep/editions/3503282
 storygraphId: aa60e56c-7841-48a1-b50b-6b9743d15941
 coverImage: the-seep.jpg
 ---

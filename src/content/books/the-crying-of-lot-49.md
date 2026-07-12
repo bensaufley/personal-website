@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-crying-of-lot-49/editions/3464110
 storygraphId: 6f6c6738-b20e-4e56-a973-f80458dc0058
 coverImage: the-crying-of-lot-49.jpg
 ---

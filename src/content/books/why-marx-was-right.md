@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/why-marx-was-right/editions/30515589
 storygraphId: bb6c2c63-314d-4284-ae4b-9fd281ba4db2
 coverImage: why-marx-was-right.jpg
 ---

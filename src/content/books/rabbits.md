@@ -11,7 +11,6 @@ yearPublished: 2021
 isbn10: null
 isbn13: '9780593414668'
 asin: null
-hardcoverUrl: https://hardcover.app/books/rabbits/editions/31546302
 series:
   name: Rabbits
   volume: 1

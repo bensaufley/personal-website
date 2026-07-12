@@ -19,7 +19,7 @@ export const syncRead = async (since?: Dayjs) => {
     earliestDate = dayjs(latestBook.maxFinishedAt);
   }
   let earliestFinishedAt: Date | undefined;
-  for (let page = 0; page < 10; page++) {
+  for (let page = 1; page <= 10; page++) {
     const doc = await req(`${READ_BOOKS_PATH}?page=${page}&per_page=20`);
 
     const links = doc.querySelectorAll(

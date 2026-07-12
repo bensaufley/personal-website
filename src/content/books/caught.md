@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/caught-2019/editions/8102690
 storygraphId: cb604286-6754-439c-91cd-216da7855325
 coverImage: caught.jpg
 ---

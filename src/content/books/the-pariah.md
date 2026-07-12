@@ -11,7 +11,6 @@ yearPublished: 2021
 isbn10: null
 isbn13: '9781549104299'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-pariah/editions/31983782
 series:
   name: Covenant of Steel
   volume: 1

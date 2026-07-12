@@ -14,7 +14,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/this-is-how-you-lose-the-time-war/editions/26220245
 storygraphId: 97d777d8-a679-4bc3-977f-16b945d1960d
 coverImage: this-is-how-you-lose-the-time-war.jpg
 ---

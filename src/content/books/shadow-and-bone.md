@@ -12,7 +12,6 @@ yearPublished: 2012
 isbn10: '1250048117'
 isbn13: '9781250048110'
 asin: null
-hardcoverUrl: https://hardcover.app/books/shadow-and-bone/editions/30399210
 finishedAt: 2015-09-03
 rating: 4
 startedAt: null

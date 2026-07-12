@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/hyperion/editions/31497002
 storygraphId: 1d28a304-0b52-42d5-87ee-c2fe52347a11
 coverImage: hyperion.jpg
 ---

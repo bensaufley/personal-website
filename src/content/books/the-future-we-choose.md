@@ -15,7 +15,6 @@ yearPublished: null
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-future-we-choose-surviving-the-climate-crisis
 series: null
 startedAt: null
 finishedAt: null

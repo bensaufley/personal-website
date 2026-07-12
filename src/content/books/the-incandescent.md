@@ -11,7 +11,6 @@ yearPublished: 2025
 isbn10: '1250401798'
 isbn13: '9781250401793'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-incandescent/editions/32045710
 series: null
 startedAt: 2025-09-25T00:00:00.000Z
 finishedAt: 2025-10-02T00:00:00.000Z

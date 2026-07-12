@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-communist-manifesto/editions/16294758
 storygraphId: 70913c2c-6ddf-4fba-ac69-e86f9979b776
 coverImage: the-communist-manifesto.jpg
 ---

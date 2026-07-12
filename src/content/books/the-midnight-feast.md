@@ -12,7 +12,6 @@ startedAt: null
 asin: B0CLMHRSKW
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-midnight-feast/editions/31497056
 storygraphId: 6c60566a-eac7-45ae-be5c-169347a79cd5
 coverImage: the-midnight-feast.jpeg
 ---

@@ -10,7 +10,6 @@ yearPublished: 2020
 isbn10: null
 isbn13: '9798217158881'
 asin: null
-hardcoverUrl: https://hardcover.app/books/there-is-no-antimemetics-division/editions/32377512
 series: null
 startedAt: null
 finishedAt: null

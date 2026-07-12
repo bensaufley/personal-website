@@ -15,7 +15,6 @@ yearPublished: 2013
 startedAt: null
 asin: null
 narrators: null
-hardcoverUrl: null
 storygraphId: ba286a16-20c0-4fb2-8a01-c5b5b0145eec
 coverImage: the-cuckoos-calling.jpg
 ---

@@ -12,6 +12,5 @@ yearPublished: 2012
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/wired-for-story-the-writers-guide-to-using-brain-science-to-hook-readers-from-the-very-first-sentence/editions/30966549
 coverImage: wired-for-story.jpeg
 ---

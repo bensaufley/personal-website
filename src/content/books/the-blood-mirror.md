@@ -12,7 +12,6 @@ yearPublished: 2016
 isbn10: 031625133X
 isbn13: '9780316251334'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-blood-mirror/editions/30431967
 finishedAt: 2017-09-07
 rating: 3
 startedAt: null

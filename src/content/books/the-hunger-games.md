@@ -12,7 +12,6 @@ yearPublished: 2010
 isbn10: '0439023521'
 isbn13: '9780439023528'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-hunger-games/editions/1127916
 finishedAt: 2010-09-08
 rating: 4
 startedAt: null

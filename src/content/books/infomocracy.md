@@ -12,7 +12,6 @@ yearPublished: 2016
 isbn10: '0765385155'
 isbn13: '9780765385154'
 asin: null
-hardcoverUrl: https://hardcover.app/books/infomocracy/editions/11186258
 finishedAt: 2016-06-27
 rating: 3
 startedAt: null

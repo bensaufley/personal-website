@@ -12,6 +12,5 @@ yearPublished: 2018
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/on-the-other-side-of-freedom-the-case-for-hope/editions/2907525
 coverImage: on-the-other-side-of-freedom-the-case-for-hope.jpg
 ---

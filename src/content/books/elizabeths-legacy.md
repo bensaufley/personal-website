@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/elizabeths-legacy/editions/30467598
 storygraphId: 19701ee8-0d13-4cea-a65c-e14298930384
 coverImage: elizabeths-legacy.jpg
 ---

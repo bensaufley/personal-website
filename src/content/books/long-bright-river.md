@@ -11,7 +11,6 @@ yearPublished: 2020
 isbn10: null
 isbn13: '9780593146897'
 asin: null
-hardcoverUrl: https://hardcover.app/books/long-bright-river/editions/32053021
 storygraphId: bb1d0776-4cf9-4a79-9c21-7565dc870baa
 coverImage: long-bright-river.jpg
 series: null

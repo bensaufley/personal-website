@@ -11,7 +11,6 @@ yearPublished: 2024
 isbn10: null
 isbn13: null
 asin: B0C6YL374F
-hardcoverUrl: https://hardcover.app/books/a-fate-inked-in-blood/editions/31548416
 series:
   name: Saga of the Unfated
   volume: 1

@@ -12,7 +12,6 @@ startedAt: null
 asin: '0593167244'
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-herd/editions/31826839
 storygraphId: 8c430f33-9d0d-4dcd-be42-51c38fa33188
 coverImage: the-herd.jpg
 ---

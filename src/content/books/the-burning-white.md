@@ -12,7 +12,6 @@ yearPublished: 2019
 isbn10: '0316251305'
 isbn13: '9780316251303'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-burning-white/editions/3389994
 finishedAt: 2019-11-08
 rating: 4
 startedAt: null

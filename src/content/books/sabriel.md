@@ -14,7 +14,6 @@ yearPublished: 1996
 isbn10: '0064471837'
 isbn13: '9780064471831'
 asin: null
-hardcoverUrl: https://hardcover.app/books/sabriel/editions/30880083
 finishedAt: 2014-10-29
 rating: 4
 startedAt: null

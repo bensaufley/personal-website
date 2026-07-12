@@ -12,7 +12,6 @@ yearPublished: 2004
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/how-soccer-explains-the-world/editions/23064696
 coverImage: how-soccer-explains-the-world.jpg
 ---
 

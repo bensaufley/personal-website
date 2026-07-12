@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/impossible-creatures/editions/31589449
 storygraphId: 17a90643-59fe-4513-9b1b-3615387d0d74
 coverImage: impossible-creatures.jpeg
 ---

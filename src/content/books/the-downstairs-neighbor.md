@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-downstairs-neighbor-2021/editions/30961235
 storygraphId: ac6724b8-ccd6-47b2-807d-334fd7031b54
 coverImage: the-downstairs-neighbor.jpg
 ---

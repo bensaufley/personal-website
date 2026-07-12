@@ -12,7 +12,6 @@ yearPublished: 2011
 isbn10: '1841499889'
 isbn13: '9781841499888'
 asin: null
-hardcoverUrl: https://hardcover.app/books/leviathan-wakes/editions/24082009
 finishedAt: 2020-03-09
 rating: 3
 startedAt: null

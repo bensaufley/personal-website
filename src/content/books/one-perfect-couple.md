@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/one-perfect-couple/editions/31147384
 storygraphId: 3201c372-2baa-46e5-838e-c5858951f8b6
 coverImage: one-perfect-couple.jpg
 ---

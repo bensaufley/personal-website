@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/a-conjuring-of-light/editions/30552337
 storygraphId: b5111258-df2d-45e3-b42a-c75edc1c0c53
 coverImage: a-conjuring-of-light.jpg
 ---

@@ -12,7 +12,6 @@ startedAt: null
 asin: B078SGTKS6
 subtitle: A novel of first contact
 narrators: null
-hardcoverUrl: https://hardcover.app/books/semiosis/editions/31927328
 series:
   name: Semiosis
   volume: 1

@@ -12,7 +12,6 @@ yearPublished: 2024
 isbn10: null
 isbn13: '9781797175485'
 asin: B0CLHHR16L
-hardcoverUrl: https://hardcover.app/books/black-pill/editions/32014840
 series: null
 startedAt: null
 finishedAt: 2025-05-31T00:00:00.000Z

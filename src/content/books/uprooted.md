@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/uprooted/editions/30399522
 storygraphId: 726593f7-4e07-470c-8a8b-b302fc94220f
 coverImage: uprooted.jpg
 ---

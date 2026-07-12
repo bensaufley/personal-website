@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-fifth-gospel-2014/editions/25382873
 storygraphId: 039537f7-524e-4607-93b4-b3d81049e431
 coverImage: the-fifth-gospel.jpg
 ---

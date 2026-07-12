@@ -11,7 +11,6 @@ yearPublished: 2019
 isbn10: null
 isbn13: null
 asin: '1490656243'
-hardcoverUrl: https://hardcover.app/books/age-of-legend/editions/32333064
 series:
   name: The Legends of the First Empire
   volume: 4

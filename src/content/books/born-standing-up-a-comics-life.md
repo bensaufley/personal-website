@@ -12,7 +12,6 @@ yearPublished: 2007
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/born-standing-up-a-comics-life/editions/22893065
 coverImage: born-standing-up-a-comics-life.jpg
 ---
 

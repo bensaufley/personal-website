@@ -13,7 +13,6 @@ yearPublished: 2026
 isbn10: '1641296917'
 isbn13: '9781641296915'
 asin: null
-hardcoverUrl: https://hardcover.app/books/what-boys-learn/editions/32800012
 storygraphId: 084ea5d9-04b7-40fa-895c-ddf77c75f83d
 coverImage: what-boys-learn.jpg
 series: null

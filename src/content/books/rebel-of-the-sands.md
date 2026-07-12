@@ -12,7 +12,6 @@ yearPublished: 2016
 isbn10: '0451477537'
 isbn13: '9780451477538'
 asin: null
-hardcoverUrl: https://hardcover.app/books/rebel-of-the-sands/editions/30422832
 finishedAt: 2020-02-12
 rating: 4
 startedAt: null

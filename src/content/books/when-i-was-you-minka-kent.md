@@ -13,7 +13,6 @@ yearPublished: 2020
 isbn10: null
 isbn13: null
 asin: '1799749819'
-hardcoverUrl: https://hardcover.app/books/when-i-was-you-2020/editions/32227930
 series: null
 startedAt: 2025-08-15T00:00:00.000Z
 finishedAt: 2025-08-16T00:00:00.000Z

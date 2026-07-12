@@ -12,7 +12,6 @@ yearPublished: 2018
 isbn10: '0316412066'
 isbn13: '9780316412063'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-salvagers/editions/30396686
 finishedAt: 2020-05-30
 rating: 3
 startedAt: null

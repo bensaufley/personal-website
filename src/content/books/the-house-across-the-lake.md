@@ -11,7 +11,6 @@ yearPublished: 2022
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-house-across-the-lake/editions/31983836
 series: null
 startedAt: null
 finishedAt: 2025-06-19T00:00:00.000Z

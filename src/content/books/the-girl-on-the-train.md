@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-girl-on-the-train/editions/30399545
 storygraphId: 43f43c39-06bb-470a-81b6-9301f78009b0
 coverImage: the-girl-on-the-train.jpg
 ---

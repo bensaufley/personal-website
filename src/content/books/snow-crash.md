@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/snow-crash/editions/6323255
 storygraphId: af1e9753-9c7c-4d53-9381-bb0c57f51786
 coverImage: snow-crash.jpg
 ---

@@ -13,7 +13,6 @@ yearPublished: 2023
 isbn10: '1797155849'
 isbn13: '9781797155845'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-great-transition-2023/editions/32034318
 series: null
 startedAt: 2025-08-07T00:00:00.000Z
 finishedAt: 2025-08-15T00:00:00.000Z

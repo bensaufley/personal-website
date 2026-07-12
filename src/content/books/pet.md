@@ -12,7 +12,6 @@ yearPublished: 2019
 isbn10: '0525647074'
 isbn13: '9780525647072'
 asin: null
-hardcoverUrl: https://hardcover.app/books/pet/editions/12725488
 finishedAt: 2021-02-03
 rating: 5
 startedAt: null

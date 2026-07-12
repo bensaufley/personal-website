@@ -12,7 +12,6 @@ yearPublished: 2007
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/indian-summer-the-secret-history-of-the-end-of-an-empire/editions/30700884
 coverImage: indian-summer.jpg
 ---
 

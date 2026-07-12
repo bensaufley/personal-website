@@ -15,7 +15,6 @@ yearPublished: 2017
 startedAt: null
 asin: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/year-one/editions/25499653
 storygraphId: 8d11e6d3-ae87-4bcf-a673-ca39d5f61e19
 coverImage: year-one.jpg
 ---

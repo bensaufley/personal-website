@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/ashes-of-the-sun/editions/315923
 series:
   name: Burningblade & Silvereye
   volume: 1

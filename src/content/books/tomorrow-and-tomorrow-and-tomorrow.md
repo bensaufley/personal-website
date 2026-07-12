@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/tomorrow-and-tomorrow-and-tomorrow/editions/30419881
 storygraphId: d57e098f-82dc-41f1-94f3-8fcb02dfab1b
 coverImage: tomorrow-and-tomorrow-and-tomorrow.jpg
 ---

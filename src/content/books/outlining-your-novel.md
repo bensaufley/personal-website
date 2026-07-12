@@ -12,7 +12,6 @@ yearPublished: 2011
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/outlining-your-novel-map-your-way-to-success/editions/30518790
 coverImage: outlining-your-novel.jpeg
 ---
 

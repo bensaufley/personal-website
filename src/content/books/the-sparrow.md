@@ -12,7 +12,6 @@ yearPublished: 2008
 isbn10: '0449912558'
 isbn13: '9780449912553'
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-sparrow/editions/1114797
 finishedAt: 2014-08-11
 rating: 5
 startedAt: null

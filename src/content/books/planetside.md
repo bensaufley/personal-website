@@ -14,7 +14,6 @@ yearPublished: 2018
 isbn10: '0062694677'
 isbn13: '9780062694676'
 asin: null
-hardcoverUrl: https://hardcover.app/books/planetside/editions/87667
 finishedAt: 2020-02-09
 rating: 2
 startedAt: null

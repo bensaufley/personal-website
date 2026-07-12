@@ -13,7 +13,6 @@ yearPublished: 2018
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-bridge-kingdom/editions/32038024
 series:
   name: The Bridge Kingdom
   volume: 1

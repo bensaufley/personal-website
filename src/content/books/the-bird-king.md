@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-bird-king/editions/13908281
 storygraphId: c42769cf-7499-4914-8289-415c822c397a
 coverImage: the-bird-king.jpg
 ---

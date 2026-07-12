@@ -14,7 +14,6 @@ yearPublished: 2021
 isbn10: '1549106392'
 isbn13: '9781549106392'
 asin: null
-hardcoverUrl: https://hardcover.app/books/shards-of-earth/editions/30388721
 finishedAt: 2021-12-14
 rating: 3
 startedAt: null

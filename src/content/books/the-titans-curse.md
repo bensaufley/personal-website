@@ -12,7 +12,6 @@ startedAt: null
 asin: '0786297018'
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-titans-curse/editions/13716867
 storygraphId: 420f2469-d6b5-4be9-816c-998a41be8f67
 coverImage: the-titans-curse.jpg
 ---

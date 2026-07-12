@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/the-martian/editions/21716111
 storygraphId: 977e301d-c438-40f4-810b-25a96dbee03e
 coverImage: the-martian.jpg
 ---

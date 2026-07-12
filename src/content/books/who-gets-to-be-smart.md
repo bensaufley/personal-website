@@ -11,7 +11,6 @@ yearPublished: null
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/who-gets-to-be-smart
 series: null
 startedAt: null
 finishedAt: null

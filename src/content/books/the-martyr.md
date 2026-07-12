@@ -11,7 +11,6 @@ yearPublished: 2022
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/the-martyr/editions/32023273
 series:
   name: Covenant of Steel
   volume: 2

@@ -12,6 +12,5 @@ yearPublished: 2018
 startedAt: null
 asin:
 narrators:
-hardcoverUrl: https://hardcover.app/books/factfulness/editions/30399461
 coverImage: factfulness.jpeg
 ---

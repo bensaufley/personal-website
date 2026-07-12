@@ -11,7 +11,6 @@ yearPublished: 2025
 isbn10: null
 isbn13: null
 asin: null
-hardcoverUrl: https://hardcover.app/books/a-drop-of-corruption/editions/31992992
 storygraphId: cbdd9d79-243f-4def-8413-306f88054147
 coverImage: a-drop-of-corruption.jpg
 series:

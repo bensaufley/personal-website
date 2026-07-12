@@ -12,7 +12,6 @@ yearPublished: 2019
 isbn10: '1529001587'
 isbn13: '9781529001587'
 asin: null
-hardcoverUrl: https://hardcover.app/books/a-memory-called-empire/editions/30404635
 finishedAt: 2019-06-06
 rating: 5
 startedAt: null

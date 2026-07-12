@@ -12,7 +12,6 @@ startedAt: null
 asin: null
 subtitle: null
 narrators: null
-hardcoverUrl: https://hardcover.app/books/after-world/editions/31539009
 storygraphId: 30855df0-a4ca-49a5-855c-bb1c122773f4
 coverImage: after-world.jpg
 ---
