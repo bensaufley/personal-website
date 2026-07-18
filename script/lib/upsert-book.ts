@@ -22,7 +22,7 @@ ${stringify(
     }).sort(([a], [b]) => a.localeCompare(b)),
   ),
 )}---
-${review?.trim() ? `\n${review}\n` : ''}`;
+${review?.includes('<Spoiler>') ? "\nimport Spoiler from '~components/reading/Spoiler.astro';\n\n" : ''}${review?.trim() ? `\n${review}\n` : ''}`;
 
 export const upsertBook = async (input: string | ProcessedTsgBook) => {
   const processed = typeof input === 'string' ? await processTsgBook(input) : input;

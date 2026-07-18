@@ -17,5 +17,5 @@ series:
 startedAt: null
 finishedAt: null
 rating: null
-coverImage: those-beyond-the-wall.jpeg
+coverImage: those-beyond-the-wall.jpg
 ---
