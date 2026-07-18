@@ -15,6 +15,7 @@ chmod 600 ~/.ssh/known_hosts
 sshpass -f "$tempfile" \
   rsync \
     -avzh --delete --checksum \
+    --exclude covers \
     ./dist/ \
     "$FTP_USER@$FTP_HOST:$FTP_ROOT_PATH"
 
