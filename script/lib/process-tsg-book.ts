@@ -51,7 +51,8 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
     const slug = title
       .toLocaleLowerCase()
       .replaceAll(/'/g, '')
-      .replaceAll(/[^a-z0-9]+/g, '-');
+      .replaceAll(/[^a-z0-9]+/g, '-')
+      .replaceAll(/^-+|-+$/g, '');
 
     const existingBook = getBook(slug);
 
@@ -112,8 +113,8 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
       coverImage: coverImage ?? existingBook?.coverImage ?? null,
       finishedAt: existingBook?.finishedAt ?? null,
       hasSpoilers: false,
-      isbn10: isbn?.textContent?.length === 10 ? isbn.textContent : null,
-      isbn13: isbn?.textContent?.length === 13 ? isbn.textContent : null,
+      isbn10: isbn?.textContent?.length === 10 ? isbn.textContent : (existingBook?.isbn10 ?? null),
+      isbn13: isbn?.textContent?.length === 13 ? isbn.textContent : (existingBook?.isbn13 ?? null),
       narrators: narrators ?? existingBook?.narrators ?? null,
       rating: null,
       review: null,
@@ -129,15 +130,27 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
     debug('Read status for book', { title, libraryStatus });
 
     switch (libraryStatus) {
-      case 'read':
       case 'currently reading': {
+        const editJournalEntryUrl = doc
+          .querySelector('.on-book-page.action-menu a[href^="/edit-journal-entry-from-book"]')
+          ?.getAttribute('href');
+        let startedAt: Date | null = null;
+        if (editJournalEntryUrl) {
+          const fragment = await req(editJournalEntryUrl);
+          startedAt = getDateFromForm(fragment, 'journal_entry');
+        }
+        return {
+          ...sharedFrontmatter,
+          startedAt,
+        };
+      }
+      case 'read': {
         const rating = doc
           .querySelectorAll('.on-book-page.action-menu .book-page-review-section span')
           .find((el) => !Number.isNaN(Number(el.textContent?.trim() ?? '')));
-        const editReadDatesLink = doc.querySelector(
-          '.on-book-page.action-menu a[href^="/edit-read-instance-from-book"]',
-        );
-        const editReadDatesUrl = editReadDatesLink?.getAttribute('href') ?? null;
+        const editReadDatesUrl = doc
+          .querySelector('.on-book-page.action-menu a[href^="/edit-read-instance-from-book"]')
+          ?.getAttribute('href');
         let startedAt: Date | null = null;
         let finishedAt: Date | null = null;
         if (editReadDatesUrl) {
@@ -147,15 +160,13 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
         }
         let review: string | null = null;
         let hasSpoilers: boolean = false;
-        if (libraryStatus === 'read') {
-          const reviewUrl =
-            doc.querySelector('.on-book-page.action-menu a[href^="/reviews/"]')?.getAttribute('href') ?? null;
-          if (reviewUrl) {
-            const reviewDoc = await req(reviewUrl);
-            const rawReview = reviewDoc.querySelector('.review-explanation > div')?.innerHTML.trim() ?? null;
-            review = rawReview ? turndownService.turndown(rawReview) : null;
-            hasSpoilers = !!reviewDoc.querySelector('.spoiler');
-          }
+        const reviewUrl =
+          doc.querySelector('.on-book-page.action-menu a[href^="/reviews/"]')?.getAttribute('href') ?? null;
+        if (reviewUrl) {
+          const reviewDoc = await req(reviewUrl);
+          const rawReview = reviewDoc.querySelector('.review-explanation > div')?.innerHTML.trim() ?? null;
+          review = rawReview ? turndownService.turndown(rawReview) : null;
+          hasSpoilers = !!reviewDoc.querySelector('.spoiler');
         }
         return {
           ...sharedFrontmatter,
