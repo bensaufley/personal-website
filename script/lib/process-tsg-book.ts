@@ -8,8 +8,8 @@ import { parse } from 'node-html-parser';
 import type { BookFrontmatter } from '~content/config';
 
 import { getBook } from './build-db';
-import { rawReq, req } from './tsg-req';
-import { getDateFromForm, parseName, turndownService, UUID_REGEX } from './utils';
+import { getCsrfToken, rawReq, req } from './tsg-req';
+import { debug, getDateFromForm, parseName, turndownService, UUID_REGEX } from './utils';
 
 type Format = 'digital' | 'paperback' | 'audio' | 'hardcover' | 'cancel';
 type AddToShelf = 'to-read' | 'read' | 'currently-reading' | 'none' | 'cancel';
@@ -18,11 +18,18 @@ export type ProcessedTsgBook = BookFrontmatter & { slug: string; review: string 
 
 export const processTsgBook = async (path: string, force = false): Promise<ProcessedTsgBook> => {
   const id = path.match(UUID_REGEX)?.[0];
+  debug(`Processing TSG book`, { path, id, force });
+
   if (!id) throw new Error('Could not infer id from path');
 
   const bookUrl = new URL(path, 'https://app.thestorygraph.com');
   const doc = await req(path);
-  if (doc.querySelector('a[href^="/edit-read-instance-from-book"]') || force) {
+
+  // Button has .read-status-button if not in library, and .read-status-label if in library
+  const libraryStatus = doc.querySelector('.on-book-page.action-menu .read-status-label')?.textContent?.trim();
+  if (libraryStatus || force) {
+    debug('Book is already in library or force flag is set, proceeding to extract data.');
+
     const rawTitle = doc.querySelector('.book-title-author-and-series h3')?.textContent.trim();
     if (!rawTitle) throw new Error(`Could not find title at ${bookUrl.toString()}`);
 
@@ -51,6 +58,7 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
     const contributors = doc.querySelector('.book-title-author-and-series p:last-of-type')?.textContent.trim();
     const [rawAuthors, rawOthers] = contributors?.split(' with ') ?? [];
     if (!rawAuthors) throw new Error(`Could not find authors at ${bookUrl.toString()}`);
+
     const authors = rawAuthors
       .split(',')
       .map((author) => author.trim())
@@ -118,11 +126,9 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
       yearPublished: rawPublished ? Number(rawPublished) : null,
     };
 
-    const readStatus = doc
-      .querySelector('.on-book-page.action-menu .read-status-label')
-      ?.textContent.toLocaleLowerCase();
+    debug('Read status for book', { title, libraryStatus });
 
-    switch (readStatus) {
+    switch (libraryStatus) {
       case 'read':
       case 'currently reading': {
         const rating = doc
@@ -141,7 +147,7 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
         }
         let review: string | null = null;
         let hasSpoilers: boolean = false;
-        if (readStatus === 'read') {
+        if (libraryStatus === 'read') {
           const reviewUrl =
             doc.querySelector('.on-book-page.action-menu a[href^="/reviews/"]')?.getAttribute('href') ?? null;
           if (reviewUrl) {
@@ -161,12 +167,13 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
         };
       }
       case 'to read':
-        return sharedFrontmatter;
       default:
-        // Not on any lists
-        throw new Error(`Unknown read status: ${readStatus}`);
+        if (libraryStatus !== 'to read') debug('Unexpected library status', { libraryStatus });
+        return sharedFrontmatter;
     }
   } else {
+    debug('Book is not in library, prompting user for format selection.', { html: doc.innerHTML });
+
     const readLink = doc
       .querySelectorAll('a[href^="/books/"]')
       .find((el) => /You.* another edition/gi.test(el.textContent ?? ''));
@@ -198,9 +205,10 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
       .filter((el) => /Language:\s*English/.test(el.textContent ?? ''))
       .find((el) => (format === 'audio' ? /\(Narrator\)/.test(el.textContent ?? '') : true));
     const bookLink = firstBookPane?.querySelector('a[href^="/books/"]')?.getAttribute('href');
-    if (bookLink) {
+    const editionId = bookLink?.match(UUID_REGEX)?.[0];
+    if (editionId) {
       const addToShelf = await select<AddToShelf>({
-        message: `Do you want to add ${styleText(['underline', 'blue'], `https://app.thestorygraph.com/${bookLink}`)} to a shelf?`,
+        message: `Do you want to add ${styleText(['underline', 'blue'], `https://app.thestorygraph.com${bookLink}`)} to a shelf?`,
         choices: [
           { value: 'to-read', name: 'To Read' },
           { value: 'read', name: 'Read' },
@@ -210,10 +218,18 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
           { value: 'cancel', name: 'Cancel Import', description: 'End the import process' },
         ],
       });
-      if (!['none', 'cancel'].includes(addToShelf!)) {
-        await rawReq(`/update-status.js?book_id=${encodeURIComponent(id)}&status=${addToShelf}`);
-      }
+      debug('User selected shelf to add book to', { editionId, addToShelf });
       if (addToShelf === 'cancel') throw new Error('Import canceled by user.');
+      if (addToShelf !== 'none') {
+        const resp = await rawReq(`/update-status.js?book_id=${encodeURIComponent(editionId)}&status=${addToShelf}`, {
+          method: 'POST',
+          redirect: 'manual',
+          headers: {
+            'x-csrf-token': (await getCsrfToken(doc)) ?? '',
+          },
+        });
+        debug('Added book to shelf', { editionId, addToShelf, status: resp.status });
+      }
       return processTsgBook(bookLink, true);
     }
 

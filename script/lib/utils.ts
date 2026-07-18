@@ -1,5 +1,6 @@
 import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';
+import { styleText } from 'node:util';
 import type { HTMLElement } from 'node-html-parser';
 import TurndownService from 'turndown';
 import { gfm, strikethrough, tables } from 'turndown-plugin-gfm';
@@ -12,6 +13,12 @@ export const SEARCH_PATH = '/search?search_term=%s';
 export const UUID_REGEX = /[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}/i;
 
 dayjs.extend(utc);
+
+export { dayjs };
+
+export const debug = (...args: unknown[]) => {
+  if (process.env.DEBUG) console.debug(styleText(['dim', 'blue'], 'DEBUG: '), ...args);
+};
 
 export const turndownService = new TurndownService();
 turndownService.use([gfm, tables, strikethrough]);
