@@ -84,7 +84,7 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
       const coverIsSame =
         existingCover &&
         basename(existingCover) === coverImage &&
-        (await readFile(existingCover)).equals(Buffer.from(await img.arrayBuffer()));
+        (await readFile(existingCover)).equals(Buffer.from(await img.clone().arrayBuffer()));
 
       if (existingCover && !coverIsSame) {
         write = await confirm({

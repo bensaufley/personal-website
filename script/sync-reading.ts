@@ -6,9 +6,7 @@ import { CURRENT_READING_PATH } from './lib/utils';
 export const syncReading = async () => {
   const doc = await req(`${CURRENT_READING_PATH}?page=1&per_page=50`);
 
-  const links = doc.querySelectorAll(
-    '.book-pane-content .book-title-author-and-series a[href^="/books/"]',
-  ) as unknown as HTMLAnchorElement[];
+  const links = doc.querySelectorAll('.book-pane-content .book-title-author-and-series a[href^="/books/"]');
   if (!links.length) {
     throw new Error(`No book links found on page:  ${CURRENT_READING_PATH}?page=1&per_page=50`);
   }

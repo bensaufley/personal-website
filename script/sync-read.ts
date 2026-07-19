@@ -22,9 +22,7 @@ export const syncRead = async (since?: Dayjs) => {
   for (let page = 1; page <= 10; page++) {
     const doc = await req(`${READ_BOOKS_PATH}?page=${page}&per_page=20`);
 
-    const links = doc.querySelectorAll(
-      '.book-pane-content .book-title-author-and-series a[href^="/books/"]',
-    ) as unknown as HTMLAnchorElement[];
+    const links = doc.querySelectorAll('.book-pane-content .book-title-author-and-series a[href^="/books/"]');
     if (!links.length) throw new Error(`No book links found on page:  ${READ_BOOKS_PATH}?page=${page}&per_page=20`);
 
     const paths = links.map((link) => link.getAttribute('href')!).filter((v, i, a) => a.indexOf(v) === i);
@@ -40,10 +38,10 @@ export const syncRead = async (since?: Dayjs) => {
       await upsertBook(processed);
 
       if (!earliestFinishedAt) earliestFinishedAt = finishedAt;
-      if (dayjs(earliestFinishedAt).isAfter(finishedAt)) earliestFinishedAt = finishedAt;
+      else if (dayjs(earliestFinishedAt).isAfter(finishedAt, 'day')) earliestFinishedAt = finishedAt;
     }
     if (!earliestFinishedAt) return;
-    if (dayjs(earliestFinishedAt).isBefore(earliestDate)) return;
+    if (!dayjs(earliestDate).isBefore(earliestFinishedAt, 'day')) return;
 
     page++;
   }
