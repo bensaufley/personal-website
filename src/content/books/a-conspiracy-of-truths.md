@@ -21,4 +21,4 @@ title: A Conspiracy of Truths
 yearPublished: 2018
 ---
 
-A delightful read. The whimsical storytelling style, in the voice of the protagonist—very much in the vein of Terry Pratchett and Douglas Adams—could easily be something that took me out of the book, because a voice like that is hard to make natural; but it was very well executed. The constrained first-person perspective had me wishing, at times, to *get out* and see the world a bit more; but I enjoyed it all the same.
+A delightful read. The whimsical storytelling style, in the voice of the protagonist—very much in the vein of Terry Pratchett and Douglas Adams—could easily be something that took me out of the book, because a voice like that is hard to make natural; but it was very well executed. The constrained first-person perspective had me wishing, at times, to _get out_ and see the world a bit more; but I enjoyed it all the same.
