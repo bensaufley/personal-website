@@ -13,12 +13,11 @@ yearPublished: 2018
 isbn10: null
 isbn13: null
 asin: null
-coverImageUrl: https://assets.hardcover.app/books/617450/c5241c6f-94cc-4734-be0e-f21bc115e4cc.jpg
-hardcoverUrl: https://hardcover.app/books/the-bridge-kingdom/editions/32038024
 series:
   name: The Bridge Kingdom
   volume: 1
 startedAt: null
 finishedAt: null
 rating: null
+coverImage: the-bridge-kingdom.jpg
 ---

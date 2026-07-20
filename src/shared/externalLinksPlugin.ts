@@ -1,4 +1,3 @@
-/* eslint-disable import/no-extraneous-dependencies */
 import type { RehypePlugin } from '@astrojs/markdown-remark';
 import { visit } from 'unist-util-visit';
 

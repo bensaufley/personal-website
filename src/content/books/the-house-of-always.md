@@ -9,13 +9,13 @@ finishedAt: 2024-09-21
 rating: 3
 yearPublished: 2021
 startedAt: null
-asin:
-subtitle:
+asin: null
+subtitle: null
 narrators:
   - lastName: Fortgang
     firstName: Lauren
   - lastName: Adam
     firstName: Vikas
-coverImageUrl: https://assets.hardcover.app/edition/30405326/content.jpeg
-hardcoverUrl: https://hardcover.app/books/the-house-of-always/editions/30504114
+storygraphId: 592f9808-5951-409d-b928-94789a6cbb81
+coverImage: the-house-of-always.jpg
 ---

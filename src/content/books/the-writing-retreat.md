@@ -1,19 +1,19 @@
 ---
 title: The Writing Retreat
-subtitle:
+subtitle: null
 authors:
   - lastName: Bartz
     firstName: Julia
 narrators:
   - lastName: Shalan
     firstName: Gail
-coverImageUrl: https://assets.hardcover.app/external_data/59853370/47d67c0f7abfd2100cce132cc877bedc53feb7a5.jpeg
-hardcoverUrl: https://hardcover.app/books/the-writing-retreat/editions/31946141
 finishedAt: 2025-04-26
 startedAt: null
-asin:
+asin: null
 isbn10: '1004111614'
 isbn13: '9781004111619'
 yearPublished: 2023
 rating: 3.5
+storygraphId: 14577fa4-d888-4621-85af-f5f5a836fe3d
+coverImage: the-writing-retreat.jpg
 ---

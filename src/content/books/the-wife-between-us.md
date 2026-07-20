@@ -11,7 +11,9 @@ finishedAt: 2018-06-17
 rating: 4
 yearPublished: 2018
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 04cfe704-5d67-49f0-9d83-7d54520a6699
+coverImage: the-wife-between-us.jpg
 ---

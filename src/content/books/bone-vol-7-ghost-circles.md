@@ -15,4 +15,5 @@ yearPublished: 2008
 startedAt: null
 asin:
 narrators:
+coverImage: bone-vol-7-ghost-circles.jpg
 ---

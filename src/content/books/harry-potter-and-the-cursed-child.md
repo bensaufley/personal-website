@@ -17,8 +17,7 @@ series:
   name: Harry Potter
   volume: 8
 narrators:
-coverImageUrl: https://assets.hardcover.app/external_data/60550852/44147e3be8fb5df6a1d0d3a0545f042b7f633041.jpeg
-hardcoverUrl:
+coverImage: harry-potter-and-the-cursed-child.jpeg
 ---
 
 **Note:** please see my 2025 [blog post re: Rowling](/blog/2025/04/jk-rowling)

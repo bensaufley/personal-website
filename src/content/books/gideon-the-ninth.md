@@ -1,6 +1,6 @@
 ---
 title: Gideon the Ninth
-subtitle:
+subtitle: null
 series:
   name: The Locked Tomb
   volume: 1
@@ -13,8 +13,8 @@ finishedAt: 2021-05-10
 rating: 4
 yearPublished: 2019
 startedAt: null
-asin:
-narrators:
-coverImageUrl: https://assets.hardcover.app/book_mappings/7332376/5bf3c29956bfa33ff0829ae4a136dd7c1e006543.jpeg
-hardcoverUrl: https://hardcover.app/books/gideon-the-ninth/editions/30399881
+asin: null
+narrators: null
+storygraphId: ca07b067-8c64-4b8e-985c-52efc4b94f3e
+coverImage: gideon-the-ninth.jpg
 ---

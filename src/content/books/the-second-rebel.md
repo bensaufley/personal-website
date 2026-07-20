@@ -5,26 +5,26 @@ authors:
   - lastName: Lewis
     firstName: Linden A.
 narrators:
-  - lastName: Aquino
-    firstName: Jennifer
-  - lastName: Cihi
-    firstName: Neo
   - lastName: Rishi
     firstName: Farah Naz
-  - lastName: Tiedemann
-    firstName: Gary
   - lastName: Zeller
     firstName: Emily Woo
+  - lastName: Cihi
+    firstName: Neo
+  - lastName: Aquino
+    firstName: Jennifer
+  - lastName: Tiedemann
+    firstName: Gary
 yearPublished: 2021
 isbn10: null
 isbn13: null
 asin: null
-coverImageUrl: https://assets.hardcover.app/edition/30382961/55711588._SX98_.jpg
-hardcoverUrl: https://hardcover.app/books/the-second-rebel
+storygraphId: 9b5b52ce-7725-4483-ae5e-20badcff4758
+coverImage: the-second-rebel.jpg
 series:
   name: The First Sister Trilogy
   volume: 2
 startedAt: null
-finishedAt: null
+finishedAt: 2026-06-06
 rating: null
 ---

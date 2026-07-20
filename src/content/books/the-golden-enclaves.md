@@ -9,11 +9,11 @@ finishedAt: 2024-03-20
 rating: 4.5
 yearPublished: 2022
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30391820/3c95452c9fb481321be195ed313e5ecd0c3599cf.jpeg
-hardcoverUrl: https://hardcover.app/books/the-golden-enclaves/editions/30391820
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 48270b8b-4e9b-410d-86d6-4e308702cd8f
+coverImage: the-golden-enclaves.jpg
 ---
 
 I really enjoyed the first two books but this one took it to a whole new level and I loved it. A great end to the trilogy.

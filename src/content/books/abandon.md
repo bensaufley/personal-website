@@ -1,9 +1,12 @@
 ---
-title: Abandon
-subtitle: null
+asin: null
 authors:
   - lastName: Crouch
     firstName: Blake
+coverImage: abandon.jpg
+finishedAt: 2026-04-27
+isbn10: '1035000059'
+isbn13: '9781035000050'
 narrators:
   - lastName: Nankani
     firstName: Soneela
@@ -13,14 +16,13 @@ narrators:
     firstName: Timothy
   - lastName: Meyers
     firstName: Max
-yearPublished: 2009
-isbn10: '1035000059'
-isbn13: '9781035000050'
-asin: null
-coverImageUrl: https://assets.hardcover.app/external_data/61940369/bc1ef5fb14b2dd2f50e9440ef570d1a7bdd79ab0.jpeg
-hardcoverUrl: https://hardcover.app/books/abandon-2009/editions/31777456
+rating: 2
 series: null
-startedAt: null
-finishedAt: null
-rating: null
+startedAt: 2026-04-24
+storygraphId: 3375299d-b181-4968-ad5a-1b34cebed22f
+subtitle: null
+title: Abandon
+yearPublished: 2009
 ---
+
+I've enjoyed Blake Crouch's other works and so I picked this one up, and I suppose I regret it. Boring, poorly-paced—things only start to kick off like 60% or 70% of the way through the book—and not entertaining in the process. Sometimes the plot takes a while but the characters get you there; this was not one of those times. Maybe in part I just don't enjoy the Old West as a setting, so I guess that's on me. I'll probably still read more of his work, but he's become a better writer since this one, and come up with more compelling premises.

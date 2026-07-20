@@ -1,20 +1,20 @@
 ---
 title: The Stonekeeper's Curse
-subtitle:
+subtitle: null
 series:
   name: Amulet
   volume: 2
 authors:
   - lastName: Kibuishi
     firstName: Kazu
-narrators:
+narrators: null
 yearPublished: 2009
 isbn10: '0439846838'
 isbn13: '9780439846837'
-asin:
-coverImageUrl: https://assets.hardcover.app/edition/4554328/6374832-L.jpg
-hardcoverUrl: https://hardcover.app/books/the-stonekeepers-curse/editions/4554328
+asin: null
 finishedAt: 2011-01-01
 rating: 3
 startedAt: null
+storygraphId: 47c716a3-bcf8-4c63-bef2-af5aa6cbb721
+coverImage: the-stonekeepers-curse.jpg
 ---

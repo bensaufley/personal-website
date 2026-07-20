@@ -12,6 +12,5 @@ yearPublished: 2018
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/external_data/60036513/6ed5704ec6017ad8d4b6d9c14306e5eb96761c9e.jpeg
-hardcoverUrl: https://hardcover.app/books/give-people-money-how-a-universal-basic-income-would-end-poverty-revolutionize-work-and-remake-the-world/editions/30907818
+coverImage: give-people-money.jpeg
 ---

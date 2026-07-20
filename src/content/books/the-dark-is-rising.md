@@ -1,22 +1,22 @@
 ---
 title: The Dark Is Rising
-subtitle:
+subtitle: null
 series:
   name: The Dark is Rising
   volume: 2
 authors:
   - lastName: Cooper
     firstName: Susan
-narrators:
+narrators: null
 yearPublished: 2007
 isbn10: '1416949658'
 isbn13: '9781416949657'
-asin:
-coverImageUrl: https://assets.hardcover.app/external_data/26692001/883017f2ec04c18996f618d0360b5a9bef2522f2.jpeg
-hardcoverUrl: https://hardcover.app/books/the-dark-is-rising-1973/editions/10516576
+asin: null
 finishedAt: 2015-02-01
 rating: 2
 startedAt: null
+storygraphId: 9e1374cf-8a1a-48b7-8f49-a82d2c37c897
+coverImage: the-dark-is-rising.jpg
 ---
 
 I remember liking [b:Over Sea, Under Stone|11312|Over Sea, Under Stone (The Dark is Rising, #1)|Susan Cooper|https://d.gr-assets.com/books/1166468889s/11312.jpg|742] a lot more than this one, but I finished that one years ago.

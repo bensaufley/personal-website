@@ -9,11 +9,11 @@ finishedAt: 2017-01-26
 rating: 2
 yearPublished: 2014
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30467598/12063767-L.jpg
-hardcoverUrl: https://hardcover.app/books/elizabeths-legacy/editions/30467598
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 19701ee8-0d13-4cea-a65c-e14298930384
+coverImage: elizabeths-legacy.jpg
 ---
 
 Had some kind of fun ideas but the execution wasn't great. The writing style felt amateur; I felt the author's presence too much, both in the language used and sometimes in the concepts (the spell-shooter may be an interesting twist on paper but its description and use were … I don't know, not compelling). The pacing and arc of the story were offputting, and the protagonist, more even than many others, was entirely along for the ride, making almost no decisions himself.

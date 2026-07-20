@@ -3,15 +3,15 @@ title: The Boy on the Bridge
 authors:
   - lastName: Carey
     firstName: M.R.
-isbn10:
+isbn10: null
 isbn13: '9781478915515'
 finishedAt: 2023-01-06
-rating:
+rating: null
 yearPublished: 2013
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/5985140/2d945b669316ec04d2c399a9458658239b0eafe4.jpeg
-hardcoverUrl: https://hardcover.app/books/the-boy-on-the-bridge/editions/31497061
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 74987f67-1723-4f20-af17-5560272ddd25
+coverImage: the-boy-on-the-bridge.jpg
 ---

@@ -3,27 +3,36 @@ import { Dynamic } from 'solid-js/web';
 
 import type { BookFrontmatter } from '~content/config';
 
+import { coverUrl as coverUrlFor } from '../../lib/covers';
+
 import styles from './styles.module.css';
 
 const CoverImage = (props: { book: BookFrontmatter }) => {
-  // Access the specific property directly in the memo to track only that value
-  const hardcoverUrl = createMemo(() => props.book.hardcoverUrl);
-  const CoverWrap = createMemo(() => (hardcoverUrl() ? 'a' : 'div'));
-  const coverProps = createMemo(() =>
-    hardcoverUrl()
+  const storygraphUrl = createMemo(() =>
+    props.book.storygraphId ? `https://app.thestorygraph.com/books/${props.book.storygraphId}` : null,
+  );
+  const CoverWrap = createMemo(() => (storygraphUrl() ? 'a' : 'div'));
+  const wrapProps = createMemo(() =>
+    storygraphUrl()
       ? {
-          href: hardcoverUrl(),
+          href: storygraphUrl(),
           target: '_blank',
           rel: 'noopener',
         }
       : {},
   );
 
+  // Prefer the locally-hosted, ID-keyed cover; fall back to any legacy hotlinked URL.
+  const coverSrc = createMemo(() => coverUrlFor(props.book.coverImage));
+
   return (
-    <Show when={props.book.coverImageUrl}>
+    <Show when={coverSrc()}>
       {(url) => (
-        <Dynamic component={CoverWrap()} class={styles.cover} {...coverProps()}>
-          <img src={url()} alt={`Cover of ${props.book.title}`} loading="lazy" />
+        <Dynamic component={CoverWrap()} class={styles.cover} {...wrapProps()}>
+          <object data={url()} type="image/jpeg" aria-label={`Cover of ${props.book.title}`}>
+            {/* TODO: cover placeholder element */}
+            <span>{props.book.title}</span>
+          </object>
         </Dynamic>
       )}
     </Show>

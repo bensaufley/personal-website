@@ -11,9 +11,9 @@ finishedAt: 2019-07-26
 rating: 3
 yearPublished: 2019
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/editions/30404891/9271700825157594.jpg
-hardcoverUrl: https://hardcover.app/books/this-is-how-you-lose-the-time-war/editions/26220245
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 97d777d8-a679-4bc3-977f-16b945d1960d
+coverImage: this-is-how-you-lose-the-time-war.jpg
 ---

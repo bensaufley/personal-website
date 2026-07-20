@@ -9,11 +9,11 @@ finishedAt: 2016-12-14
 rating: 3
 yearPublished: 2005
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/23451271/78eda70977e41a9d3b621a748cb0ec5258ae66b9.jpeg
-hardcoverUrl: https://hardcover.app/books/the-penelopiad/editions/8071586
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 0733cc7e-628c-41df-bdae-2d6311da0e93
+coverImage: the-penelopiad.jpg
 ---
 
 Not quite what I expected. Witty and interesting. A bit disjointed (although it's clear that that's intentional). I wish some of the things she explored were fleshed out or explored a little more. I also think Atwood walked a tough line between accepting [b:The Odyssey

@@ -9,11 +9,11 @@ finishedAt: 2018-01-11
 rating: 3
 yearPublished: 2017
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/7281569/8079821-L.jpg
-hardcoverUrl: https://hardcover.app/books/autonomous/editions/30428531
+asin: null
+subtitle: null
+narrators: null
+storygraphId: ae65777e-7c1e-459f-9174-7657d05f9602
+coverImage: autonomous.jpg
 ---
 
 I bought this immediately when I read that Neal Stephenson said, “Autonomous is to biotech and AI what Neuromancer was to the Internet.”

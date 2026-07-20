@@ -15,6 +15,5 @@ yearPublished: 1998
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30603220/338360f4de804a62b886653de9839026f9af34d5.jpeg
-hardcoverUrl: https://hardcover.app/books/bone-vol-5/editions/30603220
+coverImage: bone-vol-5-rock-jaw-master-of-the-eastern-border.jpeg
 ---

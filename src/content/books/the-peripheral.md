@@ -6,12 +6,12 @@ authors:
 isbn10: '1611763355'
 isbn13: '9781611763355'
 finishedAt: 2022-11-19
-rating:
+rating: null
 yearPublished: 2014
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30381158/content.jpeg
-hardcoverUrl: https://hardcover.app/books/the-peripheral/editions/30381158
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 7f39ade3-c8d5-40ee-a102-76e88460958d
+coverImage: the-peripheral.jpg
 ---

@@ -1,20 +1,20 @@
 ---
 title: Jorundyr's Path
-subtitle:
+subtitle: null
 series:
   name: Wolf of the North
   volume: 2
 authors:
   - lastName: Hamilton
     firstName: Duncan M.
-narrators:
+narrators: null
 yearPublished: 2017
-isbn10:
-isbn13:
-asin:
-coverImageUrl: https://assets.hardcover.app/editions/30391583/6867365921532955.jpg
-hardcoverUrl: https://hardcover.app/books/jorundyrs-path/editions/30391583
+isbn10: null
+isbn13: null
+asin: null
 finishedAt: 2018-02-19
 rating: 4
 startedAt: null
+storygraphId: 0357e95f-cab0-4814-a223-aa44f1e76909
+coverImage: jorundyrs-path.jpg
 ---

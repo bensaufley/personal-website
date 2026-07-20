@@ -1,6 +1,6 @@
 ---
 title: A Queen in Hiding
-subtitle:
+subtitle: null
 series:
   name: The Nine Realms
   volume: 1
@@ -15,10 +15,10 @@ narrators:
 yearPublished: 2020
 isbn10: '1250243548'
 isbn13: '9781250243546'
-asin:
-coverImageUrl: https://assets.hardcover.app/edition/14974612/9258944-L.jpg
-hardcoverUrl: https://hardcover.app/books/a-queen-in-hiding/editions/31497110
+asin: null
 finishedAt: 2020-07-29
 rating: 4
 startedAt: null
+storygraphId: b3daee9f-6abd-479c-b620-7d0b9f3d3c91
+coverImage: a-queen-in-hiding.jpg
 ---

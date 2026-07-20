@@ -6,12 +6,12 @@ authors:
 isbn10: '1250311020'
 isbn13: '9781250311023'
 finishedAt: 2022-04-01
-rating:
+rating: null
 yearPublished: 2020
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30445020/45046601._SX98_.jpg
-hardcoverUrl: https://hardcover.app/books/a-conjuring-of-assassins/editions/30445020
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 69b5fe22-9115-4697-89ae-79845b835e83
+coverImage: a-conjuring-of-assassins.jpg
 ---

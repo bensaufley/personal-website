@@ -1,22 +1,22 @@
 ---
-title: A Drop of Corruption
-subtitle: An Ana and Din Mystery
+asin: null
 authors:
   - lastName: Bennett
     firstName: Robert Jackson
+coverImage: a-drop-of-corruption.jpg
+finishedAt: 2026-03-30
+isbn10: null
+isbn13: null
 narrators:
   - lastName: Fallaize
     firstName: Andrew
-yearPublished: 2025
-isbn10: null
-isbn13: null
-asin: null
-coverImageUrl: https://assets.hardcover.app/books/1254783/dd5336a0-45ff-4bb3-8fa5-3835b36af138.jpg
-hardcoverUrl: https://hardcover.app/books/a-drop-of-corruption/editions/31992992
+rating: 4.25
 series:
   name: Shadow of the Leviathan
   volume: 2
-startedAt: null
-finishedAt: null
-rating: null
+startedAt: 2026-03-25
+storygraphId: cbdd9d79-243f-4def-8413-306f88054147
+subtitle: An Ana and Din Mystery
+title: A Drop of Corruption
+yearPublished: 2025
 ---

@@ -15,6 +15,5 @@ yearPublished: 2002
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/edition/27259487/8f7f75e90d5902e1b350675310158f4beb43f134.jpeg
-hardcoverUrl: https://hardcover.app/books/bone-vol-3/editions/27259487
+coverImage: bone-vol-8-treasure-hunters.jpeg
 ---

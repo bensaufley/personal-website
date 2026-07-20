@@ -9,7 +9,9 @@ finishedAt: 2018-07-13
 rating: 3
 yearPublished: 2018
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 4107c5b1-7f1a-4473-b9cb-81074e762c66
+coverImage: an-american-marriage.jpg
 ---

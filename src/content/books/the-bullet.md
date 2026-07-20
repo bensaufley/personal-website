@@ -9,9 +9,9 @@ finishedAt: 2016-10-15
 rating: 2
 yearPublished: 2015
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/22794929/9525644-L.jpg
-hardcoverUrl: https://hardcover.app/books/the-bullet/editions/30403348
+asin: null
+subtitle: null
+narrators: null
+storygraphId: d6f68c55-4c30-4ee3-99e9-a5f44e20d43d
+coverImage: the-bullet.jpg
 ---

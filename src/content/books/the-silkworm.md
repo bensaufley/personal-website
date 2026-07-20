@@ -1,6 +1,6 @@
 ---
 title: The Silkworm
-subtitle:
+subtitle: null
 series:
   name: Cormoran Strike
   volume: 2
@@ -15,10 +15,10 @@ finishedAt: 2016-01-01
 rating: 4
 yearPublished: 2014
 startedAt: null
-asin:
-narrators:
-coverImageUrl: https://assets.hardcover.app/external_data/45063240/8c3e881e141378e952200074845786a62d6274c1.jpeg
-hardcoverUrl:
+asin: null
+narrators: null
+storygraphId: 9fdc03bb-0680-4f74-8803-6faee8e7f55c
+coverImage: the-silkworm.jpeg
 ---
 
 **Note:** please see my 2025 [blog post re: Rowling](/blog/2025/04/jk-rowling)

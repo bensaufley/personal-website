@@ -11,7 +11,9 @@ finishedAt: 2018-06-14
 rating: 5
 yearPublished: 2018
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 396e8f1b-e0b4-415a-96f4-250f371f16af
+coverImage: skip-to-the-end.jpg
 ---

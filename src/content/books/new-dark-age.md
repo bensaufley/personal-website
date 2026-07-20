@@ -12,6 +12,5 @@ yearPublished:
 startedAt: null
 asin:
 narrators:
-coverImageUrl:
-hardcoverUrl: https://hardcover.app/books/new-dark-age-technology-and-the-end-of-the-future/editions/30703220
+coverImage: new-dark-age.jpg
 ---

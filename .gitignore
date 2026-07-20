@@ -16,4 +16,7 @@ pnpm-debug.log*
 # environment variables
 .env
 .env.production
-.hardcover-token
+
+covers
+.storygraph-cookies
+*.sqlite

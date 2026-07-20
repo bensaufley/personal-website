@@ -9,12 +9,12 @@ finishedAt: 2020-03-02
 rating: 3
 yearPublished: 2017
 startedAt: null
-asin:
-subtitle:
+asin: null
+subtitle: null
 series:
   name: The Licanius Trilogy
   volume: 2
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30407510/cd4c3265730d541a2fe1d93d298d8d3c2d3fa6ab.jpeg
-hardcoverUrl: https://hardcover.app/books/an-echo-of-things-to-come/editions/30407510
+narrators: null
+storygraphId: 52f62c41-180f-4f2e-9a62-81d4c46e92ec
+coverImage: an-echo-of-things-to-come.jpg
 ---

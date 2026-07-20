@@ -9,11 +9,11 @@ finishedAt: 2024-11-09
 rating: 4.5
 yearPublished: 1994
 startedAt: null
-asin:
-subtitle:
+asin: null
+subtitle: null
 narrators:
   - lastName: Whittaker
     firstName: Jessica
-coverImageUrl: https://assets.hardcover.app/editions/30671705/6339926388290658.jpg
-hardcoverUrl: https://hardcover.app/books/the-book-that-wouldnt-burn-1994/editions/30671705
+storygraphId: 2db47e16-a5be-4842-bd37-8ef49b7086e0
+coverImage: the-book-that-wouldnt-burn.jpg
 ---

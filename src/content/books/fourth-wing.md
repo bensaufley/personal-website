@@ -3,17 +3,17 @@ title: Fourth Wing
 authors:
   - lastName: Yarros
     firstName: Rebecca
-isbn10:
-isbn13:
+isbn10: null
+isbn13: null
 finishedAt: 2023-09-22
 rating: 2
 yearPublished: 2023
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/editions/30706608/7798138539052064-fourth-wing.jpeg
-hardcoverUrl: https://hardcover.app/books/fourth-wing/editions/30906291
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 590a3d87-39a0-4603-ae04-d852b51212e3
+coverImage: fourth-wing.jpg
 ---
 
 Someone would argue, and I'd agree, that this book isn't “for” me, so whether or not I appreciate it is irrelevant. But I kind of wonder who it _is_ for. For 70% of the book it's a solidly formulaic YA novel and… then there's explicit sex. And I don't mean like, the characters have sex I mean it becomes an erotica novel, _somewhat_ out of nowhere. Literary porn, although “literary” might give the wrong idea. It's not written _poorly_ but it's also not written very well. Beyond the themes, the writing level of the whole novel feels very YA and the sex feels, to me, unnecessary, somewhat unexpected, and of an equal reading level except with more, you know, obscenity?

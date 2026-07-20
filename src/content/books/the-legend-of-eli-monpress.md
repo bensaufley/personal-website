@@ -9,8 +9,9 @@ finishedAt: 2013-12-12
 rating: 3
 yearPublished: 2012
 startedAt: null
-asin:
-subtitle:
-narrators:
-hardcoverUrl: https://hardcover.app/books/the-legend-of-eli-monpress/editions/30397122
+asin: null
+subtitle: null
+narrators: null
+storygraphId: ae809629-0e0c-449b-95ed-87f8c5e0b5de
+coverImage: the-legend-of-eli-monpress.jpeg
 ---

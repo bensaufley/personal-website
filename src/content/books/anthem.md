@@ -8,10 +8,12 @@ authors:
 isbn10: '0452281253'
 isbn13: '9780452281257'
 finishedAt: 2002-01-01
-rating:
+rating: null
 yearPublished: 1999
 startedAt: null
-asin:
-subtitle:
-narrators:
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 903597d9-88ba-4a99-8891-165da04c2e8a
+coverImage: anthem.jpg
 ---

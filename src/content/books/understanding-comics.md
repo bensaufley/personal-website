@@ -12,6 +12,5 @@ yearPublished: 1993
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/edition/29549403/42616-L.jpg
-hardcoverUrl: https://hardcover.app/books/understanding-comics-1993/editions/30762610
+coverImage: understanding-comics.jpg
 ---

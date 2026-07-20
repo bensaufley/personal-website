@@ -3,17 +3,17 @@ title: Thirteen Reasons Why
 authors:
   - lastName: Asher
     firstName: Jay
-isbn10: '073935650X'
+isbn10: 073935650X
 isbn13: '9780739356500'
 finishedAt: 2017-04-15
 rating: 3
 yearPublished: 2007
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/10168062/6fff74a37a18ba59eb69c3071899f0b90ba7ea18.jpeg
-hardcoverUrl: https://hardcover.app/books/thirteen-reasons-why/editions/30227667
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 24654753-50b5-40c6-8c59-194e330579bd
+coverImage: thirteen-reasons-why.jpg
 ---
 
 I have very mixed feelings about this book. I think it handles a lot of issues with delicacy and appropriate gravitas – understanding consent, with no hint of “boys will be boys” or anything – but the very premise is really concerning to me. As a YA book, especially, its premise of a girl who's killed herself and left tapes to point the blame at other people is worrying. Having had my own struggles with depression in adolescence, I think that the idea of weaponized suicide is dangerous and could be easily seductive to a kid who has those same struggles. The line between recognizing the consequences of our actions and saying “ _You_ are to blame for this person's suicide” is a tough one to find, but I think it has to be drawn.

@@ -12,7 +12,7 @@ yearPublished: 2024
 startedAt: null
 asin: B0CTKSG1VB
 narrators:
-hardcoverUrl: https://hardcover.app/books/exodus-the-archimedes-engine/editions/31549094
+coverImage: exodus.jpg
 ---
 
 The synopsis had me really interested but I think this book has maybe made me realize I'm not as big on the "space opera" subgenre as I thought I was. The book has some of the trappings of "hard" sci-fi, but is really just a fantasy book with a coat of sci-fi paint. The technology is magic; the near-lightspeed travel – although I'm sure the author had it all worked out – definitely _felt_ squishy as far as what it meant for who was where, when. My order of interest went 1. Terrence, 2. Finn, ….10. whoever was in the palace intrigue subplot.

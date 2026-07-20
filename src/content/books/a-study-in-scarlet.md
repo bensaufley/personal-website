@@ -1,20 +1,20 @@
 ---
 title: A Study in Scarlet
-subtitle:
+subtitle: null
 series:
   name: Sherlock Holmes
   volume: 1
 authors:
   - lastName: Doyle
     firstName: Arthur Conan
-narrators:
+narrators: null
 yearPublished: 2005
 isbn10: '1420925539'
 isbn13: '9781420925531'
-asin:
-coverImageUrl: https://assets.hardcover.app/external_data/59372017/cae07fdccc98d1bcebce6b576affb7824bdb9090.jpeg
-hardcoverUrl: https://hardcover.app/books/a-study-in-scarlet/editions/30399452
+asin: null
 finishedAt: 2011-01-01
 rating: 4
 startedAt: null
+storygraphId: b300f7d9-19e3-4f07-af22-b35fef68aaf7
+coverImage: a-study-in-scarlet.jpg
 ---

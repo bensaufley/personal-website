@@ -9,9 +9,9 @@ finishedAt: 2022-06-26
 rating: 4
 yearPublished: 2022
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/external_data/59539200/256266da33b99d8553c6a9236f3aa6b2acdc137e.jpeg
-hardcoverUrl: https://hardcover.app/books/the-night-she-went-missing/editions/30466005
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 4a4f29c2-424d-4c83-bb46-6f71b9e4c4e4
+coverImage: the-night-she-went-missing.jpg
 ---

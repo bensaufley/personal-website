@@ -9,8 +9,9 @@ finishedAt: 2024-07-09
 rating: 5
 yearPublished: 2020
 startedAt: null
-asin:
-subtitle:
-narrators:
-hardcoverUrl: https://hardcover.app/books/piranesi/editions/30399707
+asin: null
+subtitle: null
+narrators: null
+storygraphId: a4f97770-d661-4687-944e-89e02077190d
+coverImage: piranesi.jpg
 ---

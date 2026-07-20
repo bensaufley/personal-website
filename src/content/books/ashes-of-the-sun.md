@@ -9,12 +9,12 @@ finishedAt: 2025-03-26
 rating: 4
 yearPublished: 2020
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/315923/dea158ce9e7bf49d3fbbda68e1c79b2d97abf47e.jpeg
-hardcoverUrl: https://hardcover.app/books/ashes-of-the-sun/editions/315923
+asin: null
+subtitle: null
+narrators: null
 series:
   name: Burningblade & Silvereye
   volume: 1
+storygraphId: b94def64-aa92-4b9e-a553-9692c8bf4f28
+coverImage: ashes-of-the-sun.jpg
 ---

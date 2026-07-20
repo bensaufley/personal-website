@@ -12,11 +12,11 @@ finishedAt: 2016-09-23
 rating: 2
 yearPublished: 2015
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30485191/8568039-L.jpg
-hardcoverUrl: https://hardcover.app/books/gateway-to-fourline/editions/30485191
+asin: null
+subtitle: null
+narrators: null
+storygraphId: ea2d37cc-19ac-4c77-a475-281d715c0c52
+coverImage: gateway-to-fourline.jpg
 ---
 
 In fairness I think I might've liked this book more if I hadn't listened to it on Audible. The narrator's voice wasn't actively bad, but I think it had an impact on my enjoyment – she constantly sounded like she was on the verge of tears, and what should've been an intriguing adventure became just kind of sad and pathetic sounding.

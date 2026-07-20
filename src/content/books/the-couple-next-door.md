@@ -9,9 +9,9 @@ finishedAt: 2019-08-31
 rating: 4
 yearPublished: 2016
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/14260697/8466573-L.jpg
-hardcoverUrl: https://hardcover.app/books/the-couple-next-door/editions/14260697
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 7fe3bb57-317f-4993-8779-4c50058851c3
+coverImage: the-couple-next-door.jpg
 ---

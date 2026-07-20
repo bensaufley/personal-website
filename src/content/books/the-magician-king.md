@@ -1,22 +1,22 @@
 ---
 title: The Magician King
-subtitle:
+subtitle: null
 series:
   name: The Magicians
   volume: 2
 authors:
   - lastName: Grossman
     firstName: Lev
-narrators:
+narrators: null
 yearPublished: 2012
 isbn10: '0452298016'
 isbn13: '9780452298019'
-asin:
-coverImageUrl: https://assets.hardcover.app/edition/30401081/dfe002db332d16f0b1cff9575436b7b232a399bb.jpeg
-hardcoverUrl: https://hardcover.app/books/the-magician-king/editions/26929882
+asin: null
 finishedAt: 2013-07-05
 rating: 4
 startedAt: null
+storygraphId: 54f96ee7-d6bd-412e-b066-494ce10a8b00
+coverImage: the-magician-king.jpg
 ---
 
 Really enjoyed it. I think the claims of sexism were unfounded. But I am a man, so, who knows. The main female character, Julia, does go through a lot (a lot), but if anything that serves to highlight some of the worst of what women can experience in a male-dominated world. I think the same goes for some of Quentin's naïve misogyny – that's part of the story. Just because it's there doesn't mean it's being endorsed. Quentin is kind of a dick, we know this.

@@ -9,9 +9,9 @@ finishedAt: 2018-12-21
 rating: 4
 yearPublished: 1848
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/external_data/59977714/ec92d944360c72485503b17704d32b51446407a8.jpeg
-hardcoverUrl: https://hardcover.app/books/the-communist-manifesto/editions/16294758
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 70913c2c-6ddf-4fba-ac69-e86f9979b776
+coverImage: the-communist-manifesto.jpg
 ---

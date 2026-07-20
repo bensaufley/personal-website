@@ -1,6 +1,6 @@
 ---
 title: Red Team Blues
-subtitle:
+subtitle: null
 authors:
   - firstName: Cory
     lastName: Doctorow
@@ -11,14 +11,14 @@ yearPublished: 2023
 isbn10: null
 isbn13: null
 asin: null
-coverImageUrl: https://assets.hardcover.app/books/642432/47e20cdb-2fdd-47a9-9484-710eb8fc6a0b.jpeg
-hardcoverUrl: https://hardcover.app/books/red-team-blues/editions/32011716
 series:
   name: Martin Hench
   volume: 1
 startedAt: null
-finishedAt: 2025-05-08T00:00:00.000Z
+finishedAt: 2025-05-08
 rating: 2
+storygraphId: 0a3348da-3186-4811-a44b-f077be598767
+coverImage: red-team-blues.jpg
 ---
 
 Starts off interestingly. Then the protagonist has sex with a few beautiful women and several men tell him how much they admire him, and then the intrigue fizzles to an "I guess that's it?" and then the book is apparently over.

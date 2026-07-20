@@ -9,11 +9,11 @@ finishedAt: 2019-12-20
 rating: 4
 yearPublished: 2018
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/external_data/59797341/62cbaea6c1edcf5b3f673233cacad5ff455db43d.jpeg
-hardcoverUrl: https://hardcover.app/books/the-changeling/editions/30446836
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 0230052d-5b13-49fb-98dd-7e1823696b6c
+coverImage: the-changeling.jpg
 ---
 
 I think I might have liked this a bit more if I had read it rather than listening to the Audible audiobook, which doubled down on the author's very simple, matter-of-fact writing style with a very simple, matter-of-fact narrator. It really stripped the magic from the telling. But the story it told was interesting and generally unlike a lot of the other books I've been reading—not sure how much of that is how unique this book is and how much of it is that I just don't read a ton of magical realism.

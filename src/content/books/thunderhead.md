@@ -11,14 +11,14 @@ yearPublished: 2018
 isbn10: null
 isbn13: null
 asin: B078PLF8MK
-coverImageUrl: https://assets.hardcover.app/book/428947/0411b9bc-6860-42b0-91ae-631bf15d0b10.jpg
-hardcoverUrl: https://hardcover.app/books/thunderhead/editions/32387017
 series:
   name: Arc of a Scythe
   volume: 2
-startedAt: 2025-12-19T00:00:00.000Z
-finishedAt: 2025-12-21T00:00:00.000Z
+startedAt: 2025-12-19
+finishedAt: 2025-12-21
 rating: 3.5
+storygraphId: 210aaa29-fed1-488e-9298-8c5c779e7290
+coverImage: thunderhead.jpg
 ---
 
 Adequately entertaining. I don't tend to red series immediately in sequence but

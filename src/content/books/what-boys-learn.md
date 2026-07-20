@@ -1,22 +1,22 @@
 ---
-title: What Boys Learn
-subtitle: null
+asin: null
 authors:
   - lastName: Romano-Lax
     firstName: Andromeda
-narrators:
-  - lastName: Kaminsky
-    firstName: Eva
-  - lastName: Crouch
-    firstName: Michael
-yearPublished: 2026
+coverImage: what-boys-learn.jpg
+finishedAt: 2026-03-25
 isbn10: '1641296917'
 isbn13: '9781641296915'
-asin: null
-coverImageUrl: https://assets.hardcover.app/edition/32800012/c6889681-9651-412d-8481-f48532c6725a.jpg
-hardcoverUrl: https://hardcover.app/books/what-boys-learn/editions/32800012
+narrators:
+  - lastName: Crouch
+    firstName: Michael
+  - lastName: Kaminsky
+    firstName: Eva
+rating: 4.5
 series: null
-startedAt: 2026-03-20T00:00:00.000Z
-finishedAt: null
-rating: null
+startedAt: 2026-03-20
+storygraphId: 084ea5d9-04b7-40fa-895c-ddf77c75f83d
+subtitle: null
+title: What Boys Learn
+yearPublished: 2026
 ---

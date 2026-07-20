@@ -9,9 +9,9 @@ finishedAt: 2017-02-14
 rating: 4
 yearPublished: 2016
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30604034/content.jpeg
-hardcoverUrl: https://hardcover.app/books/good-as-gone-2016/editions/17930753
+asin: null
+subtitle: null
+narrators: null
+storygraphId: d2181f95-3446-48b1-9504-b9e6c054f8c2
+coverImage: good-as-gone.jpg
 ---

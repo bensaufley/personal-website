@@ -12,8 +12,7 @@ yearPublished: 2017
 startedAt: null
 asin:
 narrators:
-coverImageUrl: https://assets.hardcover.app/edition/20416210/content.jpeg
-hardcoverUrl: https://hardcover.app/books/believe-me/editions/30659566
+coverImage: believe-me.jpeg
 ---
 
 Listened on Audible, which adds (as far as I can tell) even _more_ rambling digressions than the book apparently has (in the form of footnotes – called out as such in the audiobook). It's an interesting memoir. Didn't answer a ton of questions – in fact, it prompted a few I still don't have answers for. He discusses "regrets" and then lists things that of course he should be proud of… that one stuck out to me because it was as the book was ending.

@@ -1,22 +1,24 @@
 ---
-title: A Conspiracy of Truths
-subtitle: null
+asin: B07FXXBPNK
 authors:
   - lastName: Rowland
     firstName: Alexandra
+coverImage: a-conspiracy-of-truths.jpg
+finishedAt: 2026-06-18
+isbn10: null
+isbn13: null
 narrators:
   - lastName: Langton
     firstName: James
-yearPublished: 2018
-isbn10: null
-isbn13: null
-asin: B07FXXBPNK
-coverImageUrl: https://assets.hardcover.app/book/354122/c374f631-c356-4f50-9208-cc992fd7bc9c.png
-hardcoverUrl: https://hardcover.app/books/a-conspiracy-of-truths/editions/32333403
+rating: 4
 series:
   name: A Conspiracy of Truths
   volume: 1
-startedAt: null
-finishedAt: null
-rating: null
+startedAt: 2026-06-09
+storygraphId: 13ec1b91-bace-46ac-bec1-528d5a54b48e
+subtitle: null
+title: A Conspiracy of Truths
+yearPublished: 2018
 ---
+
+A delightful read. The whimsical storytelling style, in the voice of the protagonist—very much in the vein of Terry Pratchett and Douglas Adams—could easily be something that took me out of the book, because a voice like that is hard to make natural; but it was very well executed. The constrained first-person perspective had me wishing, at times, to _get out_ and see the world a bit more; but I enjoyed it all the same.

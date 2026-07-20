@@ -14,8 +14,7 @@ asin:
 narrators:
   - lastName: Chilton
     firstName: Karen
-coverImageUrl: https://assets.hardcover.app/edition/30401060/dc42b0fa2bce0963e1958025b5802c6678bda13f.jpeg
-hardcoverUrl: https://hardcover.app/books/the-new-jim-crow/editions/30401060
+coverImage: the-new-jim-crow.jpeg
 ---
 
 I was entirely prepared to give this book five stars but she _totally_ lost me with the pitch to give up (??) affirmative action near the end. I never really got the crux of her argument there so it's possible I just entirely misunderstood it, but it felt way off base, especially on the heels of a section about how “color-blind” policies will never solve these problems.

@@ -1,6 +1,6 @@
 ---
 title: Firewalker
-subtitle:
+subtitle: null
 series:
   name: Worldwalker
   volume: 2
@@ -13,8 +13,8 @@ finishedAt: 2018-08-04
 rating: 4
 yearPublished: 2015
 startedAt: null
-asin:
-narrators:
-coverImageUrl: https://assets.hardcover.app/editions/30489768/4962268420957883.jpg
-hardcoverUrl: https://hardcover.app/books/firewalker-2001/editions/11304423
+asin: null
+narrators: null
+storygraphId: c4628305-e433-49bb-a740-67faf4aa7c39
+coverImage: firewalker.jpg
 ---

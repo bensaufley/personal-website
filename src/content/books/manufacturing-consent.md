@@ -13,12 +13,11 @@ yearPublished: 2017
 isbn10: null
 isbn13: '9781541471870'
 asin: null
-coverImageUrl: https://assets.hardcover.app/book/470376/136a73ba-4e2c-435d-a331-06aef0471330.jpg
-hardcoverUrl: https://hardcover.app/books/manufacturing-consent/editions/32386057
 series: null
-startedAt: 2025-09-05T00:00:00.000Z
-finishedAt: 2025-12-29T00:00:00.000Z
+startedAt: 2025-09-05
+finishedAt: 2025-12-29
 rating: 4.25
+coverImage: manufacturing-consent.jpg
 ---
 
 I think the central premise of this book is extremely compelling, and it gives a large number of examples to prove its point. I guess I was a little surprised, as well, that the general philosophy is _not_ particularly interested in assigning intent to the press it's criticizing, and at times (although I think this was less well fleshed-out) explains some ways in which the manufacturing of consent, the "propaganda model", is almost inevitable simply because of how the information ecosystem is managed by those in power.

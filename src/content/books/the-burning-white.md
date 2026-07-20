@@ -1,20 +1,20 @@
 ---
 title: The Burning White
-subtitle:
+subtitle: null
 series:
   name: Lightbringer
   volume: 5
 authors:
   - lastName: Weeks
     firstName: Brent
-narrators:
+narrators: null
 yearPublished: 2019
 isbn10: '0316251305'
 isbn13: '9780316251303'
-asin:
-coverImageUrl: https://assets.hardcover.app/edition/3389994/1dcf6b59c75acdd14821152741bba2d3158c71d9.jpeg
-hardcoverUrl: https://hardcover.app/books/the-burning-white/editions/3389994
+asin: null
 finishedAt: 2019-11-08
 rating: 4
 startedAt: null
+storygraphId: c695e5b6-40b2-43e5-a587-7a48df921284
+coverImage: the-burning-white.jpg
 ---

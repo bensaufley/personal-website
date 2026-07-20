@@ -1,6 +1,6 @@
 ---
 title: For We Are Many
-subtitle:
+subtitle: null
 series:
   name: Bobiverse
   volume: 2
@@ -9,14 +9,14 @@ authors:
     firstName: Dennis E.
   - lastName: Porter
     firstName: Ray
-isbn10:
-isbn13:
+isbn10: null
+isbn13: null
 finishedAt: 2019-03-18
 rating: 3
 yearPublished: 2017
 startedAt: null
-asin:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/31488149/ef06ef458ae3ab9a347040ffe24592e1aa56062f.jpeg
-hardcoverUrl: https://hardcover.app/books/for-we-are-many/editions/30403945
+asin: null
+narrators: null
+storygraphId: 4481a3a7-fabc-4cfb-a70a-4250a9b873ad
+coverImage: for-we-are-many.jpg
 ---

@@ -1,48 +1,63 @@
-import dayjs, { type Dayjs } from 'dayjs';
+import dayjs from 'dayjs';
 import utc from 'dayjs/plugin/utc';
-import { existsSync, readFileSync } from 'fs';
-import { readdir, readFile } from 'fs/promises';
-import { resolve } from 'path/posix';
+import { styleText } from 'node:util';
+import type { HTMLElement } from 'node-html-parser';
+import TurndownService from 'turndown';
+import { gfm, strikethrough, tables } from 'turndown-plugin-gfm';
+
+export const READ_BOOKS_PATH = '/books-read/bnsfly';
+export const CURRENT_READING_PATH = '/currently-reading/bnsfly';
+export const TO_READ_PATH = '/to-read/bnsfly';
+export const SEARCH_PATH = '/search?search_term=%s';
+
+export const UUID_REGEX = /[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}/i;
 
 dayjs.extend(utc);
 
-const dirname = typeof __dirname !== 'undefined' ? __dirname : import.meta.dirname;
+export { dayjs };
 
-export const parseAuthor = (author: string) => {
-  const parts = author.split(/\s+/g);
-  return {
-    lastName: parts.slice(-1).join(' '),
-    firstName: parts.slice(0, -1).join(' ') || undefined,
-  };
+export const debug = (...args: unknown[]) => {
+  if (process.env.DEBUG) console.debug(styleText(['dim', 'blue'], 'DEBUG: '), ...args);
 };
-export const parseAuthors = (authors: string) => authors.split(/,\s*/g).map(parseAuthor);
-export const defaultDate = await readdir(resolve(dirname, '../../src/content/books'), { withFileTypes: true }).then(
-  (files) =>
-    files.reduce<Dayjs>((maxRead, file) => {
-      if (!file.isFile() && file.name.endsWith('.md')) return maxRead;
 
-      const finishedAt = readFileSync(resolve(dirname, `../../src/content/books/${file.name}`), 'utf-8').match(
-        /^finishedAt: *(.+)$/im,
-      );
-      if (!finishedAt) return maxRead;
-
-      const date = dayjs(finishedAt[1]);
-      return date.isAfter(maxRead) ? date : maxRead;
-    }, dayjs.utc('2020-01-01')),
-);
-
-const tokenPath = resolve(dirname, '../../.hardcover-token');
-export const getToken = (fromArg?: string | undefined) =>
-  Promise.try<string, never[]>(async () => {
-    if (fromArg?.trim()) return fromArg.trim();
-    if (process.env.HARDCOVER_TOKEN?.trim()) return process.env.HARDCOVER_TOKEN.trim();
-    if (existsSync(tokenPath)) {
-      const token = await readFile(resolve(dirname, '../../.hardcover-token'), 'utf-8');
-      if (token.trim()) return token.trim();
-    }
-    throw new Error('Please provide a Hardcover token via argument, HARDCOVER_TOKEN env var, or .hardcover-token file');
-  }).then((token) => {
-    const trimmed = token.trim();
-    if (trimmed.toLocaleLowerCase().startsWith('bearer ')) return trimmed;
-    return `Bearer ${trimmed}`;
+export const turndownService = new TurndownService();
+turndownService.use([gfm, tables, strikethrough]);
+turndownService
+  .addRule('spoiler', {
+    filter: (node) => node.classList.contains('spoiler'),
+    replacement: (content) => `<Spoiler>${content}</Spoiler>`,
+  })
+  .addRule('lineBreak', {
+    filter: 'br',
+    replacement: () => '\n\n',
   });
+
+export const parseName = (name: string) => {
+  const nameParts = name.split(' ').filter(Boolean);
+  return nameParts.length === 1
+    ? { lastName: nameParts[0]! }
+    : { firstName: nameParts.slice(0, -1).join(' '), lastName: nameParts.at(-1)! };
+};
+
+/** It looks like node-html-parser isn't getting selected options via other
+ * methods (select.value, option[selected]) so let's brute-force it */
+const getSelectValue = (select: HTMLElement | null): number | null => {
+  if (!select) return null;
+  const option = select.childNodes.find(
+    (node) => (node as HTMLElement).getAttribute?.('selected') === 'selected',
+  ) as HTMLElement | null;
+  if (!option) return null;
+  const value = option.getAttribute('value');
+  return value ? Number(value) : null;
+};
+
+export const getDateFromForm = (form: HTMLElement, prefix: string): Date | null => {
+  const year = getSelectValue(form.getElementById(`${prefix}_year`));
+  if (!year) return null;
+
+  const month = getSelectValue(form.getElementById(`${prefix}_month`));
+  if (!month) return null;
+
+  const day = getSelectValue(form.getElementById(`${prefix}_day`)) ?? 1;
+  return dayjs.utc(`${year}-${month}-${day}`).toDate();
+};

@@ -1,20 +1,20 @@
 ---
-title: The Blue Place
-subtitle: A Novel
+asin: null
 authors:
   - lastName: Griffith
     firstName: Nicola
-narrators: []
-yearPublished: 1998
+coverImage: the-blue-place.jpg
+finishedAt: null
 isbn10: '0374539197'
 isbn13: '9780374539191'
-asin: null
-coverImageUrl: https://assets.hardcover.app/edition/32117936/43bcc890d6999b9937466f8256d9a793cb2f9e11.jpeg
-hardcoverUrl: https://hardcover.app/books/the-blue-place-a-novel/editions/32117936
+narrators: []
+rating: null
 series:
   name: Aud Torvingen
   volume: 1
 startedAt: 2025-07-16
-finishedAt: null
-rating: null
+storygraphId: 11418b61-51d8-4790-b206-9e8ebf02973b
+subtitle: A Novel
+title: The Blue Place
+yearPublished: 1998
 ---

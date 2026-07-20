@@ -1,6 +1,6 @@
 ---
 title: Red Queen
-subtitle:
+subtitle: null
 series:
   name: Red Queen
   volume: 1
@@ -13,8 +13,8 @@ finishedAt: 2017-08-22
 rating: 2
 yearPublished: 2015
 startedAt: null
-asin:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30399645/4df4773e4e3e1609686b859bd1d4bae90a890ee7.jpeg
-hardcoverUrl: https://hardcover.app/books/red-queen-4b95c61d-da1d-418b-bab8-4971355abd4d/editions/30399645
+asin: null
+narrators: null
+storygraphId: 89b821d2-62d5-467a-bdf7-b5e42bc53aa9
+coverImage: red-queen.jpg
 ---

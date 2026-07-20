@@ -12,8 +12,9 @@ finishedAt: 2024-08-06
 rating: 4
 yearPublished: 2015
 startedAt: null
-asin:
-subtitle:
-narrators:
-hardcoverUrl: https://hardcover.app/books/the-blade-itself/editions/30654933
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 264792ba-1634-4985-953e-312c441179a3
+coverImage: the-blade-itself.jpg
 ---

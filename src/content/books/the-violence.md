@@ -9,9 +9,9 @@ finishedAt: 2022-05-30
 rating: 4.5
 yearPublished: 2022
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30394776/3c0029a2ef430e1a2364e7cb6995edc4751a2913.jpeg
-hardcoverUrl: https://hardcover.app/books/the-violence/editions/30394776
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 6a08f243-7109-4ceb-adbc-a1f0767a0caf
+coverImage: the-violence.jpg
 ---

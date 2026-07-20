@@ -12,11 +12,11 @@ finishedAt: 2019-06-27
 rating: 3
 yearPublished: 2019
 startedAt: null
-asin:
-subtitle:
+asin: null
+subtitle: null
 narrators:
   - lastName: Daniels
     firstName: Luke
-coverImageUrl: https://assets.hardcover.app/edition/30407306/content.jpeg
-hardcoverUrl: https://hardcover.app/books/the-vexed-generation/editions/30407306
+storygraphId: fff5cf2f-ce40-4bb8-9dd1-bf9736a6f8b2
+coverImage: the-vexed-generation.jpg
 ---

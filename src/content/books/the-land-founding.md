@@ -1,22 +1,22 @@
 ---
 title: 'The Land: Founding'
-subtitle:
+subtitle: null
 series:
   name: Chaos Seeds
   volume: 1
 authors:
   - lastName: Kong
     firstName: Aleron
-narrators:
+narrators: null
 yearPublished: 2015
 isbn10: '1535020709'
 isbn13: '9781535020701'
-asin:
-coverImageUrl: https://assets.hardcover.app/external_data/59375069/c7fa3f34ee41bed09d041618a774c1135e40b993.jpeg
-hardcoverUrl: https://hardcover.app/books/the-land-founding/editions/25027703
+asin: null
 finishedAt: 2020-09-21
 rating: 2
 startedAt: null
+storygraphId: 9eab1d31-e70a-4918-915b-e4504fd0c0ac
+coverImage: the-land-founding.jpg
 ---
 
 I was really excited to check this series out. I enjoy the LitRPG genre as I understand it, and I was excited to see that the "founder" of the genre was from an underrepresented group, which I'm trying to make an effort to be mindful of in my reading.

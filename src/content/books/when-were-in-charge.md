@@ -1,6 +1,6 @@
 ---
 title: When We're in Charge
-subtitle: The Next Generation’s Guide to Leadership
+subtitle: The Next Generation's Guide to Leadership
 authors:
   - lastName: Litman
     firstName: Amanda
@@ -11,11 +11,11 @@ yearPublished: 2025
 isbn10: null
 isbn13: '9798349120466'
 asin: null
-coverImageUrl: https://assets.hardcover.app/books/1895673/ff42f301-389a-42ba-bb35-97621ade38b2.jpeg
-hardcoverUrl: https://hardcover.app/books/when-were-in-charge/editions/32186895
+storygraphId: 767774a3-7933-47a3-a888-7e4fb5e7bd73
+coverImage: when-were-in-charge.jpg
 series: null
-startedAt: 2025-08-08T00:00:00.000Z
-finishedAt: 2026-03-10T00:00:00.000Z
+startedAt: 2025-08-08
+finishedAt: 2026-03-10
 rating: 4
 ---
 

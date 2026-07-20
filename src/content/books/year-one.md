@@ -1,6 +1,6 @@
 ---
 title: Year One
-subtitle:
+subtitle: null
 series:
   name: Chronicles of The One
   volume: 1
@@ -13,8 +13,8 @@ finishedAt: 2018-07-13
 rating: 2
 yearPublished: 2017
 startedAt: null
-asin:
-narrators:
-coverImageUrl: https://assets.hardcover.app/external_data/37179946/10a6ed08d423d74ea3b146633e335aa9a843b5f8.jpeg
-hardcoverUrl: https://hardcover.app/books/year-one/editions/25499653
+asin: null
+narrators: null
+storygraphId: 8d11e6d3-ae87-4bcf-a673-ca39d5f61e19
+coverImage: year-one.jpg
 ---

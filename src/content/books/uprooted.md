@@ -9,11 +9,11 @@ finishedAt: 2015-10-14
 rating: 5
 yearPublished: 2015
 startedAt: null
-asin:
-subtitle:
-narrators:
-coverImageUrl: https://assets.hardcover.app/edition/30399522/17a809dbce6e6922d131fe75b357f75eef12392b.jpeg
-hardcoverUrl: https://hardcover.app/books/uprooted/editions/30399522
+asin: null
+subtitle: null
+narrators: null
+storygraphId: 726593f7-4e07-470c-8a8b-b302fc94220f
+coverImage: uprooted.jpg
 ---
 
 I really enjoyed this book. I'd been looking, for a while, for the next book that would capture me, make me care about the characters and really look forward to picking it up again – which hadn't happened since I finished Lev Grossman's Magicians trilogy – and this was it.

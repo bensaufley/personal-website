@@ -1,22 +1,26 @@
 ---
-title: Eulalia!
-subtitle: null
+asin: null
 authors:
   - lastName: Jacques
     firstName: Brian
-narrators:
-  - lastName: Cast
-    firstName: A Full
-yearPublished: 2007
+coverImage: eulalia.jpg
+finishedAt: 2026-04-27
 isbn10: null
 isbn13: '9781428198999'
-asin: null
-coverImageUrl: https://assets.hardcover.app/book/322338/7ade2cf4-21a1-427d-b619-780d88fac087.jpg
-hardcoverUrl: https://hardcover.app/books/eulalia/editions/32388626
+narrators:
+  - lastName: Jacques
+    firstName: Brian
+  - lastName: Cast
+    firstName: Full
+rating: 3
 series:
   name: Redwall
   volume: 19
-startedAt: 2025-11-25T00:00:00.000Z
-finishedAt: null
-rating: null
+startedAt: 2025-11-25
+storygraphId: d4a3962f-d20e-49fa-a1b2-9c02ebe19c57
+subtitle: null
+title: Eulalia!
+yearPublished: 2007
 ---
+
+Wanted to revisit one of my favorite childhood series. Listened to an audiobook that was voiced by Jacques and "A Full Cast," and surprisingly I think that _hurt_ rather than _helped_ my enjoyment. Part of it is simply that I listen to audiobooks at a higher speed, and the range of voices and accents didn't do well in those circumstances: if I listened at 1x it was definitely too slow, but the voices were not a uniform speed, so a reasonable speed for the book was still too fast for certain characters. Jacques's low Liverpudlian accent is lovely, but can also be hard to make out when, e.g., driving. So that's obviously not a criticism of _the book_, but it did affect my enjoyment. The book overall felt a little strangely paced, without a clear rising action and climax. Few of the characteristic feasts, and actually very little time at Redwall at all. It was alright, but certainly not my favorite of the series.

@@ -9,13 +9,13 @@ finishedAt: 2015-12-23
 rating: 4
 yearPublished: 2011
 startedAt: null
-asin:
-subtitle:
+asin: null
+subtitle: null
 narrators:
   - lastName: Fey
     firstName: Tina
-coverImageUrl: https://assets.hardcover.app/edition/30399197/9418327._SX98_.jpg
-hardcoverUrl: https://hardcover.app/books/bossypants/editions/23955702
+storygraphId: 271a91cf-5235-4218-b741-cfd38c7e3263
+coverImage: bossypants.jpg
 ---
 
 Having listened to Amy Poehler's “Yes Please” and Mindy Kaling's “Why Not Me” before this, I'd say this was my favorite of the three. All good, but this one had some of the sharpest stuff in it. Funny stuff, insightful cultural commentary, interesting stories. Each had these (and that's part of why I group them - the other reason being that they're of course all semi-autobiographical books by modern women of comedy), but I felt like this one brought the most.
