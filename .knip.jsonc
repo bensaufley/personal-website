@@ -12,5 +12,5 @@
     "src/components/Pagination/index.tsx",
   ],
   "project": ["*.{ts,cjs}", "**/*.{ts,tsx,astro}"],
-  "ignore": ["**/node_modules/**"],
+  "ignore": ["**/node_modules/**", "src/components/resume/icons.ts"],
 }

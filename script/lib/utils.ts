@@ -41,7 +41,7 @@ export const parseName = (name: string) => {
 
 /** It looks like node-html-parser isn't getting selected options via other
  * methods (select.value, option[selected]) so let's brute-force it */
-export const getSelectValue = (select: HTMLElement | null): number | null => {
+const getSelectValue = (select: HTMLElement | null): number | null => {
   if (!select) return null;
   const option = select.childNodes.find(
     (node) => (node as HTMLElement).getAttribute?.('selected') === 'selected',

@@ -5,7 +5,7 @@ import Skill from './Skill';
 
 import styles from './styles.module.css';
 
-export type IconName = keyof typeof icons;
+type IconName = keyof typeof icons;
 
 export interface SkillInfo {
   name: string;
