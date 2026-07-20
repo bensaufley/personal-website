@@ -1,7 +1,7 @@
 // A helper file to sync all md{,x} files into a Node SQLite db for easier querying and processing.
 import { glob, readFile } from 'node:fs/promises';
 import { basename } from 'node:path';
-import { DatabaseSync } from 'node:sqlite';
+import { DatabaseSync, type SQLOutputValue } from 'node:sqlite';
 import { parse } from 'yaml';
 
 import type { BookFrontmatter } from '~content/config';
@@ -93,7 +93,27 @@ for await (const mdFile of mdFiles) {
   );
 }
 
-const getBookQuery = db.prepare(`
+const resultToFrontmatter = (result: Record<string, SQLOutputValue> | undefined) =>
+  result
+    ? ({
+        slug: result.slug,
+        title: result.title,
+        subtitle: result.subtitle,
+        authors: JSON.parse(result.authors as string),
+        yearPublished: result.yearPublished,
+        isbn10: result.isbn10,
+        isbn13: result.isbn13,
+        asin: result.asin,
+        finishedAt: result.finishedAt ? new Date(Date.parse(result.finishedAt as string)) : null,
+        startedAt: result.startedAt ? new Date(Date.parse(result.startedAt as string)) : null,
+        rating: result.rating,
+        narrators: result.narrators ? JSON.parse(result.narrators as string) : null,
+        storygraphId: result.storygraphId,
+        coverImage: result.coverImage,
+      } as BookFrontmatter)
+    : null;
+
+const getBookBySlugQuery = db.prepare(`
   SELECT
     slug,
     title,
@@ -112,24 +132,25 @@ const getBookQuery = db.prepare(`
   FROM books
   WHERE slug = ?
 `);
-export const getBook = (slug: string) => {
-  const result = getBookQuery.get(slug);
-  if (!result) return null;
+export const getBookBySlug = (slug: string) => resultToFrontmatter(getBookBySlugQuery.get(slug));
 
-  return {
-    slug: result.slug,
-    title: result.title,
-    subtitle: result.subtitle,
-    authors: JSON.parse(result.authors as string),
-    yearPublished: result.yearPublished,
-    isbn10: result.isbn10,
-    isbn13: result.isbn13,
-    asin: result.asin,
-    finishedAt: result.finishedAt ? new Date(Date.parse(result.finishedAt as string)) : null,
-    startedAt: result.startedAt ? new Date(Date.parse(result.startedAt as string)) : null,
-    rating: result.rating,
-    narrators: result.narrators ? JSON.parse(result.narrators as string) : null,
-    storygraphId: result.storygraphId,
-    coverImage: result.coverImage,
-  } as BookFrontmatter;
-};
+const getBookByTsgIdQuery = db.prepare(`
+  SELECT
+    slug,
+    title,
+    subtitle,
+    authors,
+    yearPublished,
+    isbn10,
+    isbn13,
+    asin,
+    finishedAt,
+    startedAt,
+    rating,
+    narrators,
+    storygraphId,
+    coverImage
+  FROM books
+  WHERE storygraphId = ?
+`);
+export const getBookByTsgId = (id: string) => resultToFrontmatter(getBookByTsgIdQuery.get(id));

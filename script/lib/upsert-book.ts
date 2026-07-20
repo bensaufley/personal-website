@@ -1,12 +1,13 @@
-import { confirm } from '@inquirer/prompts';
+import { confirm, input, select } from '@inquirer/prompts';
 import { diffWords } from 'diff';
 import { glob, readFile, rm, writeFile } from 'node:fs/promises';
-import { resolve } from 'node:path';
+import { basename, resolve } from 'node:path';
 import { type InspectColor, styleText } from 'node:util';
 import { parse, stringify } from 'yaml';
 
 import type { BookFrontmatter } from '~content/config';
 
+import { getBookBySlug } from './build-db';
 import { type ProcessedTsgBook, processTsgBook } from './process-tsg-book';
 
 const contentDir = resolve(import.meta.dirname, '../../src/content/books');
@@ -24,62 +25,84 @@ ${stringify(
 )}---
 ${review?.includes('<Spoiler>') ? "\nimport Spoiler from '~components/reading/Spoiler.astro';\n\n" : ''}${review?.trim() ? `\n${review}\n` : ''}`;
 
-export const upsertBook = async (input: string | ProcessedTsgBook) => {
-  const processed = typeof input === 'string' ? await processTsgBook(input) : input;
-  const { slug, review, hasSpoilers, ...frontmatter } = processed;
+const toSentence = (arr: string[]) =>
+  arr.length === 1 ? arr[0] : `${arr.slice(0, -1).join(', ')}${arr.length > 2 ? ',' : ''} and ${arr.at(-1)}`;
+
+export const upsertBook = async (inputValue: string | ProcessedTsgBook) => {
+  const processed = typeof inputValue === 'string' ? await processTsgBook(inputValue) : inputValue;
+  const { slug: processedSlug, review, hasSpoilers, ...frontmatter } = processed;
 
   const newContent = standardize(frontmatter, review);
 
-  const globPath = resolve(contentDir, `${slug}.{md,mdx}`);
-  console.debug('Checking for existing file at ', globPath);
-  const existingFilesGlob = glob(globPath);
-  const existingFiles: string[] = [];
-  for await (const f of existingFilesGlob) {
-    existingFiles.push(f);
-  }
-  const filename = `${slug}.md${hasSpoilers ? 'x' : ''}`;
+  let slug = processedSlug;
+  while (true) {
+    const globPath = resolve(contentDir, `${slug}.{md,mdx}`);
+    console.debug('Checking for existing file at ', globPath);
+    const existingFilesGlob = glob(globPath);
+    const existingFiles: string[] = [];
+    for await (const f of existingFilesGlob) {
+      existingFiles.push(f);
+    }
+    const filename = `${slug}.md${hasSpoilers ? 'x' : ''}`;
 
-  if (existingFiles.length) {
-    const existingContent = await readFile(existingFiles.at(-1)!, 'utf-8');
-    const [, fmRaw, review] = existingContent.split('---');
-    const existingStandardized = standardize(parse(fmRaw!) as BookFrontmatter, review);
-    const diff = diffWords(existingStandardized, newContent);
+    if (existingFiles.length) {
+      const existingContent = await readFile(existingFiles.at(-1)!, 'utf-8');
+      const [, fmRaw, review] = existingContent.split('---');
+      const existingStandardized = standardize(parse(fmRaw!) as BookFrontmatter, review);
+      const diff = diffWords(existingStandardized, newContent);
 
-    // No changes
-    if (diff.length === 1 && !diff[0]!.added && !diff[0]!.removed) {
-      console.log(`No changes for book "${processed.title}"`);
+      // No changes
+      if (diff.length === 1 && !diff[0]?.added && !diff[0]?.removed) {
+        console.log(`No changes for book "${processed.title}"`);
+        return processed;
+      }
+
+      const existingBookData = getBookBySlug(slug);
+
+      const conflictResolveStrategy = await select({
+        message: `A file exists at ${basename(existingFiles.at(-1)!)}${existingBookData ? ` for the book "${existingBookData.title}" by ${toSentence(existingBookData?.authors.map(({ firstName, lastName }) => [firstName, lastName].filter(Boolean).join(' ')))}` : ''}.`,
+        choices: ['Overwrite', 'See Diff', 'Change Slug', 'Skip Import'],
+      });
+
+      if (conflictResolveStrategy === 'Change Slug') {
+        slug = await input({ message: 'Enter a new slug:', prefill: 'editable', default: slug });
+        continue;
+      }
+
+      diff.forEach((part) => {
+        process.stdout.write(
+          styleText(
+            ([part.added && 'green', part.removed && 'bgRedBright'] satisfies (InspectColor | false)[]).filter(
+              (v) => !!v,
+            ),
+            part.value,
+          ),
+        );
+      });
+      console.log();
+
+      if (conflictResolveStrategy === 'See Diff') continue;
+      if (conflictResolveStrategy === 'Skip Import') return processed;
+
+      const save = await confirm({
+        message: `Overwrite existing file "${existingFiles.at(-1)}"?`,
+        default: false,
+      });
+      if (!save) return processed;
+
+      for (const existingFile of existingFiles) {
+        await rm(existingFile);
+      }
+      await writeFile(resolve(contentDir, filename), newContent, 'utf-8');
       return processed;
     }
 
-    diff.forEach((part) => {
-      process.stdout.write(
-        styleText(
-          ([part.added && 'green', part.removed && 'bgRedBright'] satisfies (InspectColor | false)[]).filter(
-            (v) => !!v,
-          ),
-          part.value,
-        ),
-      );
-    });
-    console.log();
-    const save = await confirm({
-      message: `Overwrite existing file "${existingFiles.at(-1)}"?`,
-      default: false,
-    });
-    if (!save) return processed;
-
-    for (const existingFile of existingFiles) {
-      await rm(existingFile);
-    }
-    await writeFile(resolve(contentDir, filename), newContent, 'utf-8');
-  } else {
     console.log(`New Book:\n\n${newContent}\n\n`);
     const save = await confirm({
       message: `Save new file as "${filename}"?`,
       default: true,
     });
     if (save) await writeFile(resolve(contentDir, filename), newContent, 'utf-8');
+    return processed;
   }
-
-  return processed;
 };

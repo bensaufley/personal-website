@@ -7,7 +7,7 @@ import { parse } from 'node-html-parser';
 
 import type { BookFrontmatter } from '~content/config';
 
-import { getBook } from './build-db';
+import { getBookBySlug, getBookByTsgId } from './build-db';
 import { getCsrfToken, rawReq, req } from './tsg-req';
 import { debug, getDateFromForm, parseName, turndownService, UUID_REGEX } from './utils';
 
@@ -54,7 +54,7 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
       .replaceAll(/[^a-z0-9]+/g, '-')
       .replaceAll(/^-+|-+$/g, '');
 
-    const existingBook = getBook(slug);
+    const existingBook = getBookByTsgId(id) ?? getBookBySlug(slug);
 
     const contributors = doc.querySelector('.book-title-author-and-series p:last-of-type')?.textContent.trim();
     const [rawAuthors, rawOthers] = contributors?.split(' with ') ?? [];
