@@ -14,8 +14,8 @@ isbn10: null
 isbn13: '9781541471870'
 asin: null
 series: null
-startedAt: 2025-09-05T00:00:00.000Z
-finishedAt: 2025-12-29T00:00:00.000Z
+startedAt: 2025-09-05
+finishedAt: 2025-12-29
 rating: 4.25
 coverImage: manufacturing-consent.jpg
 ---

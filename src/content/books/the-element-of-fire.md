@@ -15,7 +15,7 @@ series:
   name: Ile-Rien
   volume: 1
 startedAt: null
-finishedAt: 2025-05-23T00:00:00.000Z
+finishedAt: 2025-05-23
 rating: 3.5
 storygraphId: cb7e05dd-df13-44c4-86a6-c481773cc3c9
 coverImage: the-element-of-fire.jpg

@@ -13,7 +13,7 @@ isbn13: '9781250272348'
 asin: '1250272343'
 series: null
 startedAt: null
-finishedAt: 2025-05-10T00:00:00.000Z
+finishedAt: 2025-05-10
 rating: 4
 coverImage: how-are-you-going-to-pay-for-that.jpeg
 ---

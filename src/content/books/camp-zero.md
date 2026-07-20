@@ -16,8 +16,8 @@ isbn10: null
 isbn13: '9781797154152'
 asin: null
 series: null
-startedAt: 2026-02-26T00:00:00.000Z
-finishedAt: 2026-03-01T00:00:00.000Z
+startedAt: 2026-02-26
+finishedAt: 2026-03-01
 rating: 3.75
 storygraphId: b7bd8dd0-4fb9-4a92-a6c5-16f53320af98
 coverImage: camp-zero.jpg

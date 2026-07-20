@@ -27,7 +27,7 @@ isbn13: '9780525529125'
 asin: B06ZZXC8VJ
 series: null
 startedAt: null
-finishedAt: 2025-06-16T00:00:00.000Z
+finishedAt: 2025-06-16
 rating: 2.5
 coverImage: after-on.jpg
 ---

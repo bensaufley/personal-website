@@ -15,7 +15,7 @@ isbn13: '9780593589311'
 asin: null
 series: null
 startedAt: null
-finishedAt: 2025-07-29T00:00:00.000Z
+finishedAt: 2025-07-29
 rating: 3.75
 storygraphId: cfd6dd83-bb6e-4fb4-b2dd-65dd4b5fa087
 coverImage: when-women-were-dragons.jpg

@@ -19,7 +19,7 @@ series:
   name: The First Sister Trilogy
   volume: 1
 startedAt: null
-finishedAt: 2025-07-21T00:00:00.000Z
+finishedAt: 2025-07-21
 rating: 4
 storygraphId: 3b3f7a60-9991-4a94-a890-7ff27167d44b
 coverImage: the-first-sister-2020.jpg

@@ -17,7 +17,7 @@ series:
   name: Susan Ryeland
   volume: 3
 startedAt: null
-finishedAt: 2025-05-26T00:00:00.000Z
+finishedAt: 2025-05-26
 rating: 3.5
 storygraphId: ba3f90a2-11d1-4ec8-8040-acfedfa0f16d
 coverImage: marble-hall-murders.jpg

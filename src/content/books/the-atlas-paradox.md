@@ -32,8 +32,8 @@ asin: null
 series:
   name: The Atlas
   volume: 2
-startedAt: 2025-10-05T00:00:00.000Z
-finishedAt: 2025-10-14T00:00:00.000Z
+startedAt: 2025-10-05
+finishedAt: 2025-10-14
 rating: 3.75
 storygraphId: cafd04fa-534d-4429-bc0b-553717197146
 coverImage: the-atlas-paradox.jpg

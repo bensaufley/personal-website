@@ -14,8 +14,8 @@ asin: B0C6YMCRBM
 series:
   name: Shadow of the Leviathan
   volume: 1
-startedAt: 2025-08-24T00:00:00.000Z
-finishedAt: 2025-08-29T00:00:00.000Z
+startedAt: 2025-08-24
+finishedAt: 2025-08-29
 rating: 5
 storygraphId: a97ae9ff-1aa2-4ea9-a547-f290ac647b61
 coverImage: the-tainted-cup.jpg

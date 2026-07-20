@@ -4,7 +4,7 @@ authors:
   - lastName: Jacques
     firstName: Brian
 coverImage: eulalia.jpg
-finishedAt: 2026-04-27T00:00:00.000Z
+finishedAt: 2026-04-27
 isbn10: null
 isbn13: '9781428198999'
 narrators:
@@ -16,7 +16,7 @@ rating: 3
 series:
   name: Redwall
   volume: 19
-startedAt: 2025-11-25T00:00:00.000Z
+startedAt: 2025-11-25
 storygraphId: d4a3962f-d20e-49fa-a1b2-9c02ebe19c57
 subtitle: null
 title: Eulalia!

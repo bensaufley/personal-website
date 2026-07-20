@@ -32,7 +32,7 @@ const books = defineCollection({
       isbn10: z.string().nullable(),
       isbn13: z.string().nullable(),
       asin: z.string().nullable(),
-      storygraphId: z.string().nullable().optional(),
+      storygraphId: z.string().uuid().nullable().optional(),
       coverImage: z.string().nullable().optional(),
       series: z
         .object({

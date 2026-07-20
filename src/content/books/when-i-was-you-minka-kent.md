@@ -14,8 +14,8 @@ isbn10: null
 isbn13: null
 asin: '1799749819'
 series: null
-startedAt: 2025-08-15T00:00:00.000Z
-finishedAt: 2025-08-16T00:00:00.000Z
+startedAt: 2025-08-15
+finishedAt: 2025-08-16
 rating: 4
 storygraphId: 57f6e4b2-24ae-45ad-9f1b-41526f39faf0
 coverImage: when-i-was-you-minka-kent.jpg

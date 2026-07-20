@@ -21,6 +21,6 @@ storygraphId: 203ec3e8-fe4f-4c97-9a49-6d17be2abb89
 coverImage: you-must-be-new-here.jpg
 series: null
 startedAt: null
-finishedAt: 2026-05-09T00:00:00.000Z
+finishedAt: 2026-05-09
 rating: null
 ---

@@ -14,8 +14,8 @@ asin: B0BZ1V1LVW
 series:
   name: Raisa Susanto
   volume: 1
-startedAt: 2025-08-12T00:00:00.000Z
-finishedAt: 2025-09-30T00:00:00.000Z
+startedAt: 2025-08-12
+finishedAt: 2025-09-30
 rating: 4.5
 storygraphId: eb3c2698-95c0-4a90-9c59-4ee847050204
 coverImage: the-lies-you-wrote.jpg

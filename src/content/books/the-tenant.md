@@ -14,8 +14,8 @@ asin: null
 series:
   name: Kørner and Werner
   volume: 1
-startedAt: 2025-10-22T00:00:00.000Z
-finishedAt: 2025-10-28T00:00:00.000Z
+startedAt: 2025-10-22
+finishedAt: 2025-10-28
 rating: 2.25
 storygraphId: b845eba9-da86-42a1-920c-a9d8e953863f
 coverImage: the-tenant.jpg

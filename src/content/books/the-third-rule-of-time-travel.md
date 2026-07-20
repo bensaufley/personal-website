@@ -12,8 +12,8 @@ isbn10: null
 isbn13: '9781668647721'
 asin: null
 series: null
-startedAt: 2025-09-21T00:00:00.000Z
-finishedAt: 2025-09-25T00:00:00.000Z
+startedAt: 2025-09-21
+finishedAt: 2025-09-25
 rating: 2.75
 storygraphId: 4307c490-a7d5-4695-a961-aa1c7ff60236
 coverImage: the-third-rule-of-time-travel.jpg

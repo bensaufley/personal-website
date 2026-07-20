@@ -14,8 +14,8 @@ asin: null
 series:
   name: Impossible Creatures
   volume: 2
-startedAt: 2026-01-20T00:00:00.000Z
-finishedAt: 2026-01-24T00:00:00.000Z
+startedAt: 2026-01-20
+finishedAt: 2026-01-24
 rating: 4.25
 storygraphId: eb0c09df-3c3e-46d6-987e-a24019bf675e
 coverImage: the-poisoned-king.jpg

@@ -14,8 +14,8 @@ asin: null
 series:
   name: Malazan Book of the Fallen
   volume: 1
-startedAt: 2026-03-02T00:00:00.000Z
-finishedAt: 2026-03-19T00:00:00.000Z
+startedAt: 2026-03-02
+finishedAt: 2026-03-19
 rating: 2.5
 storygraphId: ab298f16-883c-456c-ab09-4444f5956d13
 coverImage: gardens-of-the-moon.jpg

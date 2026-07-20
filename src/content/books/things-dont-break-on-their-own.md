@@ -4,7 +4,7 @@ authors:
   - lastName: Collins
     firstName: Sarah Easter
 coverImage: things-dont-break-on-their-own.jpg
-finishedAt: 2026-06-08T00:00:00.000Z
+finishedAt: 2026-06-08
 isbn10: null
 isbn13: null
 narrators:
@@ -16,7 +16,7 @@ narrators:
     firstName: Emily
 rating: null
 series: null
-startedAt: 2026-06-06T00:00:00.000Z
+startedAt: 2026-06-06
 storygraphId: 49f762ed-b0d5-439d-8051-30cb3f92be16
 subtitle: null
 title: Things Don't Break on Their Own

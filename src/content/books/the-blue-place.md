@@ -12,7 +12,7 @@ rating: null
 series:
   name: Aud Torvingen
   volume: 1
-startedAt: 2025-07-16T00:00:00.000Z
+startedAt: 2025-07-16
 storygraphId: 11418b61-51d8-4790-b206-9e8ebf02973b
 subtitle: A Novel
 title: The Blue Place

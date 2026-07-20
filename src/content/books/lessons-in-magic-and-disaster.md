@@ -16,8 +16,8 @@ isbn10: null
 isbn13: '9781250438439'
 asin: null
 series: null
-startedAt: 2026-02-06T00:00:00.000Z
-finishedAt: 2026-02-11T00:00:00.000Z
+startedAt: 2026-02-06
+finishedAt: 2026-02-11
 rating: 4
 storygraphId: 45a4a25f-74d4-4a09-aa55-df1c276dce1c
 coverImage: lessons-in-magic-and-disaster.jpg

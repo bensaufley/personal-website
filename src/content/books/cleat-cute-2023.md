@@ -11,7 +11,7 @@ isbn13: '9781250873309'
 asin: '1250873304'
 series: null
 startedAt: null
-finishedAt: 2025-07-15T00:00:00.000Z
+finishedAt: 2025-07-15
 rating: 4
 storygraphId: 2139f158-56d0-454a-bfc1-ec4015a091ea
 coverImage: cleat-cute-2023.jpg

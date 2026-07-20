@@ -4,7 +4,7 @@ authors:
   - lastName: McGuire
     firstName: Seanan
 coverImage: where-the-drowned-girls-go.jpg
-finishedAt: 2026-07-15T00:00:00.000Z
+finishedAt: 2026-07-15
 isbn10: null
 isbn13: null
 narrators:
@@ -14,7 +14,7 @@ rating: 3.75
 series:
   name: Wayward Children
   volume: 7
-startedAt: 2026-07-14T00:00:00.000Z
+startedAt: 2026-07-14
 storygraphId: a17c2bce-fe66-4552-b9e3-03e480c3df0c
 subtitle: null
 title: Where the Drowned Girls Go

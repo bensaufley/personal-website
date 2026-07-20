@@ -17,6 +17,6 @@ series:
   name: James Bond - Extended Series
   volume: 48
 startedAt: null
-finishedAt: 2026-05-25T00:00:00.000Z
+finishedAt: 2026-05-25
 rating: null
 ---

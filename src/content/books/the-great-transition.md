@@ -14,8 +14,8 @@ isbn10: '1797155849'
 isbn13: '9781797155845'
 asin: null
 series: null
-startedAt: 2025-08-07T00:00:00.000Z
-finishedAt: 2025-08-15T00:00:00.000Z
+startedAt: 2025-08-07
+finishedAt: 2025-08-15
 rating: 5
 storygraphId: 461e42ac-f3c8-4046-a6c2-6eda0e773e86
 coverImage: the-great-transition.jpg

@@ -13,7 +13,7 @@ isbn13: '9781668641422'
 asin: null
 series: null
 startedAt: null
-finishedAt: 2025-07-09T00:00:00.000Z
+finishedAt: 2025-07-09
 rating: 3
 storygraphId: 282b0327-6d6e-4c9b-80f3-30c4c005fa5e
 coverImage: the-most-2024.jpeg

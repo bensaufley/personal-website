@@ -3,12 +3,14 @@ import { diffWords } from 'diff';
 import { glob, readFile, rm, writeFile } from 'node:fs/promises';
 import { basename, resolve } from 'node:path';
 import { type InspectColor, styleText } from 'node:util';
+import { x } from 'tinyexec';
 import { parse, stringify } from 'yaml';
 
 import type { BookFrontmatter } from '~content/config';
 
 import { getBookBySlug } from './build-db';
 import { type ProcessedTsgBook, processTsgBook } from './process-tsg-book';
+import { dayjs } from './utils';
 
 const contentDir = resolve(import.meta.dirname, '../../src/content/books');
 
@@ -17,13 +19,15 @@ ${stringify(
   Object.fromEntries(
     Object.entries({
       ...frontmatter,
+      startedAt: frontmatter.startedAt ? dayjs.utc(frontmatter.startedAt).format('YYYY-MM-DD') : null,
+      finishedAt: frontmatter.finishedAt ? dayjs.utc(frontmatter.finishedAt).format('YYYY-MM-DD') : null,
       authors: frontmatter.authors.map(({ lastName, firstName }) => ({ lastName, firstName })),
       narrators: frontmatter.narrators?.map(({ lastName, firstName }) => ({ lastName, firstName })) ?? null,
       series: frontmatter.series ? { name: frontmatter.series.name, volume: frontmatter.series.volume } : null,
     }).sort(([a], [b]) => a.localeCompare(b)),
   ),
 )}---
-${review?.includes('<Spoiler>') ? "\nimport Spoiler from '~components/reading/Spoiler.astro';\n\n" : ''}${review?.trim() ? `\n${review}\n` : ''}`;
+${review?.includes('<Spoiler>') ? "\nimport Spoiler from '~components/reading/Spoiler.astro';\n" : ''}${review?.trim() ? `\n${review}\n` : ''}`;
 
 const toSentence = (arr: string[]) =>
   arr.length === 1 ? arr[0] : `${arr.slice(0, -1).join(', ')}${arr.length > 2 ? ',' : ''} and ${arr.at(-1)}`;
@@ -44,6 +48,12 @@ export const upsertBook = async (inputValue: string | ProcessedTsgBook) => {
       existingFiles.push(f);
     }
     const filename = `${slug}.md${hasSpoilers ? 'x' : ''}`;
+
+    const saveToFile = async () => {
+      const fullPath = resolve(contentDir, filename);
+      await writeFile(fullPath, newContent, 'utf-8');
+      await x('npm', ['run', 'format:es', '--', fullPath], { throwOnError: true });
+    };
 
     if (existingFiles.length) {
       const existingContent = await readFile(existingFiles.at(-1)!, 'utf-8');
@@ -86,14 +96,14 @@ export const upsertBook = async (inputValue: string | ProcessedTsgBook) => {
 
       const save = await confirm({
         message: `Overwrite existing file "${existingFiles.at(-1)}"?`,
-        default: false,
+        default: true,
       });
       if (!save) return processed;
 
       for (const existingFile of existingFiles) {
         await rm(existingFile);
       }
-      await writeFile(resolve(contentDir, filename), newContent, 'utf-8');
+      await saveToFile();
       return processed;
     }
 
@@ -102,7 +112,7 @@ export const upsertBook = async (inputValue: string | ProcessedTsgBook) => {
       message: `Save new file as "${filename}"?`,
       default: true,
     });
-    if (save) await writeFile(resolve(contentDir, filename), newContent, 'utf-8');
+    if (save) await saveToFile();
     return processed;
   }
 };

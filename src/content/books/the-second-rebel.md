@@ -25,6 +25,6 @@ series:
   name: The First Sister Trilogy
   volume: 2
 startedAt: null
-finishedAt: 2026-06-06T00:00:00.000Z
+finishedAt: 2026-06-06
 rating: null
 ---

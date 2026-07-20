@@ -4,7 +4,7 @@ authors:
   - lastName: Crouch
     firstName: Blake
 coverImage: abandon.jpg
-finishedAt: 2026-04-27T00:00:00.000Z
+finishedAt: 2026-04-27
 isbn10: '1035000059'
 isbn13: '9781035000050'
 narrators:
@@ -18,7 +18,7 @@ narrators:
     firstName: Max
 rating: 2
 series: null
-startedAt: 2026-04-24T00:00:00.000Z
+startedAt: 2026-04-24
 storygraphId: 3375299d-b181-4968-ad5a-1b34cebed22f
 subtitle: null
 title: Abandon

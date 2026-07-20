@@ -12,8 +12,8 @@ isbn10: '1250354048'
 isbn13: '9781250354044'
 asin: B0CQTQNMR9
 series: null
-startedAt: 2025-09-17T00:00:00.000Z
-finishedAt: 2025-09-21T00:00:00.000Z
+startedAt: 2025-09-17
+finishedAt: 2025-09-21
 rating: 3.5
 storygraphId: cb3ad4a3-a19b-4f04-9aac-4c40c5520ff3
 coverImage: the-last-one-at-the-wedding.jpg

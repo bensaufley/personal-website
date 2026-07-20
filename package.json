@@ -72,6 +72,7 @@
     "stylelint": "^17.4.0",
     "stylelint-config-alphabetical-order": "^2.0.0",
     "stylelint-config-standard": "^40.0.0",
+    "tinyexec": "^1.2.4",
     "tsx": "^4.21.0",
     "turndown": "^7.2.4",
     "turndown-plugin-gfm": "^1.0.2",

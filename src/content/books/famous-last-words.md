@@ -13,7 +13,7 @@ isbn13: '9780063338449'
 asin: '0063338432'
 series: null
 startedAt: null
-finishedAt: 2025-05-11T00:00:00.000Z
+finishedAt: 2025-05-11
 rating: 4
 storygraphId: 2d084c5d-610d-4bc0-9593-777a6151c217
 coverImage: famous-last-words.jpg

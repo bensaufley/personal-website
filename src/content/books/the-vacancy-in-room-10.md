@@ -15,7 +15,7 @@ isbn13: '9781488229503'
 asin: null
 series: null
 startedAt: null
-finishedAt: 2025-07-31T00:00:00.000Z
+finishedAt: 2025-07-31
 rating: 3.5
 storygraphId: 46220bf9-5068-4999-9a16-4b47d9a4f63a
 coverImage: the-vacancy-in-room-10.jpeg

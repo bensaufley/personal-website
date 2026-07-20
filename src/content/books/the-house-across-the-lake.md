@@ -13,7 +13,7 @@ isbn13: null
 asin: null
 series: null
 startedAt: null
-finishedAt: 2025-06-19T00:00:00.000Z
+finishedAt: 2025-06-19
 rating: 3.5
 storygraphId: 13095076-c088-4184-9ed2-f6cf9432efce
 coverImage: the-house-across-the-lake.jpg

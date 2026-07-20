@@ -14,7 +14,7 @@ rating: null
 series:
   name: Burningblade & Silvereye
   volume: 3
-startedAt: 2026-07-16T00:00:00.000Z
+startedAt: 2026-07-16
 storygraphId: fe697681-f9f3-4764-8e56-0861da37e49e
 subtitle: null
 title: Emperor of Ruin

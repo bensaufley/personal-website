@@ -15,7 +15,7 @@ isbn13: '9781488208157'
 asin: null
 series: null
 startedAt: null
-finishedAt: 2025-06-30T00:00:00.000Z
+finishedAt: 2025-06-30
 rating: 4
 storygraphId: bb50a9cb-f3d8-42c0-a11c-ccb3ee0e7a83
 coverImage: the-other-mrs-2020.jpg

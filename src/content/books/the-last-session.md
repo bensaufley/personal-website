@@ -14,8 +14,8 @@ isbn10: null
 isbn13: '9781797183688'
 asin: null
 series: null
-startedAt: 2025-12-27T00:00:00.000Z
-finishedAt: 2025-12-30T00:00:00.000Z
+startedAt: 2025-12-27
+finishedAt: 2025-12-30
 rating: 3
 storygraphId: 16fbc751-c755-4459-a9a5-eabc79b1cab9
 coverImage: the-last-session.jpg

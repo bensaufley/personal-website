@@ -12,8 +12,8 @@ isbn10: null
 isbn13: '9798331939229'
 asin: null
 series: null
-startedAt: 2025-10-18T00:00:00.000Z
-finishedAt: 2025-10-23T00:00:00.000Z
+startedAt: 2025-10-18
+finishedAt: 2025-10-23
 rating: 4
 storygraphId: a7ab656c-bdcb-42fa-b621-38fa2816327f
 coverImage: the-grimoire-grammar-school-parent-teacher-association.jpeg

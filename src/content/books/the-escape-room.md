@@ -15,7 +15,7 @@ isbn13: null
 asin: '1409189538'
 series: null
 startedAt: null
-finishedAt: 2025-06-04T00:00:00.000Z
+finishedAt: 2025-06-04
 rating: 3.5
 storygraphId: 210519bd-c1c0-428d-ae63-a09e06636339
 coverImage: the-escape-room.jpg

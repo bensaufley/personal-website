@@ -17,6 +17,6 @@ storygraphId: 1192961e-321f-41b8-b07f-94069f3b7d16
 coverImage: the-red-winter.jpg
 series: null
 startedAt: null
-finishedAt: 2026-05-08T00:00:00.000Z
+finishedAt: 2026-05-08
 rating: null
 ---

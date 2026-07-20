@@ -15,7 +15,7 @@ series:
   name: Covenant of Steel
   volume: 1
 startedAt: null
-finishedAt: 2025-05-04T00:00:00.000Z
+finishedAt: 2025-05-04
 rating: null
 storygraphId: e520f034-24b3-4278-99ec-227cea53714a
 coverImage: the-pariah.jpg

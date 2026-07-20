@@ -15,7 +15,7 @@ series:
   name: Martin Hench
   volume: 1
 startedAt: null
-finishedAt: 2025-05-08T00:00:00.000Z
+finishedAt: 2025-05-08
 rating: 2
 storygraphId: 0a3348da-3186-4811-a44b-f077be598767
 coverImage: red-team-blues.jpg

@@ -10,8 +10,8 @@ isbn10: null
 isbn13: null
 asin: null
 series: null
-startedAt: 2025-02-14T00:00:00.000Z
-finishedAt: 2025-08-01T00:00:00.000Z
+startedAt: 2025-02-14
+finishedAt: 2025-08-01
 rating: 4
 storygraphId: 2c39be22-a0ad-415a-9913-9c641e151ab1
 coverImage: the-spear-cuts-through-water.jpg

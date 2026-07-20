@@ -4,7 +4,7 @@ authors:
   - lastName: Rowland
     firstName: Alexandra
 coverImage: a-conspiracy-of-truths.jpg
-finishedAt: 2026-06-18T00:00:00.000Z
+finishedAt: 2026-06-18
 isbn10: null
 isbn13: null
 narrators:
@@ -14,7 +14,7 @@ rating: 4
 series:
   name: A Conspiracy of Truths
   volume: 1
-startedAt: 2026-06-09T00:00:00.000Z
+startedAt: 2026-06-09
 storygraphId: 13ec1b91-bace-46ac-bec1-528d5a54b48e
 subtitle: null
 title: A Conspiracy of Truths

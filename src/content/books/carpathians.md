@@ -12,8 +12,8 @@ isbn10: null
 isbn13: null
 asin: null
 series: null
-startedAt: 2025-08-16T00:00:00.000Z
-finishedAt: 2025-08-23T00:00:00.000Z
+startedAt: 2025-08-16
+finishedAt: 2025-08-23
 rating: 3
 storygraphId: 21fef525-1af1-47f5-8819-0b52c59f2541
 coverImage: carpathians.jpg

@@ -12,8 +12,8 @@ isbn10: '1250401798'
 isbn13: '9781250401793'
 asin: null
 series: null
-startedAt: 2025-09-25T00:00:00.000Z
-finishedAt: 2025-10-02T00:00:00.000Z
+startedAt: 2025-09-25
+finishedAt: 2025-10-02
 rating: 4.75
 storygraphId: 54c952bf-b8c9-4fe4-b8c8-60654de13bcb
 coverImage: the-incandescent.jpg

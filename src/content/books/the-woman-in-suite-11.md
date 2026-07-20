@@ -15,7 +15,7 @@ series:
   name: Lo Blacklock
   volume: 2
 startedAt: null
-finishedAt: 2025-07-13T00:00:00.000Z
+finishedAt: 2025-07-13
 rating: 4.5
 storygraphId: e78de9af-d5f6-43dc-9a8d-4de831bb399c
 coverImage: the-woman-in-suite-11.jpg
