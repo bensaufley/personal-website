@@ -24,7 +24,7 @@ narrators:
     firstName: Zuri
 rating: null
 series: null
-startedAt: null
+startedAt: 2026-07-24
 storygraphId: 5ff61559-08ae-4e46-ba12-f9e990348d10
 subtitle: null
 title: The Summer I Ate the Rich

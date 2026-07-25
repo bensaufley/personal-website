@@ -7,6 +7,11 @@ import clsx from 'clsx';
 import Footer from '~components/Footer/index.astro';
 import Gtag from '~components/Gtag.astro';
 import Header from '~components/Header/index.astro';
+import type { Frontmatter } from '~pages/types';
+
+type OpenGraphProps = Omit<Partial<NonNullable<SEOProps['openGraph']>>, 'basic'> & {
+  basic?: Partial<NonNullable<SEOProps['openGraph']>['basic']>;
+};
 
 type ConditionalProps = (
   | {
@@ -17,16 +22,18 @@ type ConditionalProps = (
         pathname: string;
       };
     }
-) & {
-  title: string;
-  description?: string | undefined;
-  image?: string | undefined;
-  openGraph?:
-    | (Omit<Partial<NonNullable<SEOProps['openGraph']>>, 'basic'> & {
-        basic?: Partial<NonNullable<SEOProps['openGraph']>['basic']>;
-      })
-    | undefined;
-};
+) &
+  (
+    | {
+        title: string;
+        description?: string | undefined;
+        image?: string | undefined;
+        openGraph?: OpenGraphProps | undefined;
+      }
+    | {
+        frontmatter: Frontmatter;
+      }
+  );
 
 export type Props = ConditionalProps & {
   class?: string | undefined;
@@ -34,12 +41,16 @@ export type Props = ConditionalProps & {
 
 let pathname: string;
 const { class: className } = Astro.props;
-const {
-  title,
-  description = 'Personal website for Ben Saufley, a software engineer and illustrator from Portland, Maine.',
-  image,
-  openGraph,
-} = Astro.props;
+let title: string;
+let description: string | undefined;
+let image: string | undefined;
+let openGraph: OpenGraphProps | undefined;
+if ('frontmatter' in Astro.props) {
+  ({ title, description } = Astro.props.frontmatter);
+} else {
+  ({ title, description, image, openGraph } = Astro.props);
+}
+description ||= 'Personal website for Ben Saufley, a software engineer and illustrator from Portland, Maine.';
 if ('url' in Astro.props) {
   ({ url: pathname } = Astro.props);
 } else if (Astro.props.request) {
