@@ -14,7 +14,7 @@ rating: null
 series:
   name: Hawthorne and Horowitz Mystery
   volume: 6
-startedAt: null
+startedAt: 2026-08-05
 storygraphId: 8bf52d41-54ff-4933-b669-eaf82931f905
 subtitle: null
 title: A Deadly Episode

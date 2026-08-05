@@ -10,7 +10,7 @@ import type { BookFrontmatter } from '~content/config';
 
 import { getBookBySlug } from './build-db';
 import { type ProcessedTsgBook, processTsgBook } from './process-tsg-book';
-import { dayjs } from './utils';
+import { dayjs, debug } from './utils';
 
 const contentDir = resolve(import.meta.dirname, '../../src/content/books');
 
@@ -41,7 +41,7 @@ export const upsertBook = async (inputValue: string | ProcessedTsgBook) => {
   let slug = processedSlug;
   while (true) {
     const globPath = resolve(contentDir, `${slug}.{md,mdx}`);
-    console.debug('Checking for existing file at ', globPath);
+    debug('Checking for existing file at ', globPath);
     const existingFilesGlob = glob(globPath);
     const existingFiles: string[] = [];
     for await (const f of existingFilesGlob) {
@@ -52,7 +52,9 @@ export const upsertBook = async (inputValue: string | ProcessedTsgBook) => {
     const saveToFile = async () => {
       const fullPath = resolve(contentDir, filename);
       await writeFile(fullPath, newContent, 'utf-8');
-      await x('npm', ['run', 'format:es', '--', fullPath], { throwOnError: true });
+      await x('npm', ['run', 'format:es', '--', fullPath], { throwOnError: true }).then(null, (error) => {
+        console.warn('Formatting failed for file:', fullPath, error.message);
+      });
     };
 
     if (existingFiles.length) {
