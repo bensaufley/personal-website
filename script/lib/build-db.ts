@@ -25,7 +25,8 @@ db.exec(`
     startedAt TEXT,
     rating INTEGER,
     storygraphId TEXT,
-    coverImage TEXT
+    coverImage TEXT,
+    hasReview INTEGER
   );
   CREATE UNIQUE INDEX idx_storygraph_id ON books(storygraphId);
 `);
@@ -48,8 +49,9 @@ const addBook = db.prepare(
       rating,
       narrators,
       storygraphId,
-      coverImage
-    ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+      coverImage,
+      hasReview
+    ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
      ON CONFLICT(slug) DO UPDATE SET
       title=excluded.title,
       subtitle=excluded.subtitle,
@@ -63,7 +65,8 @@ const addBook = db.prepare(
       rating=excluded.rating,
       narrators=excluded.narrators,
       storygraphId=excluded.storygraphId,
-      coverImage=excluded.coverImage
+      coverImage=excluded.coverImage,
+      hasReview=excluded.hasReview
     `,
 );
 
@@ -71,6 +74,7 @@ for await (const mdFile of mdFiles) {
   const content = await readFile(mdFile, 'utf-8');
   const slug = basename(mdFile).split('.').slice(0, -1).join('.');
   const frontmatter = parse(content.split('---')[1]!) as BookFrontmatter;
+  const review = content.split('---').slice(2).join('---').trim();
   addBook.run(
     slug,
     frontmatter.title,
@@ -90,6 +94,7 @@ for await (const mdFile of mdFiles) {
     frontmatter.narrators ? JSON.stringify(frontmatter.narrators) : null,
     frontmatter.storygraphId ?? null,
     frontmatter.coverImage ?? null,
+    review ? 1 : 0,
   );
 }
 
