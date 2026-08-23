@@ -4,7 +4,7 @@ authors:
   - lastName: Lyons
     firstName: Jenn
 coverImage: the-discord-of-gods.jpg
-finishedAt: null
+finishedAt: 2026-08-18
 isbn10: null
 isbn13: null
 narrators:
@@ -18,7 +18,7 @@ rating: null
 series:
   name: A Chorus of Dragons
   volume: 5
-startedAt: null
+startedAt: 2026-08-10
 storygraphId: 3b2fd618-f839-475b-9779-9efaa097e79f
 subtitle: null
 title: The Discord of Gods

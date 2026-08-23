@@ -4,7 +4,7 @@ authors:
   - lastName: Horowitz
     firstName: Anthony
 coverImage: a-deadly-episode.png
-finishedAt: null
+finishedAt: 2026-08-10
 isbn10: null
 isbn13: null
 narrators:

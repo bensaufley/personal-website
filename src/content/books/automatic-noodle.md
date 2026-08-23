@@ -12,7 +12,7 @@ narrators:
     firstName: Em
 rating: null
 series: null
-startedAt: null
+startedAt: 2026-08-22
 storygraphId: 921c11c5-5b77-4153-b85c-deb7255b3ebc
 subtitle: null
 title: Automatic Noodle
