@@ -16,7 +16,7 @@ rating: null
 series:
   name: Amina al-Sirafi
   volume: 1
-startedAt: null
+startedAt: 2026-09-03
 storygraphId: c6c08ddd-67ff-4734-848c-8a2c1d10eb74
 subtitle: null
 title: The Adventures of Amina al-Sirafi

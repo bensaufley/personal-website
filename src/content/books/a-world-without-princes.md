@@ -4,13 +4,13 @@ authors:
   - lastName: Chainani
     firstName: Soman
 coverImage: a-world-without-princes.jpg
-finishedAt: null
+finishedAt: 2026-08-26
 isbn10: null
 isbn13: null
 narrators:
   - lastName: Lee
     firstName: Polly
-rating: null
+rating: 3.5
 series:
   name: The School for Good and Evil
   volume: 2
