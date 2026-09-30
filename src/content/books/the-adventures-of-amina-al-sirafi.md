@@ -4,7 +4,7 @@ authors:
   - lastName: Chakraborty
     firstName: Shannon
 coverImage: the-adventures-of-amina-al-sirafi.jpg
-finishedAt: null
+finishedAt: 2026-09-10
 isbn10: null
 isbn13: null
 narrators:
@@ -12,7 +12,7 @@ narrators:
     firstName: Lameece
   - lastName: Gamal
     firstName: Amin El
-rating: null
+rating: 4.25
 series:
   name: Amina al-Sirafi
   volume: 1
