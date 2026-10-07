@@ -10,7 +10,7 @@ isbn13: null
 narrators:
   - lastName: West
     firstName: Samuel
-rating: null
+rating: 4
 series:
   name: Impossible Creatures
   volume: 3
@@ -20,3 +20,5 @@ subtitle: null
 title: The Neverfear
 yearPublished: 2026
 ---
+
+This is just such a fun series. Continues to deliver warm, heartfelt, magical adventure without feeling saccharine or false.
