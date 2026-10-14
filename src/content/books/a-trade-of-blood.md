@@ -4,13 +4,13 @@ authors:
   - lastName: Bennett
     firstName: Robert Jackson
 coverImage: a-trade-of-blood.jpg
-finishedAt: null
+finishedAt: 2026-10-06
 isbn10: null
 isbn13: null
 narrators:
   - lastName: Fallaize
     firstName: Andrew
-rating: null
+rating: 4.5
 series:
   name: Ana and Din Mysteries
   volume: 3

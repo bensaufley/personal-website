@@ -123,6 +123,19 @@
     position: relative;
     scroll-margin-top: 4.875rem;
 
+    :global(.footnotes) {
+      margin-top: 1em;
+
+      ol {
+        font-size: 0.75rem;
+        padding-left: 1rem;
+      }
+
+      h2 {
+        font-size: 1rem;
+      }
+    }
+
     .cover {
       align-items: center;
       container-type: inline-size;
