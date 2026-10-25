@@ -18,7 +18,7 @@ rating: null
 series:
   name: The Legends of the First Empire
   volume: 5
-startedAt: null
+startedAt: 2026-10-21
 storygraphId: c8fd57f1-7ebb-48d0-bd41-6ae0cf33fcb4
 subtitle: null
 title: Age of Death
