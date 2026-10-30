@@ -12,7 +12,7 @@ rating: null
 series:
   name: Old Man's War
   volume: 4
-startedAt: null
+startedAt: 2026-10-28
 storygraphId: f8381c33-6661-455b-acf5-d8846ddd821d
 subtitle: null
 title: Zoe's Tale
