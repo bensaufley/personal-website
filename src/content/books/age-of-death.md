@@ -25,4 +25,4 @@ title: Age of Death
 yearPublished: 2020
 ---
 
-Not as much to say about this one as the last one. I liked it, there were some interesting ideas about life after death, and I'm excited to read the next one, but at the same time I didn't *love* it like the last one. A solid fantasy novel that I probably won't think about too much in a year or two.
+Not as much to say about this one as the last one. I liked it, there were some interesting ideas about life after death, and I'm excited to read the next one, but at the same time I didn't _love_ it like the last one. A solid fantasy novel that I probably won't think about too much in a year or two.
