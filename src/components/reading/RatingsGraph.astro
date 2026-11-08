@@ -1,6 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 
+import Rating from './Rating';
+
 import styles from './styles.module.css';
 
 const books = await getCollection('books', (book) => !!book.data.finishedAt);
@@ -8,7 +10,7 @@ const books = await getCollection('books', (book) => !!book.data.finishedAt);
 const ratings = books.reduce(
   (acc, { data: { rating } }) => {
     if (rating) {
-      const normalized = (Math.round(rating * 2) / 2).toString();
+      const normalized = (Math.round(rating * 4) / 4).toString();
       acc[normalized] = (acc[normalized] || 0) + 1;
     }
     return acc;
@@ -17,7 +19,7 @@ const ratings = books.reduce(
 );
 const sortedRatings = Object.fromEntries(Object.entries(ratings).sort(([a], [b]) => Number(a) - Number(b)));
 const maxCount = Math.max(...Object.values(sortedRatings));
-const allPossibleRatings = ['1', '1.5', '2', '2.5', '3', '3.5', '4', '4.5', '5'];
+const allPossibleRatings = Array.from({ length: 17 }, (_, i) => i * 0.25 + 1);
 ---
 
 <div class={styles.ratings}>
@@ -30,7 +32,7 @@ const allPossibleRatings = ['1', '1.5', '2', '2.5', '3', '3.5', '4', '4.5', '5']
         title={`Books rated ${rating} / 5`}
         aria-label={`Books rated ${rating} / 5`}
       >
-        <h4 class={styles.ratingLabel}>{rating}</h4>
+        <Rating client:load rating={rating} />
         <div
           class={styles.ratingBar}
           style={{ '--ratingBookFraction': `${((sortedRatings[rating] ?? 0) + 1) / (maxCount + 1)}` }}

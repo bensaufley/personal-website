@@ -7,7 +7,7 @@ import BaseLayout from '~layouts/BaseLayout.astro';
 export const getStaticPaths = async () =>
   (
     await Promise.all(
-      [1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5].map(async (rating) => {
+      Array.from({ length: 4 * 4 + 1 }, (_, i) => i * 0.25 + 1).map(async (rating) => {
         const books = await getCollection('books', (book) => !!book.data.finishedAt && book.data.rating === rating);
         return Array.from({
           length: Math.ceil((books.length || 1) / PER_PAGE),
