@@ -16,7 +16,7 @@ rating: null
 series:
   name: The Bridge Kingdom
   volume: 2
-startedAt: null
+startedAt: 2026-11-07
 storygraphId: 9aeb86ee-bd92-44b5-88ce-a97cb2c57231
 subtitle: null
 title: The Traitor Queen
