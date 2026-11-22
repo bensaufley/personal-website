@@ -165,7 +165,8 @@ export const processTsgBook = async (path: string, force = false): Promise<Proce
         if (reviewUrl) {
           const reviewDoc = await req(reviewUrl);
           const rawReview = reviewDoc.querySelector('.review-explanation > div')?.innerHTML.trim() ?? null;
-          review = rawReview ? turndownService.turndown(rawReview) : null;
+          // Strange occasional thing that inserts non-breaking spaces before italic text.
+          review = rawReview ? turndownService.turndown(rawReview).replaceAll('\xA0', ' ') : null;
           hasSpoilers = !!reviewDoc.querySelector('.spoiler');
         }
         return {

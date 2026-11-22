@@ -11,6 +11,8 @@ export const syncRead = async (since?: Dayjs) => {
   let earliestDate: Dayjs;
   if (since) {
     earliestDate = since;
+  } else if (process.env.EARLIEST_DATE) {
+    earliestDate = dayjs(process.env.EARLIEST_DATE);
   } else {
     const latestBook = db
       .prepare('SELECT MAX(finishedAt) as maxFinishedAt FROM books WHERE finishedAt IS NOT NULL AND hasReview = 1')

@@ -20,12 +20,17 @@ export const debug = (...args: unknown[]) => {
   if (process.env.DEBUG) console.debug(styleText(['dim', 'blue'], 'DEBUG: '), ...args);
 };
 
-export const turndownService = new TurndownService();
+export const turndownService = new TurndownService({
+  emDelimiter: '_',
+  strongDelimiter: '**',
+  codeBlockStyle: 'fenced',
+});
 turndownService.use([gfm, tables, strikethrough]);
 turndownService
   .addRule('spoiler', {
     filter: (node) => node.classList.contains('spoiler'),
-    replacement: (content) => `<Spoiler>${content}</Spoiler>`,
+    replacement: (content) =>
+      `${/^(\s+)/.exec(content)?.[0] ?? ''}<Spoiler>${content.replaceAll(/^\s+|\s+$/g, '')}</Spoiler>${/(\s+)$/.exec(content)?.[0] ?? ''}`,
   })
   .addRule('lineBreak', {
     filter: 'br',
