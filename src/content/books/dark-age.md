@@ -16,7 +16,7 @@ rating: null
 series:
   name: Red Rising Saga
   volume: 5
-startedAt: null
+startedAt: 2026-11-12
 storygraphId: dabb6521-eaf4-429f-b617-6b9a0e98ff01
 subtitle: null
 title: Dark Age
