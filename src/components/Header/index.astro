@@ -25,10 +25,13 @@ const topLevelPages = Object.entries<{ frontmatter: Frontmatter; Icon?: SvgCompo
   }),
 )
   .filter(([filename]) => !/404/.test(filename))
-  .map(([filename, { frontmatter: fm, Icon }]) => {
+  .map(([filename, { frontmatter: fm, Icon, ...rest }]) => {
     const path = `/${relative(resolve('../../pages'), filename)}`;
     const ext = extname(path);
     const isIndex = basename(path, ext) === 'index';
+    if (!fm.title) {
+      throw new Error(`Missing title for page with path: ${path}`, { cause: { frontmatter: fm, Icon, ...rest } });
+    }
     return {
       Icon,
       data: {
